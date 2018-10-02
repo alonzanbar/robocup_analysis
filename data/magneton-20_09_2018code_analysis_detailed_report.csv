@@ -1,0 +1,967 @@
+analizo_loc,analizo_rfc,analizo_npm,analizo_acc,analizo_dit,analizo_npa,analizo_anpm,analizo_cbo,analizo_mmloc,analizo_accm,analizo_noc,analizo__filename,analizo_noa,analizo__module,folder,analizo_lcom4,type,analizo_nom,analizo_amloc,analizo_sc
+0,0,0,4,0,9,0,0,0,0,0,['Drivers/Laser/common.h'],9,player_laser_data,Magneton2Year,0,Magneton,0,0,0
+0,0,0,3,0,2,0,0,0,0,0,['Drivers/Laser/common.h'],2,player_bbox,Magneton2Year,0,Magneton,0,0,0
+0,0,0,8,0,3,0,0,0,0,0,['Drivers/Laser/common.h'],3,player_pose,Magneton2Year,0,Magneton,0,0,0
+0,0,0,1,0,2,0,0,0,0,0,['Drivers/Laser/common.h'],2,player_position2d_cmd_vel,Magneton2Year,0,Magneton,0,0,0
+0,0,0,1,0,2,0,0,0,0,0,['Drivers/Laser/common.h'],2,player_point_2d,Magneton2Year,0,Magneton,0,0,0
+0,0,0,0,0,5,0,0,0,0,0,['Drivers/Laser/common.h'],5,player_ptz_cmd,Magneton2Year,0,Magneton,0,0,0
+0,0,0,1,0,3,0,0,0,0,0,['Drivers/Laser/common.h'],3,player_position2d_data,Magneton2Year,0,Magneton,0,0,0
+0,0,0,0,0,4,0,0,0,0,0,['Drivers/Laser/common.h'],4,player_devaddr,Magneton2Year,0,Magneton,0,0,0
+0,0,0,0,0,0,0,0,0,0,0,['Drivers/Laser/common.h'],0,Drivers/Laser/common,Magneton2Year,0,Magneton,0,0,0
+0,0,0,0,0,2,0,0,0,0,0,['Drivers/Laser/common.h'],2,player_ptz_req_generic,Magneton2Year,0,Magneton,0,0,0
+0,0,0,1,0,2,0,0,0,0,0,['Drivers/Laser/common.h'],2,player_laser_geom,Magneton2Year,0,Magneton,0,0,0
+0,0,0,4,0,6,0,0,0,0,0,['Drivers/Laser/common.h'],6,player_laser_config,Magneton2Year,0,Magneton,0,0,0
+0,0,0,0,0,5,0,0,0,0,0,['Drivers/Laser/common.h'],5,player_ptz_data,Magneton2Year,0,Magneton,0,0,0
+0,0,0,1,0,3,0,0,0,0,0,['Drivers/Laser/common.h'],3,player_position2d_cmd_pos,Magneton2Year,0,Magneton,0,0,0
+0,0,0,2,0,1,0,0,0,0,0,"['Drivers/Laser/urg_laser.h', 'Drivers/Laser/urg_laser.cc']",1,urg_laser_readings,Magneton2Year,0,Magneton,0,0,0
+0,0,0,0,0,0,0,0,0,0,0,"['Drivers/Laser/urg_laser.h', 'Drivers/Laser/urg_laser.cc']",0,Drivers/Laser/urg_laser,Magneton2Year,0,Magneton,0,0,0
+151,50,13,3,0,0,1.30769230769231,2,126,2.69230769230769,0,"['Drivers/Laser/urg_laser.h', 'Drivers/Laser/urg_laser.cc']",2,urg_laser,Magneton2Year,2,Magneton,13,11.6153846153846,4
+11,76,7,4,0,0,0.125,7,4,1,0,"['Drivers/Laser/urg_laser_interface.h', 'Drivers/Laser/urg_laser_interface.cc']",12,urg_laser_interface,Magneton2Year,1,Magneton,8,1.375,7
+26,1,1,0,0,0,0,0,26,5,0,['Drivers/PTZ/magnetonPTZ.cpp'],0,Drivers/PTZ/magnetonPTZ,Magneton2Year,1,Magneton,1,26,0
+216,74,9,0,0,40,1.1,0,56,3.2,0,"['Drivers/PTZ/magnetonPTZ.h', 'Drivers/PTZ/magnetonPTZ.cpp']",46,magnetonPTZ,Magneton2Year,2,Magneton,10,21.6,0
+95,7,2,2,0,7,0.5,1,54,2,0,"['Drivers/Shrimp3Position/ShrimpPositionV2.cpp', 'Drivers/Shrimp3Position/ShrimpPositionV2.h']",7,Drivers/Shrimp3Position/ShrimpPositionV2,Magneton2Year,2,Magneton,2,47.5,2
+542,137,9,1,0,0,0.529411764705882,1,121,6.82352941176471,0,"['Drivers/Shrimp3Position/ShrimpPositionV2.h', 'Drivers/Shrimp3Position/ShrimpPositionV2.cpp']",32,ShrimpPositionV2,Magneton2Year,1,Magneton,17,31.8823529411765,1
+0,0,0,0,0,3,0,0,0,0,0,"['Drivers/Shrimp3Position/ShrimpPositionV2.h', 'Drivers/Shrimp3Position/ShrimpPositionV2.cpp']",3,Position_struct,Magneton2Year,0,Magneton,0,0,0
+0,0,0,0,0,3,0,0,0,0,0,"['Drivers/Shrimp3Position/ShrimpPositionV2.h', 'Drivers/Shrimp3Position/ShrimpPositionV2.cpp']",3,Odometry_struct,Magneton2Year,0,Magneton,0,0,0
+64,4,1,0,0,0,2,2,64,7,0,"['NewCogniTAO/MoveToPlace/boot/boot.cc', 'NewCogniTAO/MoveToPlace/boot/boot.h']",0,NewCogniTAO/MoveToPlace/boot/boot,Magneton2Year,1,Magneton,1,64,2
+0,0,0,0,0,0,0,0,0,0,0,['NewCogniTAO/MoveToPlace/boot/define_domain.h'],0,MoveToPlace/boot/define_domain,Magneton2Year,0,Magneton,0,0,0
+0,0,0,0,0,0,0,0,0,0,0,['NewCogniTAO/MoveToPlace/conditions/domain_player/CndMiddleOfFrame.cpp'],0,MoveToPlace/conditions/domain_player/CndMiddleOfFrame,Magneton2Year,0,Magneton,0,0,0
+0,0,0,0,0,0,0,0,0,0,0,['NewCogniTAO/MoveToPlace/conditions/domain_player/CndPtzAtEndAndAllAnswered.cpp'],0,MoveToPlace/conditions/domain_player/CndPtzAtEndAndAllAnswered,Magneton2Year,0,Magneton,0,0,0
+0,0,0,0,0,0,0,0,0,0,0,['NewCogniTAO/MoveToPlace/conditions/domain_player/CndPtzAtStart.cpp'],0,MoveToPlace/conditions/domain_player/CndPtzAtStart,Magneton2Year,0,Magneton,0,0,0
+72,1,1,0,0,0,2,0,72,15,0,['NewCogniTAO/MoveToPlace/environment/Rgb2Yuv.c'],0,NewCogniTAO/MoveToPlace/environment/Rgb2Yuv,Magneton2Year,1,Magneton,1,72,0
+0,0,0,0,0,0,0,0,0,0,0,['NewCogniTAO/MoveToPlace/robot/RobotShrimp.cpp'],0,NewCogniTAO/MoveToPlace/robot/RobotShrimp,Magneton2Year,0,Magneton,0,0,0
+0,0,0,0,0,0,0,0,0,0,0,"['NewCogniTAO/MoveToPlace/robot/devicesLib/BlobFinder.h', 'NewCogniTAO/MoveToPlace/robot/devicesLib/BlobFinder.cpp']",0,MoveToPlace/robot/devicesLib/BlobFinder,Magneton2Year,0,Magneton,0,0,0
+0,0,0,0,0,0,0,0,0,0,0,"['NewCogniTAO/MoveToPlace/robot/devicesLib/Laser.h', 'NewCogniTAO/MoveToPlace/robot/devicesLib/Laser.cpp']",0,MoveToPlace/robot/devicesLib/Laser,Magneton2Year,0,Magneton,0,0,0
+0,0,0,0,0,0,0,0,0,0,0,"['NewCogniTAO/MoveToPlace/robot/devicesLib/Position.h', 'NewCogniTAO/MoveToPlace/robot/devicesLib/Position.cpp']",0,NewCogniTAO/MoveToPlace/robot/devicesLib/Position,Magneton2Year,0,Magneton,0,0,0
+0,0,0,0,0,0,0,0,0,0,0,"['NewCogniTAO/MoveToPlace/robot/devicesLib/Ptz.h', 'NewCogniTAO/MoveToPlace/robot/devicesLib/Ptz.cpp']",0,MoveToPlace/robot/devicesLib/Ptz,Magneton2Year,0,Magneton,0,0,0
+0,0,0,0,0,0,0,0,0,0,0,"['NewCogniTAO/MoveToPlace/robot/devicesLib/devicesStructs/Blob.h', 'NewCogniTAO/MoveToPlace/robot/devicesLib/devicesStructs/Blob.cpp']",0,MoveToPlace/robot/devicesLib/devicesStructs/Blob,Magneton2Year,0,Magneton,0,0,0
+70,2,2,0,0,0,2.5,0,60,7,0,"['NewCogniTAO/MoveToPlace/robot/devicesLib/domain_art/markerDetectionLite/object.cpp', 'NewCogniTAO/MoveToPlace/robot/devicesLib/domain_art/markerDetectionLite/object.h']",0,MoveToPlace/robot/devicesLib/domain_art/markerDetectionLite/object,Magneton2Year,2,Magneton,2,35,0
+0,0,0,0,0,0,0,0,0,0,0,['NewCogniTAO/MoveToPlace/robot/devicesLib/domain_player/BlobFinder.cpp'],0,MoveToPlace/robot/devicesLib/domain_player/BlobFinder,Magneton2Year,0,Magneton,0,0,0
+0,0,0,0,0,0,0,0,0,0,0,['NewCogniTAO/MoveToPlace/robot/devicesLib/domain_player/Ptz.cpp'],0,MoveToPlace/robot/devicesLib/domain_player/Ptz,Magneton2Year,0,Magneton,0,0,0
+0,0,0,0,0,0,0,0,0,0,0,"['NewCogniTAO/MoveToPlace/robot/devicesLib/domain_player/devicesStructs/PlrBlob.h', 'NewCogniTAO/MoveToPlace/robot/devicesLib/domain_player/devicesStructs/PlrBlob.cpp']",0,MoveToPlace/robot/devicesLib/domain_player/devicesStructs/PlrBlob,Magneton2Year,0,Magneton,0,0,0
+0,0,0,0,0,0,0,0,0,0,0,"['NewCogniTAO/MoveToPlace/robot/devicesLib/domain_shrimp/Laser.h', 'NewCogniTAO/MoveToPlace/robot/devicesLib/domain_shrimp/Laser.cpp']",0,MoveToPlace/robot/devicesLib/domain_shrimp/Laser,Magneton2Year,0,Magneton,0,0,0
+0,0,0,0,0,0,0,0,0,0,0,['NewCogniTAO/MoveToPlace/robot/devicesLib/domain_shrimp/Laser/common.h'],0,NewCogniTAO/MoveToPlace/robot/devicesLib/domain_shrimp/Laser/common,Magneton2Year,0,Magneton,0,0,0
+0,0,0,0,0,0,0,0,0,0,0,"['NewCogniTAO/MoveToPlace/robot/devicesLib/domain_shrimp/Laser/urg_laser.h', 'NewCogniTAO/MoveToPlace/robot/devicesLib/domain_shrimp/Laser/urg_laser.cc']",0,NewCogniTAO/MoveToPlace/robot/devicesLib/domain_shrimp/Laser/urg_laser,Magneton2Year,0,Magneton,0,0,0
+23,1,1,0,0,0,0,0,23,5,0,['NewCogniTAO/MoveToPlace/robot/devicesLib/domain_shrimp/PTZ/magnetonPTZ.cpp'],0,NewCogniTAO/MoveToPlace/robot/devicesLib/domain_shrimp/PTZ/magnetonPTZ,Magneton2Year,1,Magneton,1,23,0
+77,7,2,0,0,12,0.5,1,50,2,0,"['NewCogniTAO/MoveToPlace/robot/devicesLib/domain_shrimp/Position/ShrimpPosition.cpp', 'NewCogniTAO/MoveToPlace/robot/devicesLib/domain_shrimp/Position/ShrimpPosition.h']",12,MoveToPlace/robot/devicesLib/domain_shrimp/Position/ShrimpPosition,Magneton2Year,2,Magneton,2,38.5,2
+86,7,2,0,0,6,0.5,1,52,2,0,"['NewCogniTAO/MoveToPlace/robot/devicesLib/domain_shrimp/Position/ShrimpPositionV2.cpp', 'NewCogniTAO/MoveToPlace/robot/devicesLib/domain_shrimp/Position/ShrimpPositionV2.h']",6,NewCogniTAO/MoveToPlace/robot/devicesLib/domain_shrimp/Position/ShrimpPositionV2,Magneton2Year,2,Magneton,2,43,2
+0,0,0,0,0,0,0,0,0,0,0,['NewCogniTAO/MoveToPlace/robot/devicesLib/domain_shrimp/Ptz.cpp'],0,MoveToPlace/robot/devicesLib/domain_shrimp/Ptz,Magneton2Year,0,Magneton,0,0,0
+0,0,0,0,0,0,0,0,0,0,0,['NewCogniTAO/MoveToPlace/tasks/domain_player/Defines.h'],0,NewCogniTAO/MoveToPlace/tasks/domain_player/Defines,Magneton2Year,0,Magneton,0,0,0
+0,0,0,0,0,0,0,0,0,0,0,['NewCogniTAO/MoveToPlace/tasks/domain_player/TskExecuteSBCGraph.cpp'],0,MoveToPlace/tasks/domain_player/TskExecuteSBCGraph,Magneton2Year,0,Magneton,0,0,0
+0,0,0,0,0,0,0,0,0,0,0,['NewCogniTAO/MoveToPlace/tasks/domain_player/TskMovePtzToStart.cpp'],0,MoveToPlace/tasks/domain_player/TskMovePtzToStart,Magneton2Year,0,Magneton,0,0,0
+0,0,0,0,0,0,0,0,0,0,0,['NewCogniTAO/MoveToPlace/tasks/domain_player/TskTrackLittleLess.cpp'],0,MoveToPlace/tasks/domain_player/TskTrackLittleLess,Magneton2Year,0,Magneton,0,0,0
+0,0,0,0,0,0,0,0,0,0,0,"['NewCogniTAO/MoveToPlace/tasks/domain_player/TskUpdateSBC.cpp', 'NewCogniTAO/MoveToPlace/tasks/domain_player/TskUpdateSBC.h']",0,MoveToPlace/tasks/domain_player/TskUpdateSBC,Magneton2Year,0,Magneton,0,0,0
+47,7,3,0,0,2,0.333333333333333,1,23,1,0,"['NewCogniTAO/MoveToPlace/utils/Utils.cpp', 'NewCogniTAO/MoveToPlace/utils/Utils.h']",2,NewCogniTAO/MoveToPlace/utils/Utils,Magneton2Year,3,Magneton,3,15.6666666666667,3
+1,1,1,0,0,0,1,0,1,1,0,"['NewCogniTAO/MoveToPlace/variables/SrlRobotData.h', 'NewCogniTAO/MoveToPlace/variables/SrlRobotData.cpp']",0,MoveToPlace/variables/SrlRobotData,Magneton2Year,1,Magneton,1,1,0
+9,1,1,0,0,0,2,0,9,1,0,['NewCogniTAO/MoveToPlace/variables/VarOriginalGraph.cpp'],0,MoveToPlace/variables/VarOriginalGraph,Magneton2Year,1,Magneton,1,9,0
+9,1,1,0,0,0,2,0,9,1,0,['NewCogniTAO/MoveToPlace/variables/VarSharedGraph.cpp'],0,MoveToPlace/variables/VarSharedGraph,Magneton2Year,1,Magneton,1,9,0
+64,4,1,0,0,0,2,2,64,7,0,"['NewCogniTAO/RemovalOfRobot/boot/boot.cc', 'NewCogniTAO/RemovalOfRobot/boot/boot.h']",0,NewCogniTAO/RemovalOfRobot/boot/boot,Magneton2Year,1,Magneton,1,64,2
+0,0,0,0,0,0,0,0,0,0,0,['NewCogniTAO/RemovalOfRobot/boot/define_domain.h'],0,RemovalOfRobot/boot/define_domain,Magneton2Year,0,Magneton,0,0,0
+0,0,0,0,0,0,0,0,0,0,0,['NewCogniTAO/RemovalOfRobot/conditions/domain_player/CndMiddleOfFrame.cpp'],0,RemovalOfRobot/conditions/domain_player/CndMiddleOfFrame,Magneton2Year,0,Magneton,0,0,0
+0,0,0,0,0,0,0,0,0,0,0,['NewCogniTAO/RemovalOfRobot/conditions/domain_player/CndPtzAtEndAndAllAnswered.cpp'],0,RemovalOfRobot/conditions/domain_player/CndPtzAtEndAndAllAnswered,Magneton2Year,0,Magneton,0,0,0
+0,0,0,0,0,0,0,0,0,0,0,['NewCogniTAO/RemovalOfRobot/conditions/domain_player/CndPtzAtStart.cpp'],0,RemovalOfRobot/conditions/domain_player/CndPtzAtStart,Magneton2Year,0,Magneton,0,0,0
+72,1,1,0,0,0,2,0,72,15,0,['NewCogniTAO/RemovalOfRobot/environment/Rgb2Yuv.c'],0,NewCogniTAO/RemovalOfRobot/environment/Rgb2Yuv,Magneton2Year,1,Magneton,1,72,0
+0,0,0,0,0,0,0,0,0,0,0,['NewCogniTAO/RemovalOfRobot/robot/RobotShrimp.cpp'],0,NewCogniTAO/RemovalOfRobot/robot/RobotShrimp,Magneton2Year,0,Magneton,0,0,0
+0,0,0,0,0,0,0,0,0,0,0,"['NewCogniTAO/RemovalOfRobot/robot/devicesLib/BlobFinder.h', 'NewCogniTAO/RemovalOfRobot/robot/devicesLib/BlobFinder.cpp']",0,RemovalOfRobot/robot/devicesLib/BlobFinder,Magneton2Year,0,Magneton,0,0,0
+0,0,0,0,0,0,0,0,0,0,0,"['NewCogniTAO/RemovalOfRobot/robot/devicesLib/Laser.h', 'NewCogniTAO/RemovalOfRobot/robot/devicesLib/Laser.cpp']",0,RemovalOfRobot/robot/devicesLib/Laser,Magneton2Year,0,Magneton,0,0,0
+0,0,0,0,0,0,0,0,0,0,0,"['NewCogniTAO/RemovalOfRobot/robot/devicesLib/Position.h', 'NewCogniTAO/RemovalOfRobot/robot/devicesLib/Position.cpp']",0,NewCogniTAO/RemovalOfRobot/robot/devicesLib/Position,Magneton2Year,0,Magneton,0,0,0
+0,0,0,0,0,0,0,0,0,0,0,"['NewCogniTAO/RemovalOfRobot/robot/devicesLib/Ptz.h', 'NewCogniTAO/RemovalOfRobot/robot/devicesLib/Ptz.cpp']",0,RemovalOfRobot/robot/devicesLib/Ptz,Magneton2Year,0,Magneton,0,0,0
+0,0,0,0,0,0,0,0,0,0,0,"['NewCogniTAO/RemovalOfRobot/robot/devicesLib/devicesStructs/Blob.h', 'NewCogniTAO/RemovalOfRobot/robot/devicesLib/devicesStructs/Blob.cpp']",0,RemovalOfRobot/robot/devicesLib/devicesStructs/Blob,Magneton2Year,0,Magneton,0,0,0
+70,2,2,0,0,0,2.5,0,60,7,0,"['NewCogniTAO/RemovalOfRobot/robot/devicesLib/domain_art/markerDetectionLite/object.cpp', 'NewCogniTAO/RemovalOfRobot/robot/devicesLib/domain_art/markerDetectionLite/object.h']",0,RemovalOfRobot/robot/devicesLib/domain_art/markerDetectionLite/object,Magneton2Year,2,Magneton,2,35,0
+0,0,0,0,0,0,0,0,0,0,0,['NewCogniTAO/RemovalOfRobot/robot/devicesLib/domain_player/BlobFinder.cpp'],0,RemovalOfRobot/robot/devicesLib/domain_player/BlobFinder,Magneton2Year,0,Magneton,0,0,0
+0,0,0,0,0,0,0,0,0,0,0,['NewCogniTAO/RemovalOfRobot/robot/devicesLib/domain_player/Ptz.cpp'],0,RemovalOfRobot/robot/devicesLib/domain_player/Ptz,Magneton2Year,0,Magneton,0,0,0
+0,0,0,0,0,0,0,0,0,0,0,"['NewCogniTAO/RemovalOfRobot/robot/devicesLib/domain_player/devicesStructs/PlrBlob.h', 'NewCogniTAO/RemovalOfRobot/robot/devicesLib/domain_player/devicesStructs/PlrBlob.cpp']",0,RemovalOfRobot/robot/devicesLib/domain_player/devicesStructs/PlrBlob,Magneton2Year,0,Magneton,0,0,0
+0,0,0,0,0,0,0,0,0,0,0,"['NewCogniTAO/RemovalOfRobot/robot/devicesLib/domain_shrimp/Laser.h', 'NewCogniTAO/RemovalOfRobot/robot/devicesLib/domain_shrimp/Laser.cpp']",0,RemovalOfRobot/robot/devicesLib/domain_shrimp/Laser,Magneton2Year,0,Magneton,0,0,0
+0,0,0,0,0,0,0,0,0,0,0,['NewCogniTAO/RemovalOfRobot/robot/devicesLib/domain_shrimp/Laser/common.h'],0,NewCogniTAO/RemovalOfRobot/robot/devicesLib/domain_shrimp/Laser/common,Magneton2Year,0,Magneton,0,0,0
+0,0,0,0,0,0,0,0,0,0,0,"['NewCogniTAO/RemovalOfRobot/robot/devicesLib/domain_shrimp/Laser/urg_laser.h', 'NewCogniTAO/RemovalOfRobot/robot/devicesLib/domain_shrimp/Laser/urg_laser.cc']",0,NewCogniTAO/RemovalOfRobot/robot/devicesLib/domain_shrimp/Laser/urg_laser,Magneton2Year,0,Magneton,0,0,0
+23,1,1,0,0,0,0,0,23,5,0,['NewCogniTAO/RemovalOfRobot/robot/devicesLib/domain_shrimp/PTZ/magnetonPTZ.cpp'],0,NewCogniTAO/RemovalOfRobot/robot/devicesLib/domain_shrimp/PTZ/magnetonPTZ,Magneton2Year,1,Magneton,1,23,0
+77,7,2,0,0,12,0.5,1,50,2,0,"['NewCogniTAO/RemovalOfRobot/robot/devicesLib/domain_shrimp/Position/ShrimpPosition.cpp', 'NewCogniTAO/RemovalOfRobot/robot/devicesLib/domain_shrimp/Position/ShrimpPosition.h']",12,RemovalOfRobot/robot/devicesLib/domain_shrimp/Position/ShrimpPosition,Magneton2Year,2,Magneton,2,38.5,2
+86,7,2,0,0,6,0.5,1,52,2,0,"['NewCogniTAO/RemovalOfRobot/robot/devicesLib/domain_shrimp/Position/ShrimpPositionV2.cpp', 'NewCogniTAO/RemovalOfRobot/robot/devicesLib/domain_shrimp/Position/ShrimpPositionV2.h']",6,NewCogniTAO/RemovalOfRobot/robot/devicesLib/domain_shrimp/Position/ShrimpPositionV2,Magneton2Year,2,Magneton,2,43,2
+0,0,0,0,0,0,0,0,0,0,0,['NewCogniTAO/RemovalOfRobot/robot/devicesLib/domain_shrimp/Ptz.cpp'],0,RemovalOfRobot/robot/devicesLib/domain_shrimp/Ptz,Magneton2Year,0,Magneton,0,0,0
+0,0,0,0,0,0,0,0,0,0,0,['NewCogniTAO/RemovalOfRobot/tasks/domain_player/Defines.h'],0,NewCogniTAO/RemovalOfRobot/tasks/domain_player/Defines,Magneton2Year,0,Magneton,0,0,0
+0,0,0,0,0,0,0,0,0,0,0,['NewCogniTAO/RemovalOfRobot/tasks/domain_player/TskExecuteSBCGraph.cpp'],0,RemovalOfRobot/tasks/domain_player/TskExecuteSBCGraph,Magneton2Year,0,Magneton,0,0,0
+0,0,0,0,0,0,0,0,0,0,0,['NewCogniTAO/RemovalOfRobot/tasks/domain_player/TskMovePtzToStart.cpp'],0,RemovalOfRobot/tasks/domain_player/TskMovePtzToStart,Magneton2Year,0,Magneton,0,0,0
+0,0,0,0,0,0,0,0,0,0,0,['NewCogniTAO/RemovalOfRobot/tasks/domain_player/TskTrackComm.cpp'],0,RemovalOfRobot/tasks/domain_player/TskTrackComm,Magneton2Year,0,Magneton,0,0,0
+0,0,0,0,0,0,0,0,0,0,0,['NewCogniTAO/RemovalOfRobot/tasks/domain_player/TskTrackLittleLess.cpp'],0,RemovalOfRobot/tasks/domain_player/TskTrackLittleLess,Magneton2Year,0,Magneton,0,0,0
+0,0,0,0,0,0,0,0,0,0,0,"['NewCogniTAO/RemovalOfRobot/tasks/domain_player/TskUpdateSBC.cpp', 'NewCogniTAO/RemovalOfRobot/tasks/domain_player/TskUpdateSBC.h']",0,RemovalOfRobot/tasks/domain_player/TskUpdateSBC,Magneton2Year,0,Magneton,0,0,0
+47,7,3,0,0,2,0.333333333333333,1,23,1,0,"['NewCogniTAO/RemovalOfRobot/utils/Utils.cpp', 'NewCogniTAO/RemovalOfRobot/utils/Utils.h']",2,NewCogniTAO/RemovalOfRobot/utils/Utils,Magneton2Year,3,Magneton,3,15.6666666666667,3
+1,1,1,0,0,0,1,0,1,1,0,"['NewCogniTAO/RemovalOfRobot/variables/SrlRobotData.h', 'NewCogniTAO/RemovalOfRobot/variables/SrlRobotData.cpp']",0,RemovalOfRobot/variables/SrlRobotData,Magneton2Year,1,Magneton,1,1,0
+9,1,1,0,0,0,2,0,9,1,0,['NewCogniTAO/RemovalOfRobot/variables/VarOriginalGraph.cpp'],0,RemovalOfRobot/variables/VarOriginalGraph,Magneton2Year,1,Magneton,1,9,0
+9,1,1,0,0,0,2,0,9,1,0,['NewCogniTAO/RemovalOfRobot/variables/VarSharedGraph.cpp'],0,RemovalOfRobot/variables/VarSharedGraph,Magneton2Year,1,Magneton,1,9,0
+17,6,3,1,0,0,0,0,9,1,0,"['NewCogniTAO/Shrimp3DriverPlayer2_0_5_v3/Timer.h', 'NewCogniTAO/Shrimp3DriverPlayer2_0_5_v3/Timer.cc']",1,Timer,Magneton2Year,1,Magneton,3,5.66666666666667,0
+0,0,0,0,0,3,0,0,0,0,0,['NewCogniTAO/Shrimp3DriverPlayer2_0_5_v3/common.h'],3,player_position2d_speed_pid_req,Magneton2Year,0,Magneton,0,0,0
+0,0,0,0,0,0,0,0,0,0,0,['NewCogniTAO/Shrimp3DriverPlayer2_0_5_v3/common.h'],0,player_position2d_reset_odom_config,Magneton2Year,0,Magneton,0,0,0
+0,0,0,0,0,2,0,0,0,0,0,['NewCogniTAO/Shrimp3DriverPlayer2_0_5_v3/common.h'],2,player_position2d_speed_prof_req,Magneton2Year,0,Magneton,0,0,0
+0,0,0,0,0,3,0,0,0,0,0,['NewCogniTAO/Shrimp3DriverPlayer2_0_5_v3/common.h'],3,player_position2d_position_pid_req,Magneton2Year,0,Magneton,0,0,0
+0,0,0,0,0,0,0,0,0,0,0,['NewCogniTAO/Shrimp3DriverPlayer2_0_5_v3/common.h'],0,NewCogniTAO/Shrimp3DriverPlayer2_0_5_v3/common,Magneton2Year,0,Magneton,0,0,0
+0,0,0,0,0,1,0,0,0,0,0,['NewCogniTAO/Shrimp3DriverPlayer2_0_5_v3/common.h'],1,player_position2d_velocity_mode_config,Magneton2Year,0,Magneton,0,0,0
+0,0,0,0,0,2,0,0,0,0,0,['NewCogniTAO/Shrimp3DriverPlayer2_0_5_v3/common.h'],2,player_position2d_cmd_vel_head,Magneton2Year,0,Magneton,0,0,0
+0,0,0,1,0,1,0,0,0,0,0,['NewCogniTAO/Shrimp3DriverPlayer2_0_5_v3/common.h'],1,player_position2d_set_odom_req,Magneton2Year,0,Magneton,0,0,0
+0,0,0,0,0,2,0,0,0,0,0,['NewCogniTAO/Shrimp3DriverPlayer2_0_5_v3/common.h'],2,player_position2d_cmd_car,Magneton2Year,0,Magneton,0,0,0
+0,0,0,0,0,9,0,0,0,0,0,['NewCogniTAO/Shrimp3DriverPlayer2_0_5_v3/common.h'],9,playerc_position2d_t,Magneton2Year,0,Magneton,0,0,0
+0,0,0,1,0,1,0,0,0,0,0,['NewCogniTAO/Shrimp3DriverPlayer2_0_5_v3/common.h'],1,player_position2d_power_config,Magneton2Year,0,Magneton,0,0,0
+0,0,0,1,0,2,0,0,0,0,0,['NewCogniTAO/Shrimp3DriverPlayer2_0_5_v3/common.h'],2,player_position2d_geom,Magneton2Year,0,Magneton,0,0,0
+0,0,0,0,0,1,0,0,0,0,0,['NewCogniTAO/Shrimp3DriverPlayer2_0_5_v3/common.h'],1,player_position2d_position_mode_req,Magneton2Year,0,Magneton,0,0,0
+10,9,2,0,0,0,2,1,9,1,0,['NewCogniTAO/Shrimp3DriverPlayer2_0_5_v3/playerc++.h'],0,NewCogniTAO/Shrimp3DriverPlayer2_0_5_v3/playerc++,Magneton2Year,2,Magneton,2,5,2
+81,61,24,13,1,0,1,2,9,1.03846153846154,0,['NewCogniTAO/Shrimp3DriverPlayer2_0_5_v3/playerc++.h'],1,PlayerCc::Position2dProxy,Magneton2Year,6,Magneton,26,3.11538461538462,12
+1,1,1,0,0,0,2,0,1,1,0,['NewCogniTAO/Shrimp3DriverPlayer2_0_5_v3/playerclient.h'],0,NewCogniTAO/Shrimp3DriverPlayer2_0_5_v3/playerclient,Magneton2Year,1,Magneton,1,1,0
+9,8,1,0,0,0,2,1,9,1,0,['NewCogniTAO/Shrimp3DriverPlayer2_0_5_v3/position2dproxy.cc'],0,position2dproxy,Magneton2Year,1,Magneton,1,9,1
+1182,75,24,36,0,39,0.75,12,111,5.70833333333333,0,"['NewCogniTAO/Shrimp3DriverPlayer2_0_5_v3/shrimp3.cc', 'NewCogniTAO/Shrimp3DriverPlayer2_0_5_v3/shrimp3.h']",40,shrimp3,Magneton2Year,15,Magneton,24,49.25,180
+0,0,0,0,0,2,0,0,0,0,0,"['NewCogniTAO/Shrimp3DriverPlayer2_0_5_v3/shrimp3.h', 'NewCogniTAO/Shrimp3DriverPlayer2_0_5_v3/shrimp3.cc']",2,player_shrimp3_cmd_t::@0::@3,Magneton2Year,0,Magneton,0,0,0
+0,0,0,0,0,1,0,0,0,0,0,"['NewCogniTAO/Shrimp3DriverPlayer2_0_5_v3/shrimp3.h', 'NewCogniTAO/Shrimp3DriverPlayer2_0_5_v3/shrimp3.cc']",1,@5::@6,Magneton2Year,0,Magneton,0,0,0
+0,0,0,0,0,1,0,0,0,0,0,"['NewCogniTAO/Shrimp3DriverPlayer2_0_5_v3/shrimp3.h', 'NewCogniTAO/Shrimp3DriverPlayer2_0_5_v3/shrimp3.cc']",1,@5::@9,Magneton2Year,0,Magneton,0,0,0
+0,0,0,0,0,1,0,0,0,0,0,"['NewCogniTAO/Shrimp3DriverPlayer2_0_5_v3/shrimp3.h', 'NewCogniTAO/Shrimp3DriverPlayer2_0_5_v3/shrimp3.cc']",1,player_shrimp3_cmd_t::@0::@2,Magneton2Year,0,Magneton,0,0,0
+0,0,0,0,0,1,0,0,0,0,0,"['NewCogniTAO/Shrimp3DriverPlayer2_0_5_v3/shrimp3.h', 'NewCogniTAO/Shrimp3DriverPlayer2_0_5_v3/shrimp3.cc']",1,@5::@7,Magneton2Year,0,Magneton,0,0,0
+0,0,0,0,0,1,0,0,0,0,0,"['NewCogniTAO/Shrimp3DriverPlayer2_0_5_v3/shrimp3.h', 'NewCogniTAO/Shrimp3DriverPlayer2_0_5_v3/shrimp3.cc']",1,player_shrimp3_cmd_t::@0::@1,Magneton2Year,0,Magneton,0,0,0
+0,0,0,0,0,1,0,0,0,0,0,"['NewCogniTAO/Shrimp3DriverPlayer2_0_5_v3/shrimp3.h', 'NewCogniTAO/Shrimp3DriverPlayer2_0_5_v3/shrimp3.cc']",1,player_shrimp3_cmd_t::@0::@4,Magneton2Year,0,Magneton,0,0,0
+0,0,0,0,0,2,0,0,0,0,0,"['NewCogniTAO/Shrimp3DriverPlayer2_0_5_v3/shrimp3.h', 'NewCogniTAO/Shrimp3DriverPlayer2_0_5_v3/shrimp3.cc']",2,@5::@8,Magneton2Year,0,Magneton,0,0,0
+0,0,0,1,0,10,0,0,0,0,0,"['NewCogniTAO/Shrimp3DriverPlayer2_0_5_v3/shrimp3.h', 'NewCogniTAO/Shrimp3DriverPlayer2_0_5_v3/shrimp3.cc']",10,player_shrimp3_cmd_t,Magneton2Year,0,Magneton,0,0,0
+0,0,0,1,0,1,0,0,0,0,0,"['NewCogniTAO/Shrimp3DriverPlayer2_0_5_v3/shrimp3.h', 'NewCogniTAO/Shrimp3DriverPlayer2_0_5_v3/shrimp3.cc']",1,player_shrimp3_data_t,Magneton2Year,0,Magneton,0,0,0
+0,0,0,0,0,4,0,0,0,0,0,"['NewCogniTAO/Shrimp3DriverPlayer2_0_5_v3/shrimp3.h', 'NewCogniTAO/Shrimp3DriverPlayer2_0_5_v3/shrimp3.cc']",4,player_shrimp3_cmd_t::@0,Magneton2Year,0,Magneton,0,0,0
+0,0,0,0,0,4,0,0,0,0,0,"['NewCogniTAO/Shrimp3DriverPlayer2_0_5_v3/shrimp3.h', 'NewCogniTAO/Shrimp3DriverPlayer2_0_5_v3/shrimp3.cc']",4,@5,Magneton2Year,0,Magneton,0,0,0
+275,108,28,2,0,27,0.586206896551724,1,82,1.93103448275862,0,"['NewCogniTAO/Shrimp3DriverPlayer2_0_5_v3/shrimp3Commands.h', 'NewCogniTAO/Shrimp3DriverPlayer2_0_5_v3/shrimp3Commands.cc']",29,shrimp3_command,Magneton2Year,2,Magneton,29,9.48275862068965,2
+48,44,16,11,0,0,0.6875,1,9,1,0,"['NewCogniTAO/Shrimp3DriverPlayer2_0_5_v3/shrimp3Proxy.h', 'NewCogniTAO/Shrimp3DriverPlayer2_0_5_v3/shrimp3Proxy.cc']",2,shrimp3Proxy,Magneton2Year,5,Magneton,16,3,5
+24,4,3,0,0,0,0,1,17,1.33333333333333,0,"['NewCogniTAO/Shrimp3DriverPlayer2_0_5_v3/test.cpp', 'NewCogniTAO/Shrimp3DriverPlayer2_0_5_v3/test.h']",0,test,Magneton2Year,3,Magneton,3,8,3
+62,3,1,0,0,0,2,1,62,7,0,"['NewCogniTAO/User-WorkingOnStage/boot/boot.cc', 'NewCogniTAO/User-WorkingOnStage/boot/boot.h']",0,NewCogniTAO/User-WorkingOnStage/boot/boot,Magneton2Year,1,Magneton,1,62,1
+0,0,0,0,0,0,0,0,0,0,0,['NewCogniTAO/User-WorkingOnStage/boot/define_domain.h'],0,User-WorkingOnStage/boot/define_domain,Magneton2Year,0,Magneton,0,0,0
+4,4,4,0,1,0,0.25,0,1,1,0,"['NewCogniTAO/User-WorkingOnStage/conditions/domain_player/CndBlobFinderNotSeeColor.h', 'NewCogniTAO/User-WorkingOnStage/conditions/domain_player/CndBlobFinderNotSeeColor.cpp']",1,conditions_domain_player::CndBlobFinderNotSeeColor,Magneton2Year,4,Magneton,4,1,0
+4,4,4,0,1,0,0.25,0,1,1,0,"['NewCogniTAO/User-WorkingOnStage/conditions/domain_player/CndBlobFinderSeeColor.h', 'NewCogniTAO/User-WorkingOnStage/conditions/domain_player/CndBlobFinderSeeColor.cpp']",1,conditions_domain_player::CndBlobFinderSeeColor,Magneton2Year,4,Magneton,4,1,0
+0,0,0,0,0,0,0,0,0,0,0,"['NewCogniTAO/User-WorkingOnStage/robot/devicesLib/domain_player/BlobFinder.h', 'NewCogniTAO/User-WorkingOnStage/robot/devicesLib/domain_player/BlobFinder.cc']",0,User-WorkingOnStage/robot/devicesLib/domain_player/BlobFinder,Magneton2Year,0,Magneton,0,0,0
+0,0,0,0,0,0,0,0,0,0,0,['NewCogniTAO/User-WorkingOnStage/robot/devicesLib/domain_player/Laser.cc'],0,NewCogniTAO/User-WorkingOnStage/robot/devicesLib/domain_player/Laser,Magneton2Year,0,Magneton,0,0,0
+0,0,0,0,0,0,0,0,0,0,0,['NewCogniTAO/User-WorkingOnStage/robot/devicesLib/domain_player/Ptz.cc'],0,NewCogniTAO/User-WorkingOnStage/robot/devicesLib/domain_player/Ptz,Magneton2Year,0,Magneton,0,0,0
+30,20,6,0,3,1,0.5,3,12,1.33333333333333,0,"['NewCogniTAO/User-WorkingOnStage/robot/devicesLib/domain_player/gps.h', 'NewCogniTAO/User-WorkingOnStage/robot/devicesLib/domain_player/gps.cc']",4,player::GPS,Magneton2Year,3,Magneton,6,5,9
+0,0,0,0,0,0,0,0,0,0,0,"['NewCogniTAO/User-WorkingOnStage/robot/devicesLib/domain_shrimp/BlobFinder.h', 'NewCogniTAO/User-WorkingOnStage/robot/devicesLib/domain_shrimp/BlobFinder.cc']",0,User-WorkingOnStage/robot/devicesLib/domain_shrimp/BlobFinder,Magneton2Year,0,Magneton,0,0,0
+6,22,6,0,3,1,0.833333333333333,2,1,1,0,"['NewCogniTAO/User-WorkingOnStage/robot/devicesLib/domain_shrimp/Camera.h', 'NewCogniTAO/User-WorkingOnStage/robot/devicesLib/domain_shrimp/Camera.cc']",5,player::Camera,Magneton2Year,3,Magneton,6,1,6
+2,1,1,1,2,0,1,0,2,1,1,"['NewCogniTAO/User-WorkingOnStage/robot/devicesLib/domain_shrimp/Device.h', 'NewCogniTAO/User-WorkingOnStage/robot/devicesLib/domain_shrimp/Device.cpp']",1,devices_shrimp::Device,Magneton2Year,1,Magneton,1,2,0
+124,31,6,0,3,0,0.545454545454545,2,52,1.72727272727273,0,"['NewCogniTAO/User-WorkingOnStage/robot/devicesLib/domain_shrimp/Motor.h', 'NewCogniTAO/User-WorkingOnStage/robot/devicesLib/domain_shrimp/Motor.cpp']",4,devices_shrimp::Motor,Magneton2Year,4,Magneton,11,11.2727272727273,8
+0,0,0,0,0,0,0,0,0,0,0,"['NewCogniTAO/User-WorkingOnStage/robot/devicesLib/domain_shrimp/Motor.h', 'NewCogniTAO/User-WorkingOnStage/robot/devicesLib/domain_shrimp/Motor.cpp']",0,User-WorkingOnStage/robot/devicesLib/domain_shrimp/Motor,Magneton2Year,0,Magneton,0,0,0
+0,0,0,0,0,0,0,0,0,0,0,['NewCogniTAO/User-WorkingOnStage/robot/devicesLib/domain_shrimp/Ptz.cc'],0,NewCogniTAO/User-WorkingOnStage/robot/devicesLib/domain_shrimp/Ptz,Magneton2Year,0,Magneton,0,0,0
+0,0,0,0,0,0,0,0,0,0,0,['NewCogniTAO/User-WorkingOnStage/tasks/domain_player/Defines.h'],0,NewCogniTAO/User-WorkingOnStage/tasks/domain_player/Defines,Magneton2Year,0,Magneton,0,0,0
+0,0,0,0,0,0,0,0,0,0,0,['NewCogniTAO/User-WorkingOnStage/tasks/domain_player/TskExecuteSBCGraph.cpp'],0,User-WorkingOnStage/tasks/domain_player/TskExecuteSBCGraph,Magneton2Year,0,Magneton,0,0,0
+17,6,6,0,2,0,0.333333333333333,0,4,1,0,"['NewCogniTAO/User-WorkingOnStage/tasks/domain_player/TskKeepDistanceAndAngle.h', 'NewCogniTAO/User-WorkingOnStage/tasks/domain_player/TskKeepDistanceAndAngle.cpp']",1,tasks_domain_player::TskKeepDistanceAndAngle,Magneton2Year,6,Magneton,6,2.83333333333333,0
+0,0,0,0,0,0,0,0,0,0,0,['NewCogniTAO/User-WorkingOnStage/tasks/domain_player/TskTrackLittleLess.cpp'],0,User-WorkingOnStage/tasks/domain_player/TskTrackLittleLess,Magneton2Year,0,Magneton,0,0,0
+0,0,0,0,0,0,0,0,0,0,0,"['NewCogniTAO/User-WorkingOnStage/tasks/domain_player/TskUpdateSBC.cpp', 'NewCogniTAO/User-WorkingOnStage/tasks/domain_player/TskUpdateSBC.h']",0,User-WorkingOnStage/tasks/domain_player/TskUpdateSBC,Magneton2Year,0,Magneton,0,0,0
+47,7,3,0,0,2,0.333333333333333,1,23,1,0,"['NewCogniTAO/User-WorkingOnStage/utils/Utils.cpp', 'NewCogniTAO/User-WorkingOnStage/utils/Utils.h']",2,NewCogniTAO/User-WorkingOnStage/utils/Utils,Magneton2Year,3,Magneton,3,15.6666666666667,3
+1,1,1,0,0,0,1,0,1,1,0,"['NewCogniTAO/User-WorkingOnStage/variables/SrlRobotData.h', 'NewCogniTAO/User-WorkingOnStage/variables/SrlRobotData.cpp']",0,User-WorkingOnStage/variables/SrlRobotData,Magneton2Year,1,Magneton,1,1,0
+9,1,1,0,0,0,2,0,9,1,0,['NewCogniTAO/User-WorkingOnStage/variables/VarOriginalGraph.cpp'],0,User-WorkingOnStage/variables/VarOriginalGraph,Magneton2Year,1,Magneton,1,9,0
+9,1,1,0,0,0,2,0,9,1,0,['NewCogniTAO/User-WorkingOnStage/variables/VarSharedGraph.cpp'],0,User-WorkingOnStage/variables/VarSharedGraph,Magneton2Year,1,Magneton,1,9,0
+64,4,1,0,0,0,2,2,64,7,0,"['NewCogniTAO/User/boot/boot.cc', 'NewCogniTAO/User/boot/boot.h']",0,NewCogniTAO/User/boot/boot,Magneton2Year,1,Magneton,1,64,2
+1,1,1,3,0,0,0,0,1,1,0,"['NewCogniTAO/User/boot/boot.h', 'NewCogniTAO/User/boot/boot.cc']",0,BootHelp,Magneton2Year,1,Magneton,1,1,0
+0,0,0,0,0,0,0,0,0,0,0,['NewCogniTAO/User/boot/define_domain.h'],0,User/boot/define_domain,Magneton2Year,0,Magneton,0,0,0
+3,3,3,0,1,0,0,0,1,1,0,"['NewCogniTAO/User/conditions/domain_player/CndAllTeamReady.h', 'NewCogniTAO/User/conditions/domain_player/CndAllTeamReady.cpp']",0,conditions_domain_player::CndAllTeamReady,Magneton2Year,3,Magneton,3,1,0
+3,3,3,0,1,0,0,0,1,1,0,"['NewCogniTAO/User/conditions/domain_player/CndAllTeamStopped.h', 'NewCogniTAO/User/conditions/domain_player/CndAllTeamStopped.cpp']",0,conditions_domain_player::CndAllTeamStopped,Magneton2Year,3,Magneton,3,1,0
+3,3,3,0,1,0,0,0,1,1,0,"['NewCogniTAO/User/conditions/domain_player/CndBlindCycles.h', 'NewCogniTAO/User/conditions/domain_player/CndBlindCycles.cpp']",0,conditions_domain_player::CndBlindCycles,Magneton2Year,3,Magneton,3,1,0
+6,4,4,0,1,0,0.25,0,3,1,0,"['NewCogniTAO/User/conditions/domain_player/CndBlobFinderNotSeeBlobIdn.h', 'NewCogniTAO/User/conditions/domain_player/CndBlobFinderNotSeeBlobIdn.cpp']",1,conditions_domain_player::CndBlobFinderNotSeeBlobIdn,Magneton2Year,4,Magneton,4,1.5,0
+6,4,4,0,1,0,0.25,0,3,1,0,"['NewCogniTAO/User/conditions/domain_player/CndBlobFinderSeeBlobIdn.h', 'NewCogniTAO/User/conditions/domain_player/CndBlobFinderSeeBlobIdn.cpp']",1,conditions_domain_player::CndBlobFinderSeeBlobIdn,Magneton2Year,4,Magneton,4,1.5,0
+3,3,3,0,1,0,0,0,1,1,0,"['NewCogniTAO/User/conditions/domain_player/CndBlockedWay.h', 'NewCogniTAO/User/conditions/domain_player/CndBlockedWay.cpp']",0,conditions_domain_player::CndBlockedWay,Magneton2Year,3,Magneton,3,1,0
+3,3,3,0,1,0,0,0,1,1,0,"['NewCogniTAO/User/conditions/domain_player/CndCycle.h', 'NewCogniTAO/User/conditions/domain_player/CndCycle.cpp']",0,conditions_domain_player::CndCycle,Magneton2Year,3,Magneton,3,1,0
+3,3,3,0,1,0,0,0,1,1,0,"['NewCogniTAO/User/conditions/domain_player/CndFreeWay.h', 'NewCogniTAO/User/conditions/domain_player/CndFreeWay.cpp']",0,conditions_domain_player::CndFreeWay,Magneton2Year,3,Magneton,3,1,0
+28,5,3,0,1,0,0,1,20,1.66666666666667,0,"['NewCogniTAO/User/conditions/domain_player/CndIAmDead.h', 'NewCogniTAO/User/conditions/domain_player/CndIAmDead.cpp']",0,conditions_domain_player::CndIAmDead,Magneton2Year,3,Magneton,3,9.33333333333333,3
+5,4,4,0,1,0,0.25,0,2,1,0,"['NewCogniTAO/User/conditions/domain_player/CndIsBPOrTimer.h', 'NewCogniTAO/User/conditions/domain_player/CndIsBPOrTimer.cpp']",1,conditions_domain_player::CndIsBPOrTimer,Magneton2Year,4,Magneton,4,1.25,0
+3,3,3,0,1,0,0,0,1,1,0,"['NewCogniTAO/User/conditions/domain_player/CndLaserBlocked.h', 'NewCogniTAO/User/conditions/domain_player/CndLaserBlocked.cpp']",0,conditions_domain_player::CndLaserBlocked,Magneton2Year,3,Magneton,3,1,0
+3,3,3,0,1,0,0,0,1,1,0,"['NewCogniTAO/User/conditions/domain_player/CndLaserNotBlocked.h', 'NewCogniTAO/User/conditions/domain_player/CndLaserNotBlocked.cpp']",0,conditions_domain_player::CndLaserNotBlocked,Magneton2Year,3,Magneton,3,1,0
+0,0,0,0,0,0,0,0,0,0,0,['NewCogniTAO/User/conditions/domain_player/CndMiddleOfFrame.cpp'],0,User/conditions/domain_player/CndMiddleOfFrame,Magneton2Year,0,Magneton,0,0,0
+16,5,5,0,1,0,0,0,12,1,0,"['NewCogniTAO/User/conditions/domain_player/CndMoveToPlace.h', 'NewCogniTAO/User/conditions/domain_player/CndMoveToPlace.cpp']",0,domain_player::CndMoveToPlace,Magneton2Year,5,Magneton,5,3.2,0
+6,9,4,0,1,0,0,4,3,1,0,"['NewCogniTAO/User/conditions/domain_player/CndNotSeeBlobIdnParm.h', 'NewCogniTAO/User/conditions/domain_player/CndNotSeeBlobIdnParm.cpp']",1,conditions_domain_player::CndNotSeeBlobIdnParm,Magneton2Year,4,Magneton,4,1.5,16
+6,10,4,0,1,0,0,4,3,1,0,"['NewCogniTAO/User/conditions/domain_player/CndNotSeeBlobIdnParmAndOdom.h', 'NewCogniTAO/User/conditions/domain_player/CndNotSeeBlobIdnParmAndOdom.cpp']",1,conditions_domain_player::CndNotSeeBlobIdnParmAndOdom,Magneton2Year,4,Magneton,4,1.5,16
+0,0,0,0,0,0,0,0,0,0,0,['NewCogniTAO/User/conditions/domain_player/CndPtzAtEndAndAllAnswered.cpp'],0,User/conditions/domain_player/CndPtzAtEndAndAllAnswered,Magneton2Year,0,Magneton,0,0,0
+0,0,0,0,0,0,0,0,0,0,0,['NewCogniTAO/User/conditions/domain_player/CndPtzAtStart.cpp'],0,User/conditions/domain_player/CndPtzAtStart,Magneton2Year,0,Magneton,0,0,0
+3,3,3,0,1,0,0,0,1,1,0,"['NewCogniTAO/User/conditions/domain_player/CndReadyTaskForAllTeamFound.h', 'NewCogniTAO/User/conditions/domain_player/CndReadyTaskForAllTeamFound.cpp']",0,conditions_domain_player::CndReadyTaskForAllTeamFound,Magneton2Year,3,Magneton,3,1,0
+14,7,5,0,1,0,0.2,1,5,1,0,"['NewCogniTAO/User/conditions/domain_player/CndSearchCycles.h', 'NewCogniTAO/User/conditions/domain_player/CndSearchCycles.cpp']",1,conditions_domain_player::CndSearchCycles,Magneton2Year,5,Magneton,5,2.8,5
+11,10,4,0,1,0,0,4,6,1,0,"['NewCogniTAO/User/conditions/domain_player/CndSeeBlobIdnParm.h', 'NewCogniTAO/User/conditions/domain_player/CndSeeBlobIdnParm.cpp']",1,conditions_domain_player::CndSeeBlobIdnParm,Magneton2Year,4,Magneton,4,2.75,16
+3,3,3,0,1,0,0,0,1,1,0,"['NewCogniTAO/User/conditions/domain_player/CndSubteamDecisionForEachMemberIsKnown.h', 'NewCogniTAO/User/conditions/domain_player/CndSubteamDecisionForEachMemberIsKnown.cpp']",0,conditions_domain_player::CndSubteamDecisionForEachMemberIsKnown,Magneton2Year,3,Magneton,3,1,0
+5,4,4,0,1,0,1,0,2,1,0,"['NewCogniTAO/User/conditions/domain_player/CndTeamSizeXRunnersNum.h', 'NewCogniTAO/User/conditions/domain_player/CndTeamSizeXRunnersNum.cpp']",4,conditions_domain_player::CndTeamSizeXRunnersNum,Magneton2Year,4,Magneton,4,1.25,0
+7,7,6,0,1,0,0.142857142857143,0,1,1,0,"['NewCogniTAO/User/decisions/domain_player/DapFirstAsLeader.h', 'NewCogniTAO/User/decisions/domain_player/DapFirstAsLeader.cpp']",0,decisions_domain_player::DatFirstAsLeader,Magneton2Year,7,Magneton,7,1,0
+5,5,5,0,1,0,0.8,0,1,1,0,"['NewCogniTAO/User/decisions/domain_player/DapFirstAsLeader.h', 'NewCogniTAO/User/decisions/domain_player/DapFirstAsLeader.cpp']",0,decisions_domain_player::DapFirstAsLeader,Magneton2Year,5,Magneton,5,1,0
+5,5,5,0,1,0,0.8,0,1,1,0,"['NewCogniTAO/User/decisions/domain_player/DapFirstReady.h', 'NewCogniTAO/User/decisions/domain_player/DapFirstReady.cpp']",0,decisions_domain_player::DapFirstReady,Magneton2Year,5,Magneton,5,1,0
+7,7,6,0,1,0,0.142857142857143,0,1,1,0,"['NewCogniTAO/User/decisions/domain_player/DapFirstReady.h', 'NewCogniTAO/User/decisions/domain_player/DapFirstReady.cpp']",0,decisions_domain_player::DatFirstReady,Magneton2Year,7,Magneton,7,1,0
+7,7,6,0,1,0,0.142857142857143,0,1,1,0,"['NewCogniTAO/User/decisions/domain_player/DapIdentical.h', 'NewCogniTAO/User/decisions/domain_player/DapIdentical.cpp']",0,decisions_domain_player::DatIdentical,Magneton2Year,7,Magneton,7,1,0
+5,5,5,0,1,0,0.8,0,1,1,0,"['NewCogniTAO/User/decisions/domain_player/DapIdentical.h', 'NewCogniTAO/User/decisions/domain_player/DapIdentical.cpp']",0,decisions_domain_player::DapIdentical,Magneton2Year,5,Magneton,5,1,0
+69,9,6,0,1,0,0.142857142857143,1,50,1.85714285714286,0,"['NewCogniTAO/User/decisions/domain_player/DapManOrGhost.h', 'NewCogniTAO/User/decisions/domain_player/DapManOrGhost.cpp']",0,decisions_domain_player::DatManOrGhost,Magneton2Year,7,Magneton,7,9.85714285714286,7
+22,6,6,0,1,0,0.833333333333333,0,5,1,0,"['NewCogniTAO/User/decisions/domain_player/DapManOrGhost.h', 'NewCogniTAO/User/decisions/domain_player/DapManOrGhost.cpp']",0,decisions_domain_player::DapManOrGhost,Magneton2Year,6,Magneton,6,3.66666666666667,0
+0,0,0,3,0,5,0,0,0,0,0,"['NewCogniTAO/User/decisions/domain_player/DapManOrGhost.h', 'NewCogniTAO/User/decisions/domain_player/DapManOrGhost.cpp']",5,decisions_domain_player::WM_ManOrGhost,Magneton2Year,0,Magneton,0,0,0
+5,1,1,0,1,0,2,0,5,2,0,"['NewCogniTAO/User/decisions/domain_player/DapManOrGhost.h', 'NewCogniTAO/User/decisions/domain_player/DapManOrGhost.cpp']",0,decisions_domain_player::VlgLastDead,Magneton2Year,1,Magneton,1,5,0
+7,7,7,0,1,0,0.142857142857143,0,1,1,0,"['NewCogniTAO/User/decisions/domain_player/DapSelectChildByID.h', 'NewCogniTAO/User/decisions/domain_player/DapSelectChildByID.cpp']",1,decisions::DatSelectChildByID,Magneton2Year,7,Magneton,7,1,0
+13,4,4,0,1,0,0.75,0,4,1,0,"['NewCogniTAO/User/decisions/domain_player/DapSelectChildByID.h', 'NewCogniTAO/User/decisions/domain_player/DapSelectChildByID.cpp']",0,decisions::DapSelectChildByID,Magneton2Year,4,Magneton,4,3.25,0
+18,5,5,0,1,0,0.8,0,5,1,0,"['NewCogniTAO/User/decisions/domain_player/DapSelectLeader.h', 'NewCogniTAO/User/decisions/domain_player/DapSelectLeader.cpp']",0,decisions::DapSelectLeader,Magneton2Year,5,Magneton,5,3.6,0
+7,7,7,0,1,0,0.142857142857143,0,1,1,0,"['NewCogniTAO/User/decisions/domain_player/DapSelectLeader.h', 'NewCogniTAO/User/decisions/domain_player/DapSelectLeader.cpp']",1,decisions::DatSelectLeader,Magneton2Year,7,Magneton,7,1,0
+5,5,5,0,1,0,0.8,0,1,1,0,"['NewCogniTAO/User/decisions/domain_player/DapSequential.h', 'NewCogniTAO/User/decisions/domain_player/DapSequential.cpp']",0,decisions_domain_player::DapSequential,Magneton2Year,5,Magneton,5,1,0
+7,7,6,0,1,0,0.142857142857143,0,1,1,0,"['NewCogniTAO/User/decisions/domain_player/DapSequential.h', 'NewCogniTAO/User/decisions/domain_player/DapSequential.cpp']",0,decisions_domain_player::DatSequential,Magneton2Year,7,Magneton,7,1,0
+10,10,9,0,1,0,0.4,0,1,1,0,"['NewCogniTAO/User/decisions/domain_player/DapTeamAllocation.h', 'NewCogniTAO/User/decisions/domain_player/DapTeamAllocation.cpp']",1,decisions_domain_player::DatTeamAllocation,Magneton2Year,10,Magneton,10,1,0
+4,4,4,0,0,2,1.25,0,1,1,0,"['NewCogniTAO/User/decisions/domain_player/DapTeamAllocation.h', 'NewCogniTAO/User/decisions/domain_player/DapTeamAllocation.cpp']",2,decisions_domain_player::Job,Magneton2Year,4,Magneton,4,1,0
+4,4,4,0,0,2,1.25,0,1,1,0,"['NewCogniTAO/User/decisions/domain_player/DapTeamAllocation.h', 'NewCogniTAO/User/decisions/domain_player/DapTeamAllocation.cpp']",2,decisions_domain_player::Do,Magneton2Year,4,Magneton,4,1,0
+6,6,6,0,1,0,0.833333333333333,0,1,1,0,"['NewCogniTAO/User/decisions/domain_player/DapTeamAllocation.h', 'NewCogniTAO/User/decisions/domain_player/DapTeamAllocation.cpp']",1,decisions_domain_player::DapTeamAllocation,Magneton2Year,6,Magneton,6,1,0
+15,5,5,0,1,0,0.8,0,5,1,0,"['NewCogniTAO/User/decisions/domain_player/DapTogether.h', 'NewCogniTAO/User/decisions/domain_player/DapTogether.cpp']",0,decisions::DapTogether,Magneton2Year,5,Magneton,5,3,0
+14,6,6,0,1,0,0.166666666666667,0,9,1,0,"['NewCogniTAO/User/decisions/domain_player/DapTogether.h', 'NewCogniTAO/User/decisions/domain_player/DapTogether.cpp']",1,decisions::DatTogether,Magneton2Year,6,Magneton,6,2.33333333333333,0
+8,8,7,0,1,0,0.25,0,1,1,0,"['NewCogniTAO/User/decisions/domain_player/DepAllTeamStopped.h', 'NewCogniTAO/User/decisions/domain_player/DepAllTeamStopped.cpp']",1,decisions_domain_player::DetAllTeamStopped,Magneton2Year,8,Magneton,8,1,0
+6,6,6,0,1,0,1,0,1,1,0,"['NewCogniTAO/User/decisions/domain_player/DepAllTeamStopped.h', 'NewCogniTAO/User/decisions/domain_player/DepAllTeamStopped.cpp']",1,decisions_domain_player::DepAllTeamStopped,Magneton2Year,6,Magneton,6,1,0
+7,7,6,0,1,0,0.142857142857143,0,1,1,0,"['NewCogniTAO/User/decisions/domain_player/DnpFirstReady.h', 'NewCogniTAO/User/decisions/domain_player/DnpFirstReady.cpp']",0,decisions_domain_player::DntFirstReady,Magneton2Year,7,Magneton,7,1,0
+6,6,6,0,1,0,0.666666666666667,0,1,1,0,"['NewCogniTAO/User/decisions/domain_player/DnpFirstReady.h', 'NewCogniTAO/User/decisions/domain_player/DnpFirstReady.cpp']",0,decisions_domain_player::DnpFirstReady,Magneton2Year,6,Magneton,6,1,0
+7,7,6,0,1,0,0.142857142857143,0,1,1,0,"['NewCogniTAO/User/decisions/domain_player/DnpFirstReadyForEveryone.h', 'NewCogniTAO/User/decisions/domain_player/DnpFirstReadyForEveryone.cpp']",0,decisions_domain_player::DntFirstReadyForEveryone,Magneton2Year,7,Magneton,7,1,0
+5,5,5,0,1,0,0.8,0,1,1,0,"['NewCogniTAO/User/decisions/domain_player/DnpFirstReadyForEveryone.h', 'NewCogniTAO/User/decisions/domain_player/DnpFirstReadyForEveryone.cpp']",0,decisions_domain_player::DnpFirstReadyForEveryone,Magneton2Year,5,Magneton,5,1,0
+27,8,7,0,1,0,0.142857142857143,1,12,1.28571428571429,0,"['NewCogniTAO/User/decisions/domain_player/DnpSelectFirstBehavior.h', 'NewCogniTAO/User/decisions/domain_player/DnpSelectFirstBehavior.cpp']",2,decisions::DntSelectFirstBehavior,Magneton2Year,7,Magneton,7,3.85714285714286,7
+24,6,6,0,1,0,1,0,5,1,0,"['NewCogniTAO/User/decisions/domain_player/DnpSelectFirstBehavior.h', 'NewCogniTAO/User/decisions/domain_player/DnpSelectFirstBehavior.cpp']",1,decisions::DnpSelectFirstBehavior,Magneton2Year,6,Magneton,6,4,0
+72,1,1,0,0,0,2,0,72,15,0,['NewCogniTAO/User/environment/Rgb2Yuv.c'],0,NewCogniTAO/User/environment/Rgb2Yuv,Magneton2Year,1,Magneton,1,72,0
+9,7,6,0,1,1,0.833333333333333,0,4,1,0,"['NewCogniTAO/User/plans/domain_player/magneton/MntKeyPressed.h', 'NewCogniTAO/User/plans/domain_player/magneton/MntKeyPressed.cpp']",1,plans_domain_player_magneton::MntKeyPressed,Magneton2Year,6,Magneton,6,1.5,0
+25,6,6,0,1,0,0.833333333333333,0,8,1,0,"['NewCogniTAO/User/plans/domain_player/magneton/PlnDead.h', 'NewCogniTAO/User/plans/domain_player/magneton/PlnDead.cpp']",0,plans_domain_player_magneton::PlnDead,Magneton2Year,6,Magneton,6,4.16666666666667,0
+9,6,6,0,1,0,0.666666666666667,0,4,1,0,"['NewCogniTAO/User/plans/domain_player/magneton/PlnInitGraph.h', 'NewCogniTAO/User/plans/domain_player/magneton/PlnInitGraph.cpp']",0,plans_domain_player_magneton::PlnInitGraph,Magneton2Year,6,Magneton,6,1.5,0
+9,6,6,0,1,0,0.666666666666667,0,4,1,0,"['NewCogniTAO/User/plans/domain_player/magneton/PlnInitGraphLine.h', 'NewCogniTAO/User/plans/domain_player/magneton/PlnInitGraphLine.cpp']",0,plans_domain_player_magneton::PlnInitGraphLine,Magneton2Year,6,Magneton,6,1.5,0
+62,10,7,0,1,0,0.857142857142857,1,24,1,0,"['NewCogniTAO/User/plans/domain_player/magneton/PlnMainMission.h', 'NewCogniTAO/User/plans/domain_player/magneton/PlnMainMission.cpp']",0,plans_domain_player_magneton::PlnMainMission,Magneton2Year,7,Magneton,7,8.85714285714286,7
+42,6,6,0,1,0,0.833333333333333,0,25,1,0,"['NewCogniTAO/User/plans/domain_player/magneton/PlnMission.h', 'NewCogniTAO/User/plans/domain_player/magneton/PlnMission.cpp']",0,plans_domain_player_magneton::PlnMission,Magneton2Year,6,Magneton,6,7,0
+9,7,6,0,1,1,0.833333333333333,0,4,1,0,"['NewCogniTAO/User/plans/domain_player/magneton/PlnMoveSimple.h', 'NewCogniTAO/User/plans/domain_player/magneton/PlnMoveSimple.cpp']",1,plans_domain_player_magneton::PlnMoveSimple,Magneton2Year,6,Magneton,6,1.5,0
+10,7,7,0,1,0,0.714285714285714,0,4,1,0,"['NewCogniTAO/User/plans/domain_player/magneton/PlnMoveToPlace.h', 'NewCogniTAO/User/plans/domain_player/magneton/PlnMoveToPlace.cpp']",0,plans_domain_player_magneton::PlnMoveToPlace,Magneton2Year,7,Magneton,7,1.42857142857143,0
+36,6,6,0,1,0,0.666666666666667,0,20,1,0,"['NewCogniTAO/User/plans/domain_player/magneton/PlnMoveWithOdom.h', 'NewCogniTAO/User/plans/domain_player/magneton/PlnMoveWithOdom.cpp']",0,plans_domain_player_magneton::PlnMoveWithOdom,Magneton2Year,6,Magneton,6,6,0
+0,0,0,0,0,0,0,0,0,0,0,['NewCogniTAO/User/plans/domain_player/magneton/PlnRootTest.cpp'],0,User/plans/domain_player/magneton/PlnRootTest,Magneton2Year,0,Magneton,0,0,0
+104,7,7,0,1,0,0.857142857142857,0,75,1.42857142857143,0,"['NewCogniTAO/User/plans/domain_player/magneton/PlnRootTest.h', 'NewCogniTAO/User/plans/domain_player/magneton/PlnRootTest.cpp']",0,plans_domain_player_magneton::PlnRootTest,Magneton2Year,7,Magneton,7,14.8571428571429,0
+29,8,7,0,1,0,0.714285714285714,1,8,1,0,"['NewCogniTAO/User/plans/domain_player/magneton/PlnSearch.h', 'NewCogniTAO/User/plans/domain_player/magneton/PlnSearch.cpp']",0,plans_domain_player_magneton::PlnSearch,Magneton2Year,7,Magneton,7,4.14285714285714,7
+12,6,6,0,1,0,0.666666666666667,0,4,1,0,"['NewCogniTAO/User/plans/domain_player/magneton/PlnTestExecuteSbcGraph.h', 'NewCogniTAO/User/plans/domain_player/magneton/PlnTestExecuteSbcGraph.cpp']",0,plans_domain_player_magneton::PlnTestExecuteSbcGraph,Magneton2Year,6,Magneton,6,2,0
+30,6,6,0,1,0,0.666666666666667,0,14,1,0,"['NewCogniTAO/User/plans/domain_player/magneton/PlnTestExecuteSbcGraphOdom.h', 'NewCogniTAO/User/plans/domain_player/magneton/PlnTestExecuteSbcGraphOdom.cpp']",0,plans_domain_player_magneton::PlnTestExecuteSbcGraphOdom,Magneton2Year,6,Magneton,6,5,0
+12,6,6,0,1,0,0.666666666666667,0,4,1,0,"['NewCogniTAO/User/plans/domain_player/magneton/PlnTrack.h', 'NewCogniTAO/User/plans/domain_player/magneton/PlnTrack.cpp']",0,plans_domain_player_magneton::PlnTrack,Magneton2Year,6,Magneton,6,2,0
+9,6,6,0,1,0,0.666666666666667,0,4,1,0,"['NewCogniTAO/User/plans/domain_player/magneton/PlnTrackComm.h', 'NewCogniTAO/User/plans/domain_player/magneton/PlnTrackComm.cpp']",0,plans_domain_player_magneton::PlnTrackComm,Magneton2Year,6,Magneton,6,1.5,0
+9,6,6,0,1,0,0.666666666666667,0,4,1,0,"['NewCogniTAO/User/plans/domain_player/magneton/PlnUpdateGUI.h', 'NewCogniTAO/User/plans/domain_player/magneton/PlnUpdateGUI.cpp']",0,plans_domain_player_magneton::PlnUpdateGUI,Magneton2Year,6,Magneton,6,1.5,0
+10,4,4,0,1,2,0.25,0,5,1.25,0,['NewCogniTAO/User/robot/RobotShrimp.cpp'],2,robot::UpdatePositionThread,Magneton2Year,4,Magneton,4,2.5,0
+0,0,0,0,0,0,0,0,0,0,0,"['NewCogniTAO/User/robot/devicesLib/BlobFinder.h', 'NewCogniTAO/User/robot/devicesLib/BlobFinder.cpp']",0,User/robot/devicesLib/BlobFinder,Magneton2Year,0,Magneton,0,0,0
+35,20,18,5,2,3,0.611111111111111,1,10,1.16666666666667,2,"['NewCogniTAO/User/robot/devicesLib/BlobFinder.h', 'NewCogniTAO/User/robot/devicesLib/BlobFinder.cpp']",3,magneton_devices::BlobFinder,Magneton2Year,18,Magneton,18,1.94444444444444,18
+12,9,6,46,1,0,0.166666666666667,0,4,1.16666666666667,6,"['NewCogniTAO/User/robot/devicesLib/Device.h', 'NewCogniTAO/User/robot/devicesLib/Device.cpp']",1,devices::Device,Magneton2Year,4,Magneton,6,2,0
+0,0,0,0,0,0,0,0,0,0,0,"['NewCogniTAO/User/robot/devicesLib/Laser.cpp', 'NewCogniTAO/User/robot/devicesLib/Laser.h']",0,User/robot/devicesLib/Laser,Magneton2Year,0,Magneton,0,0,0
+80,44,16,6,2,0,0.722222222222222,3,21,1.61111111111111,2,"['NewCogniTAO/User/robot/devicesLib/Laser.h', 'NewCogniTAO/User/robot/devicesLib/Laser.cpp']",4,magneton_devices::Laser,Magneton2Year,8,Magneton,18,4.44444444444444,24
+0,0,0,0,0,0,0,0,0,0,0,"['NewCogniTAO/User/robot/devicesLib/Position.h', 'NewCogniTAO/User/robot/devicesLib/Position.cpp']",0,NewCogniTAO/User/robot/devicesLib/Position,Magneton2Year,0,Magneton,0,0,0
+94,53,21,8,2,0,0.80952380952381,2,44,1.42857142857143,2,"['NewCogniTAO/User/robot/devicesLib/Position.h', 'NewCogniTAO/User/robot/devicesLib/Position.cpp']",8,magneton_devices::Position,Magneton2Year,10,Magneton,21,4.47619047619048,20
+0,0,0,0,0,0,0,0,0,0,0,"['NewCogniTAO/User/robot/devicesLib/Ptz.h', 'NewCogniTAO/User/robot/devicesLib/Ptz.cpp']",0,User/robot/devicesLib/Ptz,Magneton2Year,0,Magneton,0,0,0
+16,16,16,2,2,0,0.9375,0,1,1,2,"['NewCogniTAO/User/robot/devicesLib/Ptz.h', 'NewCogniTAO/User/robot/devicesLib/Ptz.cpp']",0,magneton_devices::Ptz,Magneton2Year,16,Magneton,16,1,0
+3,3,3,6,0,0,0.333333333333333,0,1,1,2,"['NewCogniTAO/User/robot/devicesLib/devicesStructs/Blob.h', 'NewCogniTAO/User/robot/devicesLib/devicesStructs/Blob.cpp']",0,magneton_devices::BlobID,Magneton2Year,3,Magneton,3,1,0
+6,13,5,10,0,0,0.5,2,1,1,2,"['NewCogniTAO/User/robot/devicesLib/devicesStructs/Blob.h', 'NewCogniTAO/User/robot/devicesLib/devicesStructs/Blob.cpp']",0,magneton_devices::BlobArray,Magneton2Year,3,Magneton,6,1,6
+11,15,11,17,0,1,0.363636363636364,1,1,1,2,"['NewCogniTAO/User/robot/devicesLib/devicesStructs/Blob.h', 'NewCogniTAO/User/robot/devicesLib/devicesStructs/Blob.cpp']",2,magneton_devices::Blob,Magneton2Year,9,Magneton,11,1,9
+0,0,0,0,0,0,0,0,0,0,0,"['NewCogniTAO/User/robot/devicesLib/devicesStructs/Blob.h', 'NewCogniTAO/User/robot/devicesLib/devicesStructs/Blob.cpp']",0,User/robot/devicesLib/devicesStructs/Blob,Magneton2Year,0,Magneton,0,0,0
+2,2,2,0,0,2,0,0,1,1,0,"['NewCogniTAO/User/robot/devicesLib/devicesStructs/BlobTimestemp.h', 'NewCogniTAO/User/robot/devicesLib/devicesStructs/BlobTimestemp.cpp']",2,magneton_devices::BlobTimestemp,Magneton2Year,2,Magneton,2,1,0
+2,2,2,0,0,3,0,0,1,1,0,"['NewCogniTAO/User/robot/devicesLib/devicesStructs/UpdateTimerListEvent.h', 'NewCogniTAO/User/robot/devicesLib/devicesStructs/UpdateTimerListEvent.cpp']",3,device_shrimp::UpdateTimerListEvent,Magneton2Year,2,Magneton,2,1,0
+2,2,2,1,0,0,0,0,1,1,1,"['NewCogniTAO/User/robot/devicesLib/domain_art/ArtDevice.h', 'NewCogniTAO/User/robot/devicesLib/domain_art/ArtDevice.cpp']",0,art_device::ArtDevice,Magneton2Year,2,Magneton,2,1,0
+60,60,18,0,3,5,0.944444444444444,7,30,1.27777777777778,0,"['NewCogniTAO/User/robot/devicesLib/domain_art/BlobFinder.h', 'NewCogniTAO/User/robot/devicesLib/domain_art/BlobFinder.cpp']",7,art_device::BlobFinder,Magneton2Year,9,Magneton,18,3.33333333333333,63
+2,2,2,0,0,2,2,0,1,1,0,"['NewCogniTAO/User/robot/devicesLib/domain_art/BlobFinder.h', 'NewCogniTAO/User/robot/devicesLib/domain_art/BlobFinder.cpp']",2,art_device::PairObjectMarker,Magneton2Year,2,Magneton,2,1,0
+16,45,14,0,1,10,0.857142857142857,3,3,1,0,"['NewCogniTAO/User/robot/devicesLib/domain_art/devicesStructs/ArtBlob.h', 'NewCogniTAO/User/robot/devicesLib/domain_art/devicesStructs/ArtBlob.cpp']",11,art_device::ArtBlob,Magneton2Year,7,Magneton,14,1.14285714285714,21
+3,3,3,1,1,1,0.666666666666667,0,1,1,0,"['NewCogniTAO/User/robot/devicesLib/domain_art/devicesStructs/ArtBlob.h', 'NewCogniTAO/User/robot/devicesLib/domain_art/devicesStructs/ArtBlob.cpp']",1,art_device::ArtBlobArray,Magneton2Year,3,Magneton,3,1,0
+14,7,5,0,1,0,0.8,1,6,1.4,0,"['NewCogniTAO/User/robot/devicesLib/domain_art/devicesStructs/ArtBlob.h', 'NewCogniTAO/User/robot/devicesLib/domain_art/devicesStructs/ArtBlob.cpp']",2,art_device::ArtBlobID,Magneton2Year,5,Magneton,5,2.8,5
+33,93,6,0,1,0,0.833333333333333,3,22,1,0,"['NewCogniTAO/User/robot/devicesLib/domain_art/markerDetectionLite/markerDetectionLite.h', 'NewCogniTAO/User/robot/devicesLib/domain_art/markerDetectionLite/markerDetectionLite.cpp']",19,artoolkit_detector::MarkerDetectorLite,Magneton2Year,2,Magneton,12,2.75,6
+5,5,5,9,0,6,0.2,0,1,1,1,"['NewCogniTAO/User/robot/devicesLib/domain_art/markerDetectionLite/markerDetectionLite.h', 'NewCogniTAO/User/robot/devicesLib/domain_art/markerDetectionLite/markerDetectionLite.cpp']",6,artoolkit_detector::MarkerDetectorServer,Magneton2Year,5,Magneton,5,1,0
+3,3,3,2,0,0,2.66666666666667,0,1,1,1,"['NewCogniTAO/User/robot/devicesLib/domain_art/markerDetectionLite/markerDetectionLite.h', 'NewCogniTAO/User/robot/devicesLib/domain_art/markerDetectionLite/markerDetectionLite.cpp']",0,artoolkit_detector::MarkerDetectorClient,Magneton2Year,3,Magneton,3,1,0
+70,2,2,1,0,0,2.5,0,60,7,0,"['NewCogniTAO/User/robot/devicesLib/domain_art/markerDetectionLite/object.cpp', 'NewCogniTAO/User/robot/devicesLib/domain_art/markerDetectionLite/object.h']",0,User/robot/devicesLib/domain_art/markerDetectionLite/object,Magneton2Year,2,Magneton,2,35,0
+0,0,0,2,0,12,0,0,0,0,0,"['NewCogniTAO/User/robot/devicesLib/domain_art/markerDetectionLite/object.h', 'NewCogniTAO/User/robot/devicesLib/domain_art/markerDetectionLite/object.cpp']",12,artoolkit_detector::ObjectData_T,Magneton2Year,0,Magneton,0,0,0
+0,0,0,0,0,0,0,0,0,0,0,['NewCogniTAO/User/robot/devicesLib/domain_player/BlobFinder.cpp'],0,User/robot/devicesLib/domain_player/BlobFinder,Magneton2Year,0,Magneton,0,0,0
+33,45,20,10,3,3,0.8,5,10,1.1,0,"['NewCogniTAO/User/robot/devicesLib/domain_player/BlobFinder.h', 'NewCogniTAO/User/robot/devicesLib/domain_player/BlobFinder.cpp']",9,player::BlobFinder,Magneton2Year,15,Magneton,20,1.65,75
+27,46,14,6,3,3,0.666666666666667,3,10,1.13333333333333,0,"['NewCogniTAO/User/robot/devicesLib/domain_player/Laser.h', 'NewCogniTAO/User/robot/devicesLib/domain_player/Laser.cpp']",3,player::Laser,Magneton2Year,7,Magneton,15,1.8,21
+61,34,15,32,3,1,0.666666666666667,1,14,1.33333333333333,0,"['NewCogniTAO/User/robot/devicesLib/domain_player/Motor.h', 'NewCogniTAO/User/robot/devicesLib/domain_player/Motor.cpp']",2,player::Motor,Magneton2Year,7,Magneton,15,4.06666666666667,7
+2,2,2,4,0,0,0.5,0,1,1,4,"['NewCogniTAO/User/robot/devicesLib/domain_player/PlrDevice.h', 'NewCogniTAO/User/robot/devicesLib/domain_player/PlrDevice.cpp']",0,player::PlrDevice,Magneton2Year,2,Magneton,2,1,0
+0,0,0,0,0,0,0,0,0,0,0,['NewCogniTAO/User/robot/devicesLib/domain_player/Ptz.cpp'],0,User/robot/devicesLib/domain_player/Ptz,Magneton2Year,0,Magneton,0,0,0
+33,47,18,19,3,1,1.05555555555556,2,14,1.05555555555556,0,"['NewCogniTAO/User/robot/devicesLib/domain_player/Ptz.h', 'NewCogniTAO/User/robot/devicesLib/domain_player/Ptz.cpp']",2,player::Ptz,Magneton2Year,13,Magneton,18,1.83333333333333,26
+0,0,0,0,0,0,0,0,0,0,0,"['NewCogniTAO/User/robot/devicesLib/domain_player/devicesStructs/PlrBlob.h', 'NewCogniTAO/User/robot/devicesLib/domain_player/devicesStructs/PlrBlob.cpp']",0,User/robot/devicesLib/domain_player/devicesStructs/PlrBlob,Magneton2Year,0,Magneton,0,0,0
+3,3,3,0,1,1,0.666666666666667,0,1,1,0,"['NewCogniTAO/User/robot/devicesLib/domain_player/devicesStructs/PlrBlob.h', 'NewCogniTAO/User/robot/devicesLib/domain_player/devicesStructs/PlrBlob.cpp']",1,player::PlrBlobArray,Magneton2Year,3,Magneton,3,1,0
+48,41,12,1,1,10,0.583333333333333,3,18,1.41666666666667,0,"['NewCogniTAO/User/robot/devicesLib/domain_player/devicesStructs/PlrBlob.h', 'NewCogniTAO/User/robot/devicesLib/domain_player/devicesStructs/PlrBlob.cpp']",11,player::PlrBlob,Magneton2Year,9,Magneton,12,4,27
+18,8,6,0,1,0,0.666666666666667,0,6,1.33333333333333,0,"['NewCogniTAO/User/robot/devicesLib/domain_player/devicesStructs/PlrBlob.h', 'NewCogniTAO/User/robot/devicesLib/domain_player/devicesStructs/PlrBlob.cpp']",1,player::PlrBlobID,Magneton2Year,5,Magneton,6,3,0
+83,44,12,0,3,0,0.642857142857143,4,36,1.42857142857143,0,"['NewCogniTAO/User/robot/devicesLib/domain_shrimp/Laser.h', 'NewCogniTAO/User/robot/devicesLib/domain_shrimp/Laser.cpp']",1,device_shripm::Laser,Magneton2Year,6,Magneton,14,5.92857142857143,24
+0,0,0,0,0,0,0,0,0,0,0,"['NewCogniTAO/User/robot/devicesLib/domain_shrimp/Laser.h', 'NewCogniTAO/User/robot/devicesLib/domain_shrimp/Laser.cpp']",0,User/robot/devicesLib/domain_shrimp/Laser,Magneton2Year,0,Magneton,0,0,0
+0,0,0,4,0,6,0,0,0,0,0,['NewCogniTAO/User/robot/devicesLib/domain_shrimp/Laser/common.h'],6,playerbypass::player_laser_config,Magneton2Year,0,Magneton,0,0,0
+0,0,0,0,0,5,0,0,0,0,0,['NewCogniTAO/User/robot/devicesLib/domain_shrimp/Laser/common.h'],5,playerbypass::player_ptz_cmd,Magneton2Year,0,Magneton,0,0,0
+0,0,0,0,0,2,0,0,0,0,0,['NewCogniTAO/User/robot/devicesLib/domain_shrimp/Laser/common.h'],2,playerbypass::player_ptz_req_generic,Magneton2Year,0,Magneton,0,0,0
+0,0,0,0,0,4,0,0,0,0,0,['NewCogniTAO/User/robot/devicesLib/domain_shrimp/Laser/common.h'],4,playerbypass::player_devaddr,Magneton2Year,0,Magneton,0,0,0
+0,0,0,1,0,2,0,0,0,0,0,['NewCogniTAO/User/robot/devicesLib/domain_shrimp/Laser/common.h'],2,playerbypass::player_bbox,Magneton2Year,0,Magneton,0,0,0
+0,0,0,1,0,2,0,0,0,0,0,['NewCogniTAO/User/robot/devicesLib/domain_shrimp/Laser/common.h'],2,playerbypass::player_laser_geom,Magneton2Year,0,Magneton,0,0,0
+0,0,0,0,0,2,0,0,0,0,0,['NewCogniTAO/User/robot/devicesLib/domain_shrimp/Laser/common.h'],2,playerbypass::player_position2d_cmd_vel,Magneton2Year,0,Magneton,0,0,0
+0,0,0,0,0,3,0,0,0,0,0,['NewCogniTAO/User/robot/devicesLib/domain_shrimp/Laser/common.h'],3,playerbypass::player_position2d_data,Magneton2Year,0,Magneton,0,0,0
+0,0,0,0,0,3,0,0,0,0,0,['NewCogniTAO/User/robot/devicesLib/domain_shrimp/Laser/common.h'],3,playerbypass::player_position2d_cmd_pos,Magneton2Year,0,Magneton,0,0,0
+0,0,0,1,0,3,0,0,0,0,0,['NewCogniTAO/User/robot/devicesLib/domain_shrimp/Laser/common.h'],3,playerbypass::player_pose,Magneton2Year,0,Magneton,0,0,0
+0,0,0,0,0,2,0,0,0,0,0,['NewCogniTAO/User/robot/devicesLib/domain_shrimp/Laser/common.h'],2,playerbypass::player_point_2d,Magneton2Year,0,Magneton,0,0,0
+0,0,0,0,0,0,0,0,0,0,0,['NewCogniTAO/User/robot/devicesLib/domain_shrimp/Laser/common.h'],0,NewCogniTAO/User/robot/devicesLib/domain_shrimp/Laser/common,Magneton2Year,0,Magneton,0,0,0
+0,0,0,0,0,5,0,0,0,0,0,['NewCogniTAO/User/robot/devicesLib/domain_shrimp/Laser/common.h'],5,playerbypass::player_ptz_data,Magneton2Year,0,Magneton,0,0,0
+0,0,0,4,0,9,0,0,0,0,0,['NewCogniTAO/User/robot/devicesLib/domain_shrimp/Laser/common.h'],9,playerbypass::player_laser_data,Magneton2Year,0,Magneton,0,0,0
+0,0,0,2,0,1,0,0,0,0,0,"['NewCogniTAO/User/robot/devicesLib/domain_shrimp/Laser/urg_laser.h', 'NewCogniTAO/User/robot/devicesLib/domain_shrimp/Laser/urg_laser.cc']",1,playerbypass::urg_laser_readings,Magneton2Year,0,Magneton,0,0,0
+162,58,13,4,0,1,1.30769230769231,2,137,3.23076923076923,0,"['NewCogniTAO/User/robot/devicesLib/domain_shrimp/Laser/urg_laser.h', 'NewCogniTAO/User/robot/devicesLib/domain_shrimp/Laser/urg_laser.cc']",3,playerbypass::urg_laser,Magneton2Year,2,Magneton,13,12.4615384615385,4
+0,0,0,0,0,0,0,0,0,0,0,"['NewCogniTAO/User/robot/devicesLib/domain_shrimp/Laser/urg_laser.h', 'NewCogniTAO/User/robot/devicesLib/domain_shrimp/Laser/urg_laser.cc']",0,NewCogniTAO/User/robot/devicesLib/domain_shrimp/Laser/urg_laser,Magneton2Year,0,Magneton,0,0,0
+134,83,7,5,0,0,0.625,7,63,2.75,0,"['NewCogniTAO/User/robot/devicesLib/domain_shrimp/Laser/urg_laser_interface.h', 'NewCogniTAO/User/robot/devicesLib/domain_shrimp/Laser/urg_laser_interface.cc']",15,playerbypass::urg_laser_interface,Magneton2Year,1,Magneton,8,16.75,7
+23,1,1,0,0,0,0,0,23,5,0,['NewCogniTAO/User/robot/devicesLib/domain_shrimp/PTZ/magnetonPTZ.cpp'],0,NewCogniTAO/User/robot/devicesLib/domain_shrimp/PTZ/magnetonPTZ,Magneton2Year,1,Magneton,1,23,0
+163,75,9,11,0,40,1.1,0,74,2,0,"['NewCogniTAO/User/robot/devicesLib/domain_shrimp/PTZ/magnetonPTZ.h', 'NewCogniTAO/User/robot/devicesLib/domain_shrimp/PTZ/magnetonPTZ.cpp']",46,shripm_device::magnetonPTZ,Magneton2Year,2,Magneton,10,16.3,0
+71,55,13,0,3,0,0.692307692307692,5,17,1.69230769230769,0,"['NewCogniTAO/User/robot/devicesLib/domain_shrimp/Position.h', 'NewCogniTAO/User/robot/devicesLib/domain_shrimp/Position.cpp']",3,devices_shrimp::Position,Magneton2Year,2,Magneton,13,5.46153846153846,10
+77,7,2,3,0,13,0.5,1,50,2,0,"['NewCogniTAO/User/robot/devicesLib/domain_shrimp/Position/ShrimpPosition.cpp', 'NewCogniTAO/User/robot/devicesLib/domain_shrimp/Position/ShrimpPosition.h']",13,User/robot/devicesLib/domain_shrimp/Position/ShrimpPosition,Magneton2Year,2,Magneton,2,38.5,2
+63,45,11,3,0,0,0.272727272727273,3,29,1.18181818181818,0,"['NewCogniTAO/User/robot/devicesLib/domain_shrimp/Position/ShrimpPosition.h', 'NewCogniTAO/User/robot/devicesLib/domain_shrimp/Position/ShrimpPosition.cpp']",13,playerbypass_v1::ShrimpPosition,Magneton2Year,3,Magneton,11,5.72727272727273,9
+0,0,0,1,0,3,0,0,0,0,0,"['NewCogniTAO/User/robot/devicesLib/domain_shrimp/Position/ShrimpPosition.h', 'NewCogniTAO/User/robot/devicesLib/domain_shrimp/Position/ShrimpPosition.cpp']",3,playerbypass_v1::rep_velocity_steering_struct,Magneton2Year,0,Magneton,0,0,0
+0,0,0,0,0,3,0,0,0,0,0,"['NewCogniTAO/User/robot/devicesLib/domain_shrimp/Position/ShrimpPosition.h', 'NewCogniTAO/User/robot/devicesLib/domain_shrimp/Position/ShrimpPosition.cpp']",3,playerbypass_v1::velocity_steering_struct,Magneton2Year,0,Magneton,0,0,0
+0,0,0,0,0,3,0,0,0,0,0,"['NewCogniTAO/User/robot/devicesLib/domain_shrimp/Position/ShrimpPosition.h', 'NewCogniTAO/User/robot/devicesLib/domain_shrimp/Position/ShrimpPosition.cpp']",3,playerbypass_v1::Position_struct,Magneton2Year,0,Magneton,0,0,0
+0,0,0,0,0,7,0,0,0,0,0,"['NewCogniTAO/User/robot/devicesLib/domain_shrimp/Position/ShrimpPosition.h', 'NewCogniTAO/User/robot/devicesLib/domain_shrimp/Position/ShrimpPosition.cpp']",7,playerbypass_v1::encoders_struct,Magneton2Year,0,Magneton,0,0,0
+86,7,2,0,0,7,0.5,1,52,2,0,"['NewCogniTAO/User/robot/devicesLib/domain_shrimp/Position/ShrimpPositionV2.cpp', 'NewCogniTAO/User/robot/devicesLib/domain_shrimp/Position/ShrimpPositionV2.h']",7,NewCogniTAO/User/robot/devicesLib/domain_shrimp/Position/ShrimpPositionV2,Magneton2Year,2,Magneton,2,43,2
+145,217,11,11,0,45,0.55,1,72,2,0,"['NewCogniTAO/User/robot/devicesLib/domain_shrimp/Position/ShrimpPositionV2.h', 'NewCogniTAO/User/robot/devicesLib/domain_shrimp/Position/ShrimpPositionV2.cpp']",78,playerbypass::ShrimpPositionV2,Magneton2Year,2,Magneton,20,7.25,2
+0,0,0,0,0,3,0,0,0,0,0,"['NewCogniTAO/User/robot/devicesLib/domain_shrimp/Position/ShrimpPositionV2.h', 'NewCogniTAO/User/robot/devicesLib/domain_shrimp/Position/ShrimpPositionV2.cpp']",3,playerbypass::Position_struct,Magneton2Year,0,Magneton,0,0,0
+0,0,0,0,0,3,0,0,0,0,0,"['NewCogniTAO/User/robot/devicesLib/domain_shrimp/Position/ShrimpPositionV2.h', 'NewCogniTAO/User/robot/devicesLib/domain_shrimp/Position/ShrimpPositionV2.cpp']",3,playerbypass::Odometry_struct,Magneton2Year,0,Magneton,0,0,0
+0,0,0,0,0,0,0,0,0,0,0,['NewCogniTAO/User/robot/devicesLib/domain_shrimp/Ptz.cpp'],0,User/robot/devicesLib/domain_shrimp/Ptz,Magneton2Year,0,Magneton,0,0,0
+173,73,18,0,3,2,0.944444444444444,3,50,1.94444444444444,0,"['NewCogniTAO/User/robot/devicesLib/domain_shrimp/Ptz.h', 'NewCogniTAO/User/robot/devicesLib/domain_shrimp/Ptz.cpp']",4,device_shrimp::Ptz,Magneton2Year,6,Magneton,18,9.61111111111111,18
+2,2,2,3,0,0,0,0,1,1,3,['NewCogniTAO/User/robot/devicesLib/domain_shrimp/ShrimpDevice.h'],0,device_shripm::ShrimpDevice,Magneton2Year,2,Magneton,2,1,0
+0,0,0,0,0,0,0,0,0,0,0,"['NewCogniTAO/User/robot/domain_player/plrRobot.h', 'NewCogniTAO/User/robot/domain_player/plrRobot.cc']",0,NewCogniTAO/User/robot/domain_player/plrRobot,Magneton2Year,0,Magneton,0,0,0
+0,0,0,3,0,3,0,0,0,0,0,"['NewCogniTAO/User/robot/domain_player/plrVarNames.h', 'NewCogniTAO/User/robot/domain_player/plrVarNames.cc']",3,plrVarNames::plrDevicesSync,Magneton2Year,0,Magneton,0,0,0
+0,0,0,0,0,0,0,0,0,0,0,['NewCogniTAO/User/tasks/domain_player/Defines.h'],0,NewCogniTAO/User/tasks/domain_player/Defines,Magneton2Year,0,Magneton,0,0,0
+0,0,0,0,0,0,0,0,0,0,0,['NewCogniTAO/User/tasks/domain_player/TskExecuteSBCGraph.cpp'],0,User/tasks/domain_player/TskExecuteSBCGraph,Magneton2Year,0,Magneton,0,0,0
+0,0,0,0,0,0,0,0,0,0,0,['NewCogniTAO/User/tasks/domain_player/TskGetJoystick.cpp'],0,User/tasks/domain_player/TskGetJoystick,Magneton2Year,0,Magneton,0,0,0
+0,0,0,0,0,0,0,0,0,0,0,['NewCogniTAO/User/tasks/domain_player/TskInitGraph.cpp'],0,User/tasks/domain_player/TskInitGraph,Magneton2Year,0,Magneton,0,0,0
+15,11,6,0,2,0,0.166666666666667,2,10,1.16666666666667,0,"['NewCogniTAO/User/tasks/domain_player/TskInitGraphLine.h', 'NewCogniTAO/User/tasks/domain_player/TskInitGraphLine.cpp']",1,tasks_domain_player::TskInitGraphLine,Magneton2Year,6,Magneton,6,2.5,12
+15,15,7,0,2,0,0.142857142857143,2,9,1.14285714285714,0,"['NewCogniTAO/User/tasks/domain_player/TskInitTest.h', 'NewCogniTAO/User/tasks/domain_player/TskInitTest.cpp']",1,tasks_domain_player::TskInitTest,Magneton2Year,7,Magneton,7,2.14285714285714,14
+21,11,7,0,2,0,0.285714285714286,2,13,1.14285714285714,0,"['NewCogniTAO/User/tasks/domain_player/TskKeyPressed.h', 'NewCogniTAO/User/tasks/domain_player/TskKeyPressed.cpp']",2,tasks_domain_player::TskKeyPressed,Magneton2Year,6,Magneton,7,3,12
+9,16,6,0,2,0,0.166666666666667,4,4,1,0,"['NewCogniTAO/User/tasks/domain_player/TskLeader.h', 'NewCogniTAO/User/tasks/domain_player/TskLeader.cpp']",2,tasks_domain_player::TskLeader,Magneton2Year,5,Magneton,6,1.5,20
+0,0,0,0,0,0,0,0,0,0,0,['NewCogniTAO/User/tasks/domain_player/TskMovePtzToStart.cpp'],0,User/tasks/domain_player/TskMovePtzToStart,Magneton2Year,0,Magneton,0,0,0
+15,13,6,0,2,0,0.166666666666667,4,10,1.16666666666667,0,"['NewCogniTAO/User/tasks/domain_player/TskMovePtzToStart.h', 'NewCogniTAO/User/tasks/domain_player/TskMovePtzToStart.cpp']",1,tasks_domain_player::TskMovePtzToStart,Magneton2Year,6,Magneton,6,2.5,24
+48,40,7,0,2,0,0.285714285714286,11,40,2,0,"['NewCogniTAO/User/tasks/domain_player/TskMoveSimple.h', 'NewCogniTAO/User/tasks/domain_player/TskMoveSimple.cpp']",2,tasks_domain_player::TskMoveSimple,Magneton2Year,5,Magneton,7,6.85714285714286,55
+12,14,5,0,2,0,0.2,4,8,1.2,0,"['NewCogniTAO/User/tasks/domain_player/TskRootIdle.h', 'NewCogniTAO/User/tasks/domain_player/TskRootIdle.cpp']",0,tasks_domain_player::TskRootIdle,Magneton2Year,5,Magneton,5,2.4,20
+0,0,0,0,0,0,0,0,0,0,0,['NewCogniTAO/User/tasks/domain_player/TskSearch.cpp'],0,TskSearch,Magneton2Year,0,Magneton,0,0,0
+80,38,6,0,2,0,0,8,59,2.5,0,"['NewCogniTAO/User/tasks/domain_player/TskSearch.h', 'NewCogniTAO/User/tasks/domain_player/TskSearch.cpp']",5,tasks_domain_player::TskSearch,Magneton2Year,5,Magneton,6,13.3333333333333,40
+11,17,6,0,2,0,0.166666666666667,5,6,1,0,"['NewCogniTAO/User/tasks/domain_player/TskSearchBlobIdn.h', 'NewCogniTAO/User/tasks/domain_player/TskSearchBlobIdn.cpp']",1,tasks_domain_player::TskSearchBlobIdn,Magneton2Year,6,Magneton,6,1.83333333333333,30
+36,13,6,41,1,2,0.9,2,20,1.2,21,"['NewCogniTAO/User/tasks/domain_player/TskShrimp.h', 'NewCogniTAO/User/tasks/domain_player/TskShrimp.cc']",2,tasks_domain_player::TskShrimp,Magneton2Year,9,Magneton,10,3.6,18
+0,0,0,0,0,0,0,0,0,0,0,['NewCogniTAO/User/tasks/domain_player/TskTrackComm.cpp'],0,User/tasks/domain_player/TskTrackComm,Magneton2Year,0,Magneton,0,0,0
+30,26,10,0,2,0,1.2,6,9,1.2,0,"['NewCogniTAO/User/tasks/domain_player/TskTrackComm.h', 'NewCogniTAO/User/tasks/domain_player/TskTrackComm.cpp']",2,tasks_domain_player::TskTrackComm,Magneton2Year,8,Magneton,10,3,48
+0,0,0,0,0,0,0,0,0,0,0,['NewCogniTAO/User/tasks/domain_player/TskTrackLittleLess.cpp'],0,User/tasks/domain_player/TskTrackLittleLess,Magneton2Year,0,Magneton,0,0,0
+15,8,6,0,2,0,0.166666666666667,2,10,1.16666666666667,0,"['NewCogniTAO/User/tasks/domain_player/TskUpdateGUI.h', 'NewCogniTAO/User/tasks/domain_player/TskUpdateGUI.cpp']",0,tasks_domain_player::TskUpdateGUI,Magneton2Year,6,Magneton,6,2.5,12
+0,0,0,0,0,0,0,0,0,0,0,"['NewCogniTAO/User/tasks/domain_player/TskUpdateSBC.cpp', 'NewCogniTAO/User/tasks/domain_player/TskUpdateSBC.h']",0,User/tasks/domain_player/TskUpdateSBC,Magneton2Year,0,Magneton,0,0,0
+63,51,9,0,2,0,0.333333333333333,13,20,1.55555555555556,0,"['NewCogniTAO/User/tasks/domain_player/TskUpdateSBC.h', 'NewCogniTAO/User/tasks/domain_player/TskUpdateSBC.cpp']",7,tasks_domain_player::TskUpdateSBC,Magneton2Year,8,Magneton,9,7,104
+47,7,3,0,0,2,0.333333333333333,1,23,1,0,"['NewCogniTAO/User/utils/Utils.cpp', 'NewCogniTAO/User/utils/Utils.h']",2,NewCogniTAO/User/utils/Utils,Magneton2Year,3,Magneton,3,15.6666666666667,3
+1,1,1,0,0,0,1,0,1,1,0,"['NewCogniTAO/User/variables/SrlRobotData.h', 'NewCogniTAO/User/variables/SrlRobotData.cpp']",0,User/variables/SrlRobotData,Magneton2Year,1,Magneton,1,1,0
+9,1,1,0,0,0,2,0,9,1,0,['NewCogniTAO/User/variables/VarOriginalGraph.cpp'],0,User/variables/VarOriginalGraph,Magneton2Year,1,Magneton,1,9,0
+9,1,1,0,0,0,2,0,9,1,0,['NewCogniTAO/User/variables/VarSharedGraph.cpp'],0,User/variables/VarSharedGraph,Magneton2Year,1,Magneton,1,9,0
+1,1,1,0,1,0,1,0,1,1,0,"['NewCogniTAO/User/variables/VarVAR.h', 'NewCogniTAO/User/variables/VarVAR.cpp']",0,variables::VarVAR,Magneton2Year,1,Magneton,1,1,0
+2,4,2,0,1,0,2.5,2,1,1,0,"['NewCogniTAO/User/variables/VlgOdometrySync.h', 'NewCogniTAO/User/variables/VlgOdometrySync.cpp']",0,decisions::VlgOdometrySync,Magneton2Year,2,Magneton,2,1,4
+102,1,1,0,0,0,2,0,102,19,0,"['NewCogniTAO/Userold/boot/boot.cc', 'NewCogniTAO/Userold/boot/boot.h']",0,NewCogniTAO/Userold/boot/boot,Magneton2Year,1,Magneton,1,102,0
+6,12,6,6,0,3,1,0,1,1.16666666666667,1,"['NewCogniTAO/Userold/boot/boot.h', 'NewCogniTAO/Userold/boot/boot.cc']",3,Boot,Magneton2Year,4,Magneton,6,1,0
+2,3,2,0,1,0,0.5,1,1,1,0,"['NewCogniTAO/Userold/boot/bootMagnetonFormation.h', 'NewCogniTAO/Userold/boot/bootMagnetonFormation.cpp']",0,bootMagnetonFormation,Magneton2Year,2,Magneton,2,1,2
+3,9,3,0,0,0,1,0,1,1,0,"['NewCogniTAO/Userold/communications/ClientUdpSocket.h', 'NewCogniTAO/Userold/communications/ClientUdpSocket.cpp']",3,ClientUdpSocket,Magneton2Year,1,Magneton,3,1,0
+3,4,3,0,0,0,0.666666666666667,0,1,1,0,"['NewCogniTAO/Userold/communications/ServerUdpSocket.h', 'NewCogniTAO/Userold/communications/ServerUdpSocket.cpp']",1,ServerUdpSocket,Magneton2Year,3,Magneton,3,1,0
+12,5,2,0,1,0,0,1,8,1,0,"['NewCogniTAO/Userold/conditions/CndAllTeamReady.h', 'NewCogniTAO/Userold/conditions/CndAllTeamReady.cpp']",0,conditions::CndAllTeamReady,Magneton2Year,2,Magneton,2,6,2
+14,5,2,0,1,0,0,1,10,1,0,"['NewCogniTAO/Userold/conditions/CndAllTeamStopped.h', 'NewCogniTAO/Userold/conditions/CndAllTeamStopped.cpp']",0,conditions::CndAllTeamStopped,Magneton2Year,2,Magneton,2,7,2
+10,4,2,0,1,0,0,1,5,1,0,"['NewCogniTAO/Userold/conditions/CndBlindCycles.h', 'NewCogniTAO/Userold/conditions/CndBlindCycles.cpp']",0,conditions::CndBlindCycles,Magneton2Year,2,Magneton,2,5,2
+17,3,3,0,1,0,0.333333333333333,0,13,1.66666666666667,0,"['NewCogniTAO/Userold/conditions/CndBlobFinderNotSeeColor.h', 'NewCogniTAO/Userold/conditions/CndBlobFinderNotSeeColor.cpp']",1,conditions::CndBlobFinderNotSeeColor,Magneton2Year,3,Magneton,3,5.66666666666667,0
+18,4,4,0,1,0,0.25,0,13,1.5,0,"['NewCogniTAO/Userold/conditions/CndBlobFinderSeeColor.h', 'NewCogniTAO/Userold/conditions/CndBlobFinderSeeColor.cpp']",1,conditions::CndBlobFinderSeeColor,Magneton2Year,4,Magneton,4,4.5,0
+15,6,2,0,1,0,0,1,9,1,0,"['NewCogniTAO/Userold/conditions/CndBlockedWay.h', 'NewCogniTAO/Userold/conditions/CndBlockedWay.cpp']",0,conditions::CndBlockedWay,Magneton2Year,2,Magneton,2,7.5,2
+11,4,2,0,1,0,0,1,7,1,0,"['NewCogniTAO/Userold/conditions/CndCycle.h', 'NewCogniTAO/Userold/conditions/CndCycle.cpp']",0,conditions::CndCycle,Magneton2Year,2,Magneton,2,5.5,2
+30,8,2,0,1,0,0,2,25,1.5,0,"['NewCogniTAO/Userold/conditions/CndDynGraphFull.h', 'NewCogniTAO/Userold/conditions/CndDynGraphFull.cpp']",0,conditions::CndDynGraphFull,Magneton2Year,2,Magneton,2,15,4
+14,6,2,0,1,0,0,1,11,1,0,"['NewCogniTAO/Userold/conditions/CndFreeWay.h', 'NewCogniTAO/Userold/conditions/CndFreeWay.cpp']",0,conditions::CndFreeWay,Magneton2Year,2,Magneton,2,7,2
+18,7,3,0,1,0,0.333333333333333,2,12,1,0,"['NewCogniTAO/Userold/conditions/CndIsBPOrTimer.h', 'NewCogniTAO/Userold/conditions/CndIsBPOrTimer.cpp']",1,conditions::CndIsBPOrTimer,Magneton2Year,3,Magneton,3,6,6
+12,4,2,0,1,0,0,1,7,1,0,"['NewCogniTAO/Userold/conditions/CndIsFailed.h', 'NewCogniTAO/Userold/conditions/CndIsFailed.cpp']",0,conditions::CndIsFailed,Magneton2Year,2,Magneton,2,6,2
+26,2,2,0,1,0,0,0,15,1,0,"['NewCogniTAO/Userold/conditions/CndLaserBlocked.h', 'NewCogniTAO/Userold/conditions/CndLaserBlocked.cpp']",0,conditions::CndLaserBlocked,Magneton2Year,2,Magneton,2,13,0
+27,2,2,0,1,0,0,0,16,1,0,"['NewCogniTAO/Userold/conditions/CndLaserNotBlocked.h', 'NewCogniTAO/Userold/conditions/CndLaserNotBlocked.cpp']",0,conditions::CndLaserNotBlocked,Magneton2Year,2,Magneton,2,13.5,0
+0,0,0,0,0,0,0,0,0,0,0,"['NewCogniTAO/Userold/conditions/CndMiddleOfFrame.cpp', 'NewCogniTAO/Userold/conditions/CndMiddleOfFrame.h']",0,Userold/conditions/CndMiddleOfFrame,Magneton2Year,0,Magneton,0,0,0
+66,11,5,0,1,0,0.6,3,41,2.2,0,"['NewCogniTAO/Userold/conditions/CndMiddleOfFrame.h', 'NewCogniTAO/Userold/conditions/CndMiddleOfFrame.cpp']",1,conditions::CndMiddleOfFrame,Magneton2Year,5,Magneton,5,13.2,15
+34,6,3,0,1,0,0,2,30,1.66666666666667,0,"['NewCogniTAO/Userold/conditions/CndNotSeeColorParm.h', 'NewCogniTAO/Userold/conditions/CndNotSeeColorParm.cpp']",1,conditions::CndNotSeeColorParm,Magneton2Year,3,Magneton,3,11.3333333333333,6
+13,4,2,0,1,0,0,1,8,1,0,"['NewCogniTAO/Userold/conditions/CndOneCycle.h', 'NewCogniTAO/Userold/conditions/CndOneCycle.cpp']",0,conditions::CndOneCycle,Magneton2Year,2,Magneton,2,6.5,2
+20,8,2,0,1,0,0,2,16,1,0,"['NewCogniTAO/Userold/conditions/CndPtz.h', 'NewCogniTAO/Userold/conditions/CndPtz.cpp']",0,conditions::CndPtz,Magneton2Year,2,Magneton,2,10,4
+18,7,3,0,1,0,0,2,13,1,0,"['NewCogniTAO/Userold/conditions/CndPtzAtEndAndAllAnswered.h', 'NewCogniTAO/Userold/conditions/CndPtzAtEndAndAllAnswered.cpp']",1,conditions::CndPtzAtEndAndAllAnswered,Magneton2Year,3,Magneton,3,6,6
+15,5,3,0,1,0,0,1,10,1,0,"['NewCogniTAO/Userold/conditions/CndPtzAtStart.h', 'NewCogniTAO/Userold/conditions/CndPtzAtStart.cpp']",1,conditions::CndPtzAtStart,Magneton2Year,3,Magneton,3,5,3
+12,4,2,0,1,0,0,1,8,1,0,"['NewCogniTAO/Userold/conditions/CndReadyTaskForAllTeamFound.h', 'NewCogniTAO/Userold/conditions/CndReadyTaskForAllTeamFound.cpp']",0,conditions::CndReadyTaskForAllTeamFound,Magneton2Year,2,Magneton,2,6,2
+32,6,3,0,1,0,0,2,28,2.33333333333333,0,"['NewCogniTAO/Userold/conditions/CndSeeColorParm.h', 'NewCogniTAO/Userold/conditions/CndSeeColorParm.cpp']",1,conditions::CndSeeColorParm,Magneton2Year,3,Magneton,3,10.6666666666667,6
+37,7,2,0,1,0,0,1,34,3.5,0,"['NewCogniTAO/Userold/conditions/CndSubteamDecisionForEachMemberIsKnown.h', 'NewCogniTAO/Userold/conditions/CndSubteamDecisionForEachMemberIsKnown.cpp']",0,conditions::CndSubteamDecisionForEachMemberIsKnown,Magneton2Year,2,Magneton,2,18.5,2
+61,3,3,0,1,0,1.33333333333333,0,47,3.66666666666667,0,"['NewCogniTAO/Userold/conditions/CndTeamSizeXRunnersNum.h', 'NewCogniTAO/Userold/conditions/CndTeamSizeXRunnersNum.cpp']",4,conditions::CndTeamSizeXRunnersNum,Magneton2Year,3,Magneton,3,20.3333333333333,0
+10,5,5,0,1,0,0.2,0,4,1,0,"['NewCogniTAO/Userold/conditions/domain_player/CndDynGraphFull.h', 'NewCogniTAO/Userold/conditions/domain_player/CndDynGraphFull.cpp']",1,conditions_domain_player::CndDynGraphFull,Magneton2Year,5,Magneton,5,2,0
+10,5,5,0,1,0,0.2,0,4,1,0,"['NewCogniTAO/Userold/conditions/domain_player/CndIsFailed.h', 'NewCogniTAO/Userold/conditions/domain_player/CndIsFailed.cpp']",1,conditions_domain_player::CndIsFailed,Magneton2Year,5,Magneton,5,2,0
+12,10,10,0,1,0,0.7,0,3,1,0,"['NewCogniTAO/Userold/conditions/domain_player/CndMiddleOfFrame.h', 'NewCogniTAO/Userold/conditions/domain_player/CndMiddleOfFrame.cpp']",3,conditions_domain_player::CndMiddleOfFrame,Magneton2Year,10,Magneton,10,1.2,0
+8,6,6,0,1,0,0.166666666666667,0,3,1,0,"['NewCogniTAO/Userold/conditions/domain_player/CndNotSeeColorParm.h', 'NewCogniTAO/Userold/conditions/domain_player/CndNotSeeColorParm.cpp']",2,conditions_domain_player::CndNotSeeColorParm,Magneton2Year,6,Magneton,6,1.33333333333333,0
+10,5,5,0,1,0,0.2,0,4,1,0,"['NewCogniTAO/Userold/conditions/domain_player/CndOneCycle.h', 'NewCogniTAO/Userold/conditions/domain_player/CndOneCycle.cpp']",1,conditions_domain_player::CndOneCycle,Magneton2Year,5,Magneton,5,2,0
+10,5,5,0,1,0,0.2,0,4,1,0,"['NewCogniTAO/Userold/conditions/domain_player/CndPtz.h', 'NewCogniTAO/Userold/conditions/domain_player/CndPtz.cpp']",1,conditions_domain_player::CndPtz,Magneton2Year,5,Magneton,5,2,0
+8,6,6,0,1,0,0.166666666666667,0,3,1,0,"['NewCogniTAO/Userold/conditions/domain_player/CndPtzAtEndAndAllAnswered.h', 'NewCogniTAO/Userold/conditions/domain_player/CndPtzAtEndAndAllAnswered.cpp']",3,conditions_domain_player::CndPtzAtEndAndAllAnswered,Magneton2Year,6,Magneton,6,1.33333333333333,0
+8,6,6,0,1,0,0.166666666666667,0,3,1,0,"['NewCogniTAO/Userold/conditions/domain_player/CndPtzAtStart.h', 'NewCogniTAO/Userold/conditions/domain_player/CndPtzAtStart.cpp']",3,conditions_domain_player::CndPtzAtStart,Magneton2Year,6,Magneton,6,1.33333333333333,0
+8,6,6,0,1,0,0.166666666666667,0,3,1,0,"['NewCogniTAO/Userold/conditions/domain_player/CndSeeColorParm.h', 'NewCogniTAO/Userold/conditions/domain_player/CndSeeColorParm.cpp']",2,conditions_domain_player::CndSeeColorParm,Magneton2Year,6,Magneton,6,1.33333333333333,0
+18,5,5,0,1,0,0.8,0,5,1,0,"['NewCogniTAO/Userold/decisions/DapFirstAsLeader.h', 'NewCogniTAO/Userold/decisions/DapFirstAsLeader.cpp']",0,decisions::DapFirstAsLeader,Magneton2Year,5,Magneton,5,3.6,0
+45,7,6,0,1,0,0,0,26,1.42857142857143,0,"['NewCogniTAO/Userold/decisions/DapFirstAsLeader.h', 'NewCogniTAO/Userold/decisions/DapFirstAsLeader.cpp']",0,decisions::DatFirstAsLeader,Magneton2Year,7,Magneton,7,6.42857142857143,0
+104,13,6,0,1,0,0,1,66,2.14285714285714,0,"['NewCogniTAO/Userold/decisions/DapFirstReady.h', 'NewCogniTAO/Userold/decisions/DapFirstReady.cpp']",0,decisions::DatFirstReady,Magneton2Year,7,Magneton,7,14.8571428571429,7
+18,5,5,0,1,0,0.8,0,5,1,0,"['NewCogniTAO/Userold/decisions/DapFirstReady.h', 'NewCogniTAO/Userold/decisions/DapFirstReady.cpp']",0,decisions::DapFirstReady,Magneton2Year,5,Magneton,5,3.6,0
+29,7,6,0,1,0,0,0,10,1,0,"['NewCogniTAO/Userold/decisions/DapIdentical.h', 'NewCogniTAO/Userold/decisions/DapIdentical.cpp']",0,decisions::DatIdentical,Magneton2Year,7,Magneton,7,4.14285714285714,0
+18,5,5,0,1,0,0.8,0,5,1,0,"['NewCogniTAO/Userold/decisions/DapIdentical.h', 'NewCogniTAO/Userold/decisions/DapIdentical.cpp']",0,decisions::DapIdentical,Magneton2Year,5,Magneton,5,3.6,0
+21,2,2,5,0,0,1.5,0,13,2.5,0,['NewCogniTAO/Userold/decisions/DapSelectBehaviorByAngle.cpp'],0,DapSelectBehaviorByAngle,Magneton2Year,2,Magneton,2,10.5,0
+112,14,6,0,1,0,0,3,77,3,0,"['NewCogniTAO/Userold/decisions/DapSelectBehaviorByAngle.h', 'NewCogniTAO/Userold/decisions/DapSelectBehaviorByAngle.cpp']",2,protocols::DatSelectBehaviorByAngle,Magneton2Year,5,Magneton,6,18.6666666666667,15
+13,4,2,0,1,0,0,1,9,1,0,"['NewCogniTAO/Userold/decisions/DapSelectBehaviorByAngle.h', 'NewCogniTAO/Userold/decisions/DapSelectBehaviorByAngle.cpp']",0,protocols::DatSelectBehaviorByAngle_StopCndition,Magneton2Year,2,Magneton,2,6.5,2
+13,3,3,0,1,0,0,0,5,1,0,"['NewCogniTAO/Userold/decisions/DapSelectBehaviorByAngle.h', 'NewCogniTAO/Userold/decisions/DapSelectBehaviorByAngle.cpp']",0,protocols::DapSelectBehaviorByAngle,Magneton2Year,3,Magneton,3,4.33333333333333,0
+59,6,6,0,1,0,0,0,38,1.5,0,"['NewCogniTAO/Userold/decisions/DapSelectChildByID.h', 'NewCogniTAO/Userold/decisions/DapSelectChildByID.cpp']",1,protocols::DatSelectChildByID,Magneton2Year,6,Magneton,6,9.83333333333333,0
+12,3,3,0,1,0,0,0,4,1,0,"['NewCogniTAO/Userold/decisions/DapSelectChildByID.h', 'NewCogniTAO/Userold/decisions/DapSelectChildByID.cpp']",0,protocols::DapSelectChildByID,Magneton2Year,3,Magneton,3,4,0
+12,3,3,0,1,0,0,0,4,1,0,"['NewCogniTAO/Userold/decisions/DapSelectLeader.h', 'NewCogniTAO/Userold/decisions/DapSelectLeader.cpp']",0,protocols::DapSelectLeader,Magneton2Year,3,Magneton,3,4,0
+50,7,6,0,1,0,0,0,30,1.33333333333333,0,"['NewCogniTAO/Userold/decisions/DapSelectLeader.h', 'NewCogniTAO/Userold/decisions/DapSelectLeader.cpp']",1,protocols::DatSelectLeader,Magneton2Year,6,Magneton,6,8.33333333333333,0
+18,5,5,0,1,0,0.8,0,5,1,0,"['NewCogniTAO/Userold/decisions/DapSequential.h', 'NewCogniTAO/Userold/decisions/DapSequential.cpp']",0,decisions::DapSequential,Magneton2Year,5,Magneton,5,3.6,0
+51,7,6,0,1,0,0,0,32,1.42857142857143,0,"['NewCogniTAO/Userold/decisions/DapSequential.h', 'NewCogniTAO/Userold/decisions/DapSequential.cpp']",0,decisions::DatSequential,Magneton2Year,7,Magneton,7,7.28571428571429,0
+23,4,4,0,0,2,1.25,0,9,1.5,0,"['NewCogniTAO/Userold/decisions/DapTeamAllocation.h', 'NewCogniTAO/Userold/decisions/DapTeamAllocation.cpp']",2,decisions::Job,Magneton2Year,4,Magneton,4,5.75,0
+22,9,6,0,1,0,0.833333333333333,0,5,1.16666666666667,0,"['NewCogniTAO/Userold/decisions/DapTeamAllocation.h', 'NewCogniTAO/Userold/decisions/DapTeamAllocation.cpp']",1,decisions::DapTeamAllocation,Magneton2Year,4,Magneton,6,3.66666666666667,0
+73,19,9,0,1,0,0.3,2,22,1.4,0,"['NewCogniTAO/Userold/decisions/DapTeamAllocation.h', 'NewCogniTAO/Userold/decisions/DapTeamAllocation.cpp']",1,decisions::DatTeamAllocation,Magneton2Year,6,Magneton,10,7.3,12
+24,7,4,1,0,2,1.25,0,9,1.5,0,"['NewCogniTAO/Userold/decisions/DapTeamAllocation.h', 'NewCogniTAO/Userold/decisions/DapTeamAllocation.cpp']",2,decisions::Do,Magneton2Year,2,Magneton,4,6,0
+12,3,3,0,1,0,0,0,4,1,0,"['NewCogniTAO/Userold/decisions/DapTogether.h', 'NewCogniTAO/Userold/decisions/DapTogether.cpp']",0,protocols::DapTogether,Magneton2Year,3,Magneton,3,4,0
+23,7,7,0,1,0,0,0,7,1,0,"['NewCogniTAO/Userold/decisions/DapTogether.h', 'NewCogniTAO/Userold/decisions/DapTogether.cpp']",1,protocols::DatTogether,Magneton2Year,7,Magneton,7,3.28571428571429,0
+39,13,6,0,1,0,0,1,10,1,0,"['NewCogniTAO/Userold/decisions/DepAllTeamStopped.h', 'NewCogniTAO/Userold/decisions/DepAllTeamStopped.cpp']",0,decisions::DetAllTeamStopped,Magneton2Year,7,Magneton,7,5.57142857142857,7
+18,5,5,0,1,0,0.8,0,5,1,0,"['NewCogniTAO/Userold/decisions/DepAllTeamStopped.h', 'NewCogniTAO/Userold/decisions/DepAllTeamStopped.cpp']",0,decisions::DepAllTeamStopped,Magneton2Year,5,Magneton,5,3.6,0
+15,5,2,0,1,0,0,2,10,1,0,"['NewCogniTAO/Userold/decisions/DepUntilAllTeamRun.h', 'NewCogniTAO/Userold/decisions/DepUntilAllTeamRun.cpp']",0,protocols::DetUntilAllTeamRun_StopCndition,Magneton2Year,2,Magneton,2,7.5,4
+12,3,3,0,1,0,0,0,4,1,0,"['NewCogniTAO/Userold/decisions/DepUntilAllTeamRun.h', 'NewCogniTAO/Userold/decisions/DepUntilAllTeamRun.cpp']",0,protocols::DepUntilAllTeamRun,Magneton2Year,3,Magneton,3,4,0
+50,9,6,1,1,3,0,1,18,1.5,0,"['NewCogniTAO/Userold/decisions/DepUntilAllTeamRun.h', 'NewCogniTAO/Userold/decisions/DepUntilAllTeamRun.cpp']",5,protocols::DetUntilAllTeamRun,Magneton2Year,6,Magneton,6,8.33333333333333,6
+19,6,6,0,1,0,0.666666666666667,0,5,1,0,"['NewCogniTAO/Userold/decisions/DnpFirstReady.h', 'NewCogniTAO/Userold/decisions/DnpFirstReady.cpp']",0,decisions::DnpFirstReady,Magneton2Year,6,Magneton,6,3.16666666666667,0
+38,7,6,0,1,0,0,0,20,1.42857142857143,0,"['NewCogniTAO/Userold/decisions/DnpFirstReady.h', 'NewCogniTAO/Userold/decisions/DnpFirstReady.cpp']",0,decisions::DntFirstReady,Magneton2Year,7,Magneton,7,5.42857142857143,0
+18,5,5,0,1,0,0.8,0,5,1,0,"['NewCogniTAO/Userold/decisions/DnpFirstReadyForEveryone.h', 'NewCogniTAO/Userold/decisions/DnpFirstReadyForEveryone.cpp']",0,decisions::DnpFirstReadyForEveryone,Magneton2Year,5,Magneton,5,3.6,0
+46,11,6,0,1,0,0,1,16,1.14285714285714,0,"['NewCogniTAO/Userold/decisions/DnpFirstReadyForEveryone.h', 'NewCogniTAO/Userold/decisions/DnpFirstReadyForEveryone.cpp']",0,decisions::DntFirstReadyForEveryone,Magneton2Year,7,Magneton,7,6.57142857142857,7
+22,6,6,1,1,0,0,0,7,1,0,"['NewCogniTAO/Userold/decisions/DnpSelectFirstBehavior.h', 'NewCogniTAO/Userold/decisions/DnpSelectFirstBehavior.cpp']",2,protocols::DntSelectFirstBehavior,Magneton2Year,6,Magneton,6,3.66666666666667,0
+12,3,3,0,1,0,0,0,4,1,0,"['NewCogniTAO/Userold/decisions/DnpSelectFirstBehavior.h', 'NewCogniTAO/Userold/decisions/DnpSelectFirstBehavior.cpp']",0,protocols::DnpSelectFirstBehavior,Magneton2Year,3,Magneton,3,4,0
+18,5,5,0,1,0,0.8,0,5,1,0,"['NewCogniTAO/Userold/decisions/DspAllTeamReady.h', 'NewCogniTAO/Userold/decisions/DspAllTeamReady.cpp']",0,decisions::DspAllTeamReady,Magneton2Year,5,Magneton,5,3.6,0
+40,13,6,0,1,0,0,1,12,1,0,"['NewCogniTAO/Userold/decisions/DspAllTeamReady.h', 'NewCogniTAO/Userold/decisions/DspAllTeamReady.cpp']",0,decisions::DstAllTeamReady,Magneton2Year,7,Magneton,7,5.71428571428571,7
+10,7,6,0,1,0,0,0,4,1,0,"['NewCogniTAO/Userold/decisions/domain_player/DapSelectLeader.h', 'NewCogniTAO/Userold/decisions/domain_player/DapSelectLeader.cpp']",0,decisions_domain_player::DatSelectLeader,Magneton2Year,7,Magneton,7,1.42857142857143,0
+5,5,5,0,1,0,0.8,0,1,1,0,"['NewCogniTAO/Userold/decisions/domain_player/DapSelectLeader.h', 'NewCogniTAO/Userold/decisions/domain_player/DapSelectLeader.cpp']",0,decisions_domain_player::DapSelectLeader,Magneton2Year,5,Magneton,5,1,0
+5,5,5,0,1,0,0.8,0,1,1,0,"['NewCogniTAO/Userold/decisions/domain_player/DapTogether.h', 'NewCogniTAO/Userold/decisions/domain_player/DapTogether.cpp']",0,decisions_domain_player::DapTogether,Magneton2Year,5,Magneton,5,1,0
+10,7,6,0,1,0,0,0,4,1,0,"['NewCogniTAO/Userold/decisions/domain_player/DapTogether.h', 'NewCogniTAO/Userold/decisions/domain_player/DapTogether.cpp']",0,decisions_domain_player::DatTogether,Magneton2Year,7,Magneton,7,1.42857142857143,0
+8,8,7,0,1,0,0.125,0,1,1,0,"['NewCogniTAO/Userold/decisions/domain_player/DepUntilAllTeamRun.h', 'NewCogniTAO/Userold/decisions/domain_player/DepUntilAllTeamRun.cpp']",0,decisions_domain_player::DetUntilAllTeamRun,Magneton2Year,8,Magneton,8,1,0
+15,5,5,0,1,0,0.8,0,5,1,0,"['NewCogniTAO/Userold/decisions/domain_player/DepUntilAllTeamRun.h', 'NewCogniTAO/Userold/decisions/domain_player/DepUntilAllTeamRun.cpp']",0,decisions_domain_player::DepUntilAllTeamRun,Magneton2Year,5,Magneton,5,3,0
+10,7,6,0,1,0,0,0,4,1,0,"['NewCogniTAO/Userold/decisions/domain_player/DnpSelectFirstBehavior.h', 'NewCogniTAO/Userold/decisions/domain_player/DnpSelectFirstBehavior.cpp']",0,decisions_domain_player::DntSelectFirstBehavior,Magneton2Year,7,Magneton,7,1.42857142857143,0
+5,5,5,0,1,0,0.8,0,1,1,0,"['NewCogniTAO/Userold/decisions/domain_player/DnpSelectFirstBehavior.h', 'NewCogniTAO/Userold/decisions/domain_player/DnpSelectFirstBehavior.cpp']",0,decisions_domain_player::DnpSelectFirstBehavior,Magneton2Year,5,Magneton,5,1,0
+6,6,6,0,1,0,1,0,1,1,0,"['NewCogniTAO/Userold/decisions/domain_player/DspAllTeamReady.h', 'NewCogniTAO/Userold/decisions/domain_player/DspAllTeamReady.cpp']",1,decisions_domain_player::DspAllTeamReady,Magneton2Year,6,Magneton,6,1,0
+8,8,7,0,1,0,0.125,0,1,1,0,"['NewCogniTAO/Userold/decisions/domain_player/DspAllTeamReady.h', 'NewCogniTAO/Userold/decisions/domain_player/DspAllTeamReady.cpp']",0,decisions_domain_player::DstAllTeamReady,Magneton2Year,8,Magneton,8,1,0
+17,4,4,0,1,0,0,0,5,1,0,"['NewCogniTAO/Userold/plans/PlnBlind.h', 'NewCogniTAO/Userold/plans/PlnBlind.cpp']",0,tasks::PlnBlind,Magneton2Year,4,Magneton,4,4.25,0
+4,4,4,0,1,0,0,0,1,1,0,"['NewCogniTAO/Userold/plans/PlnExecuteSBCGraph.h', 'NewCogniTAO/Userold/plans/PlnExecuteSBCGraph.cpp']",0,tasks::PlnExecuteSBCGraph,Magneton2Year,4,Magneton,4,1,0
+16,4,4,0,1,0,0,0,4,1,0,"['NewCogniTAO/Userold/plans/PlnFollower.h', 'NewCogniTAO/Userold/plans/PlnFollower.cpp']",0,tasks::PlnFollower,Magneton2Year,4,Magneton,4,4,0
+16,4,4,0,1,0,0,0,4,1,0,"['NewCogniTAO/Userold/plans/PlnGetJoystick.h', 'NewCogniTAO/Userold/plans/PlnGetJoystick.cpp']",0,tasks::PlnGetJoystick,Magneton2Year,4,Magneton,4,4,0
+3,3,3,0,1,0,0,0,1,1,0,"['NewCogniTAO/Userold/plans/PlnInitGraph.h', 'NewCogniTAO/Userold/plans/PlnInitGraph.cpp']",0,tasks::PlnInitGraph,Magneton2Year,3,Magneton,3,1,0
+12,3,3,0,1,0,0,0,4,1,0,"['NewCogniTAO/Userold/plans/PlnInitGraphLine.h', 'NewCogniTAO/Userold/plans/PlnInitGraphLine.cpp']",0,tasks::PlnInitGraphLine,Magneton2Year,3,Magneton,3,4,0
+10,4,4,0,1,0,0,0,4,1,0,"['NewCogniTAO/Userold/plans/PlnKeepDistanceAndAngle.h', 'NewCogniTAO/Userold/plans/PlnKeepDistanceAndAngle.cpp']",0,tasks::PlnKeepDistanceAndAngle,Magneton2Year,4,Magneton,4,2.5,0
+4,4,4,0,1,0,0,0,1,1,0,"['NewCogniTAO/Userold/plans/PlnLocateTarget.h', 'NewCogniTAO/Userold/plans/PlnLocateTarget.cpp']",0,tasks::PlnLocateTarget,Magneton2Year,4,Magneton,4,1,0
+16,4,4,0,1,0,0,0,4,1,0,"['NewCogniTAO/Userold/plans/PlnMovePtzToStart.h', 'NewCogniTAO/Userold/plans/PlnMovePtzToStart.cpp']",0,tasks::PlnMovePtzToStart,Magneton2Year,4,Magneton,4,4,0
+16,4,4,0,1,0,0,0,4,1,0,"['NewCogniTAO/Userold/plans/PlnMoveSBC.h', 'NewCogniTAO/Userold/plans/PlnMoveSBC.cpp']",0,tasks::PlnMoveSBC,Magneton2Year,4,Magneton,4,4,0
+12,3,3,0,1,0,0,0,4,1,0,"['NewCogniTAO/Userold/plans/PlnRunDijkstra.h', 'NewCogniTAO/Userold/plans/PlnRunDijkstra.cpp']",0,tasks::PlnRunDijkstra,Magneton2Year,3,Magneton,3,4,0
+3,3,3,0,1,0,0,0,1,1,0,"['NewCogniTAO/Userold/plans/PlnSearchColor.h', 'NewCogniTAO/Userold/plans/PlnSearchColor.cpp']",0,tasks::PlnSearchColor,Magneton2Year,3,Magneton,3,1,0
+4,4,4,0,1,0,0,0,1,1,0,"['NewCogniTAO/Userold/plans/PlnTrackLittleLess.h', 'NewCogniTAO/Userold/plans/PlnTrackLittleLess.cpp']",0,tasks::PlnTrackLittleLess,Magneton2Year,4,Magneton,4,1,0
+6,6,6,0,1,0,0.666666666666667,0,1,1,0,"['NewCogniTAO/Userold/plans/domain_player/magneton/PlnBlind.h', 'NewCogniTAO/Userold/plans/domain_player/magneton/PlnBlind.cpp']",0,plans_domain_player_magneton::PlnBlind,Magneton2Year,6,Magneton,6,1,0
+6,6,6,0,1,0,0.666666666666667,0,1,1,0,"['NewCogniTAO/Userold/plans/domain_player/magneton/PlnExecuteSbcGraph.h', 'NewCogniTAO/Userold/plans/domain_player/magneton/PlnExecuteSbcGraph.cpp']",0,plans_domain_player_magneton::PlnExecuteSbcGraph,Magneton2Year,6,Magneton,6,1,0
+6,6,6,0,1,0,0.666666666666667,0,1,1,0,"['NewCogniTAO/Userold/plans/domain_player/magneton/PlnFollower.h', 'NewCogniTAO/Userold/plans/domain_player/magneton/PlnFollower.cpp']",0,plans_domain_player_magneton::PlnFollower,Magneton2Year,6,Magneton,6,1,0
+6,6,6,0,1,0,0.666666666666667,0,1,1,0,"['NewCogniTAO/Userold/plans/domain_player/magneton/PlnGetJoystick.h', 'NewCogniTAO/Userold/plans/domain_player/magneton/PlnGetJoystick.cpp']",0,plans_domain_player_magneton::PlnGetJoystick,Magneton2Year,6,Magneton,6,1,0
+6,6,6,0,1,0,0.666666666666667,0,1,1,0,"['NewCogniTAO/Userold/plans/domain_player/magneton/PlnMovePtzToStart.h', 'NewCogniTAO/Userold/plans/domain_player/magneton/PlnMovePtzToStart.cpp']",0,plans_domain_player_magneton::PlnMovePtzToStart,Magneton2Year,6,Magneton,6,1,0
+6,6,6,0,1,0,0.666666666666667,0,1,1,0,"['NewCogniTAO/Userold/plans/domain_player/magneton/PlnMoveSBC.h', 'NewCogniTAO/Userold/plans/domain_player/magneton/PlnMoveSBC.cpp']",0,plans_domain_player_magneton::PlnMoveSBC,Magneton2Year,6,Magneton,6,1,0
+7,7,7,0,1,0,0.857142857142857,0,1,1,0,"['NewCogniTAO/Userold/plans/domain_player/magneton/PlnRoot.h', 'NewCogniTAO/Userold/plans/domain_player/magneton/PlnRoot.cpp']",0,plans_domain_player_magneton::PlnRoot,Magneton2Year,7,Magneton,7,1,0
+6,6,6,0,1,0,0.666666666666667,0,1,1,0,"['NewCogniTAO/Userold/plans/domain_player/magneton/PlnRunDijkstra.h', 'NewCogniTAO/Userold/plans/domain_player/magneton/PlnRunDijkstra.cpp']",0,plans_domain_player_magneton::PlnRunDijkstra,Magneton2Year,6,Magneton,6,1,0
+10,7,7,0,1,0,0.714285714285714,0,4,1,0,"['NewCogniTAO/Userold/plans/domain_player/magneton/PlnTrackLittleLoss.h', 'NewCogniTAO/Userold/plans/domain_player/magneton/PlnTrackLittleLoss.cpp']",0,plans_domain_player_magneton::PlnTrackLittleLoss,Magneton2Year,7,Magneton,7,1.42857142857143,0
+6,6,6,0,1,0,0.666666666666667,0,1,1,0,"['NewCogniTAO/Userold/plans/domain_player/magneton/PlnTrackLittleLossOnce.h', 'NewCogniTAO/Userold/plans/domain_player/magneton/PlnTrackLittleLossOnce.cpp']",0,plans_domain_player_magneton::PlnTrackLittleLossOnce,Magneton2Year,6,Magneton,6,1,0
+6,6,6,0,1,0,0.666666666666667,0,1,1,0,"['NewCogniTAO/Userold/plans/domain_player/magneton/PlnUpdateSBC.h', 'NewCogniTAO/Userold/plans/domain_player/magneton/PlnUpdateSBC.cpp']",0,plans_domain_player_magneton::PlnUpdateSBC,Magneton2Year,6,Magneton,6,1,0
+68,32,19,55,2,8,0.857142857142857,4,18,1.19047619047619,0,"['NewCogniTAO/Userold/robot/RobotShrimp.h', 'NewCogniTAO/Userold/robot/RobotShrimp.cpp']",9,robot::RobotShrimp,Magneton2Year,21,Magneton,21,3.23809523809524,84
+0,0,0,0,0,0,0,0,0,0,0,['NewCogniTAO/Userold/robot/domain_player/devicesLib/Laser.cc'],0,NewCogniTAO/Userold/robot/domain_player/devicesLib/Laser,Magneton2Year,0,Magneton,0,0,0
+0,0,0,0,0,0,0,0,0,0,0,['NewCogniTAO/Userold/robot/domain_player/devicesLib/Ptz.cc'],0,NewCogniTAO/Userold/robot/domain_player/devicesLib/Ptz,Magneton2Year,0,Magneton,0,0,0
+4,21,3,10,1,13,2.75,0,1,1,0,"['NewCogniTAO/Userold/robot/domain_player/plrAID.h', 'NewCogniTAO/Userold/robot/domain_player/plrAID.cc']",13,player::plrAID,Magneton2Year,2,Magneton,4,1,0
+5,5,5,37,2,1,0.6,0,1,1,11,['NewCogniTAO/Userold/robot/domain_player/plrDevice.h'],1,player::plrDevice,Magneton2Year,5,Magneton,5,1,0
+10,4,4,0,3,1,0.5,0,4,1,0,['NewCogniTAO/Userold/robot/domain_player/plrDevicesLib.h'],1,player::Speedometer,Magneton2Year,4,Magneton,4,2.5,0
+27,21,6,0,3,1,0.5,3,8,1.33333333333333,0,['NewCogniTAO/Userold/robot/domain_player/plrDevicesLib.h'],4,player::LPS,Magneton2Year,3,Magneton,6,4.5,9
+10,4,4,0,3,1,0.5,0,4,1,0,['NewCogniTAO/Userold/robot/domain_player/plrDevicesLib.h'],1,player::Odometer,Magneton2Year,4,Magneton,4,2.5,0
+0,0,0,0,0,0,0,0,0,0,0,['NewCogniTAO/Userold/robot/domain_player/plrDevicesLib.h'],0,NewCogniTAO/Userold/robot/domain_player/plrDevicesLib,Magneton2Year,0,Magneton,0,0,0
+37,31,16,10,1,5,1.05555555555556,1,17,1,1,"['NewCogniTAO/Userold/robot/domain_player/plrRobot.h', 'NewCogniTAO/Userold/robot/domain_player/plrRobot.cc']",5,player::plrRobot,Magneton2Year,9,Magneton,18,2.05555555555556,9
+0,0,0,104,0,24,0,0,0,0,0,"['NewCogniTAO/Userold/robot/domain_player/plrVarNames.h', 'NewCogniTAO/Userold/robot/domain_player/plrVarNames.cc']",24,plrVarNames::plrDevices,Magneton2Year,0,Magneton,0,0,0
+4,19,4,0,0,0,1.75,2,1,1,0,"['NewCogniTAO/Userold/structs/Graph.h', 'NewCogniTAO/Userold/structs/Graph.cpp']",3,Graph,Magneton2Year,1,Magneton,4,1,2
+16,36,14,4,0,0,0.5,0,3,1,0,"['NewCogniTAO/Userold/structs/SharedVertex.h', 'NewCogniTAO/Userold/structs/SharedVertex.cpp']",5,SharedVertex,Magneton2Year,3,Magneton,14,1.14285714285714,0
+20,40,16,7,0,0,0.9375,0,3,1,0,"['NewCogniTAO/Userold/structs/Vertex.h', 'NewCogniTAO/Userold/structs/Vertex.cpp']",5,Vertex,Magneton2Year,4,Magneton,16,1.25,0
+0,0,0,0,0,0,0,0,0,0,0,['NewCogniTAO/Userold/tasks/Defines.h'],0,NewCogniTAO/Userold/tasks/Defines,Magneton2Year,0,Magneton,0,0,0
+34,5,5,0,1,0,0,0,9,1.6,0,"['NewCogniTAO/Userold/tasks/TskBlind.h', 'NewCogniTAO/Userold/tasks/TskBlind.cpp']",0,tasks::TskBlind,Magneton2Year,5,Magneton,5,6.8,0
+0,0,0,0,0,0,0,0,0,0,0,['NewCogniTAO/Userold/tasks/TskExecuteSBCGraph.cpp'],0,Userold/tasks/TskExecuteSBCGraph,Magneton2Year,0,Magneton,0,0,0
+88,24,6,0,1,0,0.166666666666667,4,52,2.16666666666667,0,"['NewCogniTAO/Userold/tasks/TskExecuteSBCGraph.h', 'NewCogniTAO/Userold/tasks/TskExecuteSBCGraph.cpp']",6,tasks::TskExecuteSBCGraph,Magneton2Year,3,Magneton,6,14.6666666666667,12
+61,18,5,0,1,0,0,4,30,1.6,0,"['NewCogniTAO/Userold/tasks/TskFollower.h', 'NewCogniTAO/Userold/tasks/TskFollower.cpp']",1,tasks::TskFollower,Magneton2Year,5,Magneton,5,12.2,20
+99,24,8,0,1,0,0.875,4,46,2.125,0,"['NewCogniTAO/Userold/tasks/TskFormation.h', 'NewCogniTAO/Userold/tasks/TskFormation.cpp']",4,tasks::TskFormation,Magneton2Year,3,Magneton,8,12.375,12
+82,17,5,0,1,0,0,3,40,2,0,"['NewCogniTAO/Userold/tasks/TskGetJoystick.h', 'NewCogniTAO/Userold/tasks/TskGetJoystick.cpp']",2,tasks::TskGetJoystick,Magneton2Year,3,Magneton,5,16.4,9
+26,7,6,0,1,0,0.166666666666667,0,7,1,0,"['NewCogniTAO/Userold/tasks/TskIdle.h', 'NewCogniTAO/Userold/tasks/TskIdle.cc']",1,tasks::TskIdle,Magneton2Year,6,Magneton,6,4.33333333333333,0
+87,10,5,0,1,0,0,2,52,1.6,0,"['NewCogniTAO/Userold/tasks/TskInitGraph.h', 'NewCogniTAO/Userold/tasks/TskInitGraph.cpp']",1,tasks::TskInitGraph,Magneton2Year,5,Magneton,5,17.4,10
+87,10,5,0,1,0,0,2,52,1.6,0,"['NewCogniTAO/Userold/tasks/TskInitGraphLine.h', 'NewCogniTAO/Userold/tasks/TskInitGraphLine.cpp']",1,tasks::TskInitGraphLine,Magneton2Year,5,Magneton,5,17.4,10
+0,0,0,0,0,0,0,0,0,0,0,['NewCogniTAO/Userold/tasks/TskKeepDistanceAndAngle.cpp'],0,Userold/tasks/TskKeepDistanceAndAngle,Magneton2Year,0,Magneton,0,0,0
+21,7,6,0,1,0,0.166666666666667,0,12,1,0,"['NewCogniTAO/Userold/tasks/TskKeepDistanceAndAngle.h', 'NewCogniTAO/Userold/tasks/TskKeepDistanceAndAngle.cpp']",2,tasks::TskKeepDistanceAndAngle,Magneton2Year,6,Magneton,6,3.5,0
+42,13,5,0,1,0,0,3,16,1.2,0,"['NewCogniTAO/Userold/tasks/TskLeader.h', 'NewCogniTAO/Userold/tasks/TskLeader.cpp']",2,tasks::TskLeader,Magneton2Year,4,Magneton,5,8.4,12
+46,11,6,0,1,0,0.333333333333333,2,27,1,0,"['NewCogniTAO/Userold/tasks/TskLocateTarget.h', 'NewCogniTAO/Userold/tasks/TskLocateTarget.cpp']",2,tasks::TskLocateTarget,Magneton2Year,5,Magneton,6,7.66666666666667,10
+41,11,5,0,1,0,0,3,16,1.6,0,"['NewCogniTAO/Userold/tasks/TskMovePtzToStart.h', 'NewCogniTAO/Userold/tasks/TskMovePtzToStart.cpp']",1,tasks::TskMovePtzToStart,Magneton2Year,4,Magneton,5,8.2,12
+40,6,5,0,1,0,0,0,16,1.6,0,"['NewCogniTAO/Userold/tasks/TskMoveSBC.h', 'NewCogniTAO/Userold/tasks/TskMoveSBC.cpp']",1,tasks::TskMoveSBC,Magneton2Year,5,Magneton,5,8,0
+35,6,5,0,1,0,0,0,14,1,0,"['NewCogniTAO/Userold/tasks/TskPosition.h', 'NewCogniTAO/Userold/tasks/TskPosition.cpp']",1,tasks::TskPosition,Magneton2Year,5,Magneton,5,7,0
+173,27,8,0,1,0,0.125,1,87,3,0,"['NewCogniTAO/Userold/tasks/TskRunDijkstra.h', 'NewCogniTAO/Userold/tasks/TskRunDijkstra.cpp']",7,tasks::TskRunDijkstra,Magneton2Year,5,Magneton,8,21.625,5
+37,14,5,0,1,0,0,4,16,1.4,0,"['NewCogniTAO/Userold/tasks/TskSearchColor.h', 'NewCogniTAO/Userold/tasks/TskSearchColor.cpp']",1,tasks::TskSearchColor,Magneton2Year,3,Magneton,5,7.4,12
+67,12,5,0,1,5,0.888888888888889,2,21,1.55555555555556,0,"['NewCogniTAO/Userold/tasks/TskShrimp.h', 'NewCogniTAO/Userold/tasks/TskShrimp.cc']",5,tasks::TskShrimp,Magneton2Year,8,Magneton,9,7.44444444444444,16
+0,0,0,0,0,0,0,0,0,0,0,['NewCogniTAO/Userold/tasks/TskTrackLittleLess.cpp'],0,Userold/tasks/TskTrackLittleLess,Magneton2Year,0,Magneton,0,0,0
+89,25,7,0,1,0,0.571428571428571,6,51,1.71428571428571,0,"['NewCogniTAO/Userold/tasks/TskTrackLittleLess.h', 'NewCogniTAO/Userold/tasks/TskTrackLittleLess.cpp']",2,tasks::TskTrackLittleLess,Magneton2Year,5,Magneton,7,12.7142857142857,30
+0,0,0,0,0,0,0,0,0,0,0,"['NewCogniTAO/Userold/tasks/TskUpdateSBC.cpp', 'NewCogniTAO/Userold/tasks/TskUpdateSBC.h']",0,Userold/tasks/TskUpdateSBC,Magneton2Year,0,Magneton,0,0,0
+153,34,7,0,1,0,0.285714285714286,8,87,2.14285714285714,0,"['NewCogniTAO/Userold/tasks/TskUpdateSBC.h', 'NewCogniTAO/Userold/tasks/TskUpdateSBC.cpp']",6,tasks::UpdateSBC,Magneton2Year,4,Magneton,7,21.8571428571429,32
+4,4,4,0,1,0,0,0,1,1,0,"['NewCogniTAO/Userold/tasks/TskUpdateSBC.h', 'NewCogniTAO/Userold/tasks/TskUpdateSBC.cpp']",0,tasks::UpdateSBCFac,Magneton2Year,4,Magneton,4,1,0
+27,8,8,0,2,0,0.25,0,8,1,0,"['NewCogniTAO/Userold/tasks/domain_player/TskBlind.h', 'NewCogniTAO/Userold/tasks/domain_player/TskBlind.cpp']",1,tasks_domain_player::TskBlind,Magneton2Year,8,Magneton,8,3.375,0
+50,12,9,0,2,0,0.333333333333333,2,23,1.33333333333333,0,"['NewCogniTAO/Userold/tasks/domain_player/TskExecuteSBCGraph.h', 'NewCogniTAO/Userold/tasks/domain_player/TskExecuteSBCGraph.cpp']",9,tasks_domain_player::TskExecuteSBCGraph,Magneton2Year,9,Magneton,9,5.55555555555556,18
+27,8,8,0,2,0,0.25,0,8,1,0,"['NewCogniTAO/Userold/tasks/domain_player/TskFollower.h', 'NewCogniTAO/Userold/tasks/domain_player/TskFollower.cpp']",1,tasks_domain_player::TskFollower,Magneton2Year,8,Magneton,8,3.375,0
+27,8,8,0,2,0,0.25,0,8,1,0,"['NewCogniTAO/Userold/tasks/domain_player/TskGetJoystick.h', 'NewCogniTAO/Userold/tasks/domain_player/TskGetJoystick.cpp']",4,tasks_domain_player::TskGetJoystick,Magneton2Year,8,Magneton,8,3.375,0
+23,7,7,3,1,0,0.285714285714286,0,8,1,1,"['NewCogniTAO/Userold/tasks/domain_player/TskIdle.h', 'NewCogniTAO/Userold/tasks/domain_player/TskIdle.cpp']",2,tasks_domain_player::TskIdle,Magneton2Year,7,Magneton,7,3.28571428571429,0
+27,8,8,0,2,0,0.25,0,8,1,0,"['NewCogniTAO/Userold/tasks/domain_player/TskInitGraph.h', 'NewCogniTAO/Userold/tasks/domain_player/TskInitGraph.cpp']",2,tasks_domain_player::TskInitGraph,Magneton2Year,8,Magneton,8,3.375,0
+28,9,9,0,2,0,0.444444444444444,0,8,1,0,"['NewCogniTAO/Userold/tasks/domain_player/TskLocateTarget.h', 'NewCogniTAO/Userold/tasks/domain_player/TskLocateTarget.cpp']",3,tasks_domain_player::TskLocateTarget,Magneton2Year,9,Magneton,9,3.11111111111111,0
+27,8,8,0,2,0,0.25,0,8,1,0,"['NewCogniTAO/Userold/tasks/domain_player/TskMoveSBC.h', 'NewCogniTAO/Userold/tasks/domain_player/TskMoveSBC.cpp']",2,tasks_domain_player::TskMoveSBC,Magneton2Year,8,Magneton,8,3.375,0
+42,14,11,0,2,0,0.272727272727273,0,13,1,0,"['NewCogniTAO/Userold/tasks/domain_player/TskRunDijkstra.h', 'NewCogniTAO/Userold/tasks/domain_player/TskRunDijkstra.cpp']",8,tasks_domain_player::TskRunDijkstra,Magneton2Year,11,Magneton,11,3.81818181818182,0
+49,17,10,0,2,0,0.7,4,19,1.1,0,"['NewCogniTAO/Userold/tasks/domain_player/TskTrackLittleLess.h', 'NewCogniTAO/Userold/tasks/domain_player/TskTrackLittleLess.cpp']",15,tasks_domain_player::TskTrackLittleLess,Magneton2Year,10,Magneton,10,4.9,40
+47,3,3,17,0,2,0.333333333333333,0,23,1,0,"['NewCogniTAO/Userold/utils/Utils.cpp', 'NewCogniTAO/Userold/utils/Utils.h']",2,NewCogniTAO/Userold/utils/Utils,Magneton2Year,3,Magneton,3,15.6666666666667,0
+6,13,6,2,1,0,1.83333333333333,2,1,1,0,"['NewCogniTAO/Userold/variables/SrlRobotData.h', 'NewCogniTAO/Userold/variables/SrlRobotData.cpp']",2,serialization::SrlRobotData,Magneton2Year,6,Magneton,6,1,12
+21,25,11,0,1,0,2.27272727272727,1,11,1.09090909090909,0,"['NewCogniTAO/Userold/variables/SrlSharedVertex.h', 'NewCogniTAO/Userold/variables/SrlSharedVertex.cpp']",0,serialization::SrlSharedVertex,Magneton2Year,5,Magneton,11,1.90909090909091,5
+1,3,1,0,1,0,1,1,1,1,0,"['NewCogniTAO/Userold/variables/VarAllTeamReady.h', 'NewCogniTAO/Userold/variables/VarAllTeamReady.cpp']",0,variables::VarAllTeamReady,Magneton2Year,1,Magneton,1,1,1
+1,1,1,0,1,0,1,0,1,1,0,"['NewCogniTAO/Userold/variables/VarCounter.h', 'NewCogniTAO/Userold/variables/VarCounter.cpp']",0,variables::VarCounter,Magneton2Year,1,Magneton,1,1,0
+0,0,0,0,0,2,0,0,0,0,0,"['NewCogniTAO/Userold/variables/VarGoals.h', 'NewCogniTAO/Userold/variables/VarGoals.cc']",2,variables::goals,Magneton2Year,0,Magneton,0,0,0
+9,1,1,0,0,0,2,0,9,1,0,['NewCogniTAO/Userold/variables/VarOriginalGraph.cpp'],0,Userold/variables/VarOriginalGraph,Magneton2Year,1,Magneton,1,9,0
+23,23,3,0,1,0,1,2,17,1,0,"['NewCogniTAO/Userold/variables/VarOriginalGraph.h', 'NewCogniTAO/Userold/variables/VarOriginalGraph.cpp']",0,variables::VarOriginalGraph,Magneton2Year,3,Magneton,3,7.66666666666667,6
+1,2,1,0,1,0,1,1,1,1,0,"['NewCogniTAO/Userold/variables/VarReadyListForDecisionTask.h', 'NewCogniTAO/Userold/variables/VarReadyListForDecisionTask.cpp']",0,variables::VarReadyListForDecisionTask,Magneton2Year,1,Magneton,1,1,1
+9,1,1,0,0,0,2,0,9,1,0,['NewCogniTAO/Userold/variables/VarSharedGraph.cpp'],0,Userold/variables/VarSharedGraph,Magneton2Year,1,Magneton,1,9,0
+19,6,2,0,1,0,1,2,18,1,0,"['NewCogniTAO/Userold/variables/VarSharedGraph.h', 'NewCogniTAO/Userold/variables/VarSharedGraph.cpp']",0,variables::VarSharedGraph,Magneton2Year,2,Magneton,2,9.5,4
+1,3,1,0,1,0,1,1,1,1,0,"['NewCogniTAO/Userold/variables/VarSubteamDecision.h', 'NewCogniTAO/Userold/variables/VarSubteamDecision.cpp']",0,variables::VarSubteamDecision,Magneton2Year,1,Magneton,1,1,1
+1,3,1,0,1,0,1,1,1,1,0,"['NewCogniTAO/Userold/variables/VarUntilAllTeamRun.h', 'NewCogniTAO/Userold/variables/VarUntilAllTeamRun.cpp']",0,variables::VarUntilAllTeamRun,Magneton2Year,1,Magneton,1,1,1
+7,10,7,0,1,0,1.42857142857143,2,1,1,0,"['NewCogniTAO/Userold/variables/VlgArraySharedVertex.h', 'NewCogniTAO/Userold/variables/VlgArraySharedVertex.cpp']",0,desicions::VlgArraySharedVertex,Magneton2Year,7,Magneton,7,1,14
+34,8,4,0,1,0,1.5,0,25,2,0,"['NewCogniTAO/Userold/variables/VlgBooleanAND.h', 'NewCogniTAO/Userold/variables/VlgBooleanAND.cpp']",2,protocols::VlgBooleanAND,Magneton2Year,3,Magneton,4,8.5,0
+39,8,4,0,1,0,1.5,0,30,2,0,"['NewCogniTAO/Userold/variables/VlgBooleanOR.h', 'NewCogniTAO/Userold/variables/VlgBooleanOR.cpp']",2,protocols::VlgBooleanOR,Magneton2Year,3,Magneton,4,9.75,0
+5,2,2,1,1,0,1.5,0,4,1,1,"['NewCogniTAO/Userold/variables/VlgEmpty.h', 'NewCogniTAO/Userold/variables/VlgEmpty.cpp']",0,decisions::VlgEmpty,Magneton2Year,2,Magneton,2,2.5,0
+5,5,5,0,1,0,1.2,0,1,1,0,"['NewCogniTAO/Userold/variables/VlgOthersOpinion.h', 'NewCogniTAO/Userold/variables/VlgOthersOpinion.cpp']",0,protocols::VlgOthersOpinion,Magneton2Year,5,Magneton,5,1,0
+35,8,2,0,1,0,1.5,1,34,3,0,"['NewCogniTAO/Userold/variables/VlgProgressStatus.h', 'NewCogniTAO/Userold/variables/VlgProgressStatus.cpp']",0,decisions::VlgProgressStatus,Magneton2Year,2,Magneton,2,17.5,2
+41,4,2,0,1,0,1.5,1,40,3,0,"['NewCogniTAO/Userold/variables/VlgReadyForDecisionTasks.h', 'NewCogniTAO/Userold/variables/VlgReadyForDecisionTasks.cpp']",0,decisions::VlgReadyForDecisionTasks,Magneton2Year,2,Magneton,2,20.5,2
+44,8,2,0,1,0,1.5,1,43,3,0,"['NewCogniTAO/Userold/variables/VlgReadyStatus.h', 'NewCogniTAO/Userold/variables/VlgReadyStatus.cpp']",0,decisions::VlgReadyStatus,Magneton2Year,2,Magneton,2,22,2
+22,4,2,0,1,0,1.5,1,21,2,0,"['NewCogniTAO/Userold/variables/VlgSubteamDecision.h', 'NewCogniTAO/Userold/variables/VlgSubteamDecision.cpp']",0,decisions::VlgSubteamDecisionForAllTeam,Magneton2Year,2,Magneton,2,11,2
+0,0,0,0,2,0,0,0,0,0,0,"['NewCogniTAO/Userold/variables/VlgSubteamDecision.h', 'NewCogniTAO/Userold/variables/VlgSubteamDecision.cpp']",0,decisions::VlgSubteamDecision,Magneton2Year,0,Magneton,0,0,0
+0,0,0,47,0,16,0,0,0,0,0,"['NewCogniTAO/Userold/variables/VnmSynchronization.h', 'NewCogniTAO/Userold/variables/VnmSynchronization.cc']",16,variables::synchronization,Magneton2Year,0,Magneton,0,0,0
+0,0,0,2,0,5,0,0,0,0,0,"['NewCogniTAO/Userold/variables/VnmTeamHierarchy.h', 'NewCogniTAO/Userold/variables/VnmTeamHierarchy.cc']",5,variables::job,Magneton2Year,0,Magneton,0,0,0
+0,0,0,0,0,0,0,0,0,0,0,"['NewCogniTAO/Userold/variables/VnmTeamHierarchy.h', 'NewCogniTAO/Userold/variables/VnmTeamHierarchy.cc']",0,Userold/variables/VnmTeamHierarchy,Magneton2Year,0,Magneton,0,0,0
+0,0,0,89,0,16,0,0,0,0,0,"['NewCogniTAO/Userold/variables/VnmVariables.h', 'NewCogniTAO/Userold/variables/VnmVariables.cc']",16,variables::formation,Magneton2Year,0,Magneton,0,0,0
+0,0,0,25,0,3,0,0,0,0,0,"['NewCogniTAO/Userold/variables/VnmVariables.h', 'NewCogniTAO/Userold/variables/VnmVariables.cc']",3,variables::sharing,Magneton2Year,0,Magneton,0,0,0
+0,0,0,4,0,2,0,0,0,0,0,"['NewCogniTAO/Userold/variables/VnmVariables.h', 'NewCogniTAO/Userold/variables/VnmVariables.cc']",2,variables::FenceDemo,Magneton2Year,0,Magneton,0,0,0
+2,2,0,2,0,0,1,0,1,1,2,['PlayerBypass/clientproxy.h'],0,PlayerCc::ClientProxy,Magneton2Year,2,Magneton,2,1,0
+19,10,2,0,0,0,2,1,18,1.5,0,['PlayerBypass/playerc++.h'],0,PlayerBypass/playerc++,Magneton2Year,2,Magneton,2,9.5,2
+62,50,24,7,1,0,0.5,4,9,1,0,['PlayerBypass/playerc++.h'],6,PlayerCc::LaserProxy,Magneton2Year,18,Magneton,26,2.38461538461538,72
+1,1,1,0,0,0,2,0,1,1,0,['PlayerBypass/playerclient.h'],0,PlayerBypass/playerclient,Magneton2Year,1,Magneton,1,1,0
+5,5,3,1,0,0,0.4,0,1,1,0,['PlayerBypass/playerclient.h'],0,PlayerCc::PlayerClient,Magneton2Year,5,Magneton,5,1,0
+0,0,0,0,0,0,0,0,0,0,0,['PlayerBypassLaser/common.h'],0,PlayerBypassLaser/common,Magneton2Year,0,Magneton,0,0,0
+19,10,2,0,0,0,2,1,18,1.5,0,['PlayerBypassLaser/playerc++.h'],0,PlayerBypassLaser/playerc++,Magneton2Year,2,Magneton,2,9.5,2
+1,1,1,0,0,0,2,0,1,1,0,['PlayerBypassLaser/playerclient.h'],0,PlayerBypassLaser/playerclient,Magneton2Year,1,Magneton,1,1,0
+0,0,0,0,0,0,0,0,0,0,0,"['PlayerBypassLaser/urg_laser.h', 'PlayerBypassLaser/urg_laser.cc']",0,PlayerBypassLaser/urg_laser,Magneton2Year,0,Magneton,0,0,0
+0,0,0,0,0,0,0,0,0,0,0,"['PlayerBypassLaser/urg_laser1.h', 'PlayerBypassLaser/urg_laser1.cc']",0,urg_laser1,Magneton2Year,0,Magneton,0,0,0
+42,10,7,0,1,0,0.142857142857143,0,16,1.42857142857143,0,"['PullNoCamFunc/User/behaviors/Blind.h', 'PullNoCamFunc/User/behaviors/Blind.cpp']",1,behaviors::Blind,Magneton2Year,5,Magneton,7,6,0
+17,4,4,0,1,0,0,0,5,1,0,"['PullNoCamFunc/User/behaviors/Blind.h', 'PullNoCamFunc/User/behaviors/Blind.cpp']",0,behaviors::BlindFac,Magneton2Year,4,Magneton,4,4.25,0
+0,0,0,0,0,0,0,0,0,0,0,['PullNoCamFunc/User/behaviors/Defines.h'],0,PullNoCamFunc/User/behaviors/Defines,Magneton2Year,0,Magneton,0,0,0
+12,3,3,0,1,0,0,0,4,1,0,"['PullNoCamFunc/User/behaviors/DoNothing.h', 'PullNoCamFunc/User/behaviors/DoNothing.cpp']",0,behaviors::DoNothingFac,Magneton2Year,3,Magneton,3,4,0
+0,0,0,0,0,0,0,0,0,0,0,"['PullNoCamFunc/User/behaviors/ExecuteSBCGraph.cpp', 'PullNoCamFunc/User/behaviors/ExecuteSBCGraph.h']",0,ExecuteSBCGraph,Magneton2Year,0,Magneton,0,0,0
+4,4,4,0,1,0,0,0,1,1,0,"['PullNoCamFunc/User/behaviors/ExecuteSBCGraph.h', 'PullNoCamFunc/User/behaviors/ExecuteSBCGraph.cpp']",0,behaviors::ExecuteSBCGraphFac,Magneton2Year,4,Magneton,4,1,0
+95,29,9,0,1,0,0.222222222222222,5,52,1.77777777777778,0,"['PullNoCamFunc/User/behaviors/ExecuteSBCGraph.h', 'PullNoCamFunc/User/behaviors/ExecuteSBCGraph.cpp']",6,behaviors::ExecuteSBCGraph,Magneton2Year,6,Magneton,9,10.5555555555556,30
+16,4,4,0,1,0,0,0,4,1,0,"['PullNoCamFunc/User/behaviors/Follower.h', 'PullNoCamFunc/User/behaviors/Follower.cpp']",0,behaviors::FollowerFac,Magneton2Year,4,Magneton,4,4,0
+68,23,7,0,1,0,0.142857142857143,5,30,1.42857142857143,0,"['PullNoCamFunc/User/behaviors/Follower.h', 'PullNoCamFunc/User/behaviors/Follower.cpp']",1,behaviors::Follower,Magneton2Year,5,Magneton,7,9.71428571428571,25
+0,0,0,0,0,0,0,0,0,0,0,"['PullNoCamFunc/User/behaviors/Formation.cpp', 'PullNoCamFunc/User/behaviors/Formation.h']",0,Formation,Magneton2Year,0,Magneton,0,0,0
+3,3,3,0,1,0,0,0,1,1,0,"['PullNoCamFunc/User/behaviors/Formation.h', 'PullNoCamFunc/User/behaviors/Formation.cpp']",0,behaviors::FormationRightFac,Magneton2Year,3,Magneton,3,1,0
+3,3,3,0,1,0,0,0,1,1,0,"['PullNoCamFunc/User/behaviors/Formation.h', 'PullNoCamFunc/User/behaviors/Formation.cpp']",0,behaviors::FormationLeftFac,Magneton2Year,3,Magneton,3,1,0
+100,25,9,0,1,0,0.888888888888889,4,46,2,0,"['PullNoCamFunc/User/behaviors/Formation.h', 'PullNoCamFunc/User/behaviors/Formation.cpp']",4,behaviors::Formation,Magneton2Year,4,Magneton,9,11.1111111111111,16
+85,19,6,0,1,0,0.166666666666667,4,40,1.83333333333333,0,"['PullNoCamFunc/User/behaviors/GetJoystick.h', 'PullNoCamFunc/User/behaviors/GetJoystick.cpp']",2,behaviors::GetJoystick,Magneton2Year,4,Magneton,6,14.1666666666667,16
+16,4,4,0,1,0,0,0,4,1,0,"['PullNoCamFunc/User/behaviors/GetJoystick.h', 'PullNoCamFunc/User/behaviors/GetJoystick.cpp']",0,behaviors::GetJoystickFac,Magneton2Year,4,Magneton,4,4,0
+13,4,4,0,1,0,0,0,4,1,0,['PullNoCamFunc/User/behaviors/IdleBeh.h'],0,behaviors::IdleBehFac_waitMessage,Magneton2Year,4,Magneton,4,3.25,0
+25,6,6,0,1,0,0.166666666666667,0,8,1,0,['PullNoCamFunc/User/behaviors/IdleBeh.h'],1,behaviors::IdleBeh,Magneton2Year,6,Magneton,6,4.16666666666667,0
+12,3,3,0,1,0,0,0,4,1,0,['PullNoCamFunc/User/behaviors/IdleBeh.h'],0,behaviors::IdleBehFac_waitUpdate,Magneton2Year,3,Magneton,3,4,0
+9,3,3,0,1,0,0,0,4,1,0,['PullNoCamFunc/User/behaviors/IdleBeh.h'],0,behaviors::isMessageArrived,Magneton2Year,3,Magneton,3,3,0
+90,13,8,0,1,0,0.125,2,52,1.375,0,"['PullNoCamFunc/User/behaviors/InitGraph.h', 'PullNoCamFunc/User/behaviors/InitGraph.cpp']",1,behaviors::InitGraph,Magneton2Year,8,Magneton,8,11.25,16
+12,3,3,0,1,0,0,0,4,1,0,"['PullNoCamFunc/User/behaviors/InitGraph.h', 'PullNoCamFunc/User/behaviors/InitGraph.cpp']",0,behaviors::InitGraphFac,Magneton2Year,3,Magneton,3,4,0
+12,3,3,0,1,0,0,0,4,1,0,"['PullNoCamFunc/User/behaviors/InitGraphLine.h', 'PullNoCamFunc/User/behaviors/InitGraphLine.cpp']",0,behaviors::InitGraphLineFac,Magneton2Year,3,Magneton,3,4,0
+90,13,8,0,1,0,0.125,2,52,1.375,0,"['PullNoCamFunc/User/behaviors/InitGraphLine.h', 'PullNoCamFunc/User/behaviors/InitGraphLine.cpp']",1,behaviors::InitGraphLine,Magneton2Year,8,Magneton,8,11.25,16
+0,0,0,0,0,0,0,0,0,0,0,"['PullNoCamFunc/User/behaviors/KeepDistanceAndAngle.cpp', 'PullNoCamFunc/User/behaviors/KeepDistanceAndAngle.h']",0,KeepDistanceAndAngle,Magneton2Year,0,Magneton,0,0,0
+24,8,7,0,1,0,0.285714285714286,0,12,1,0,"['PullNoCamFunc/User/behaviors/KeepDistanceAndAngle.h', 'PullNoCamFunc/User/behaviors/KeepDistanceAndAngle.cpp']",2,behaviors::KeepDistanceAndAngle,Magneton2Year,7,Magneton,7,3.42857142857143,0
+10,4,4,0,1,0,0,0,4,1,0,"['PullNoCamFunc/User/behaviors/KeepDistanceAndAngle.h', 'PullNoCamFunc/User/behaviors/KeepDistanceAndAngle.cpp']",0,behaviors::KeepDistanceAndAngleFac,Magneton2Year,4,Magneton,4,2.5,0
+16,4,4,0,1,0,0,0,4,1,0,"['PullNoCamFunc/User/behaviors/Leader.h', 'PullNoCamFunc/User/behaviors/Leader.cpp']",0,behaviors::LeaderFac,Magneton2Year,4,Magneton,4,4,0
+43,15,6,0,1,0,0.166666666666667,3,16,1.16666666666667,0,"['PullNoCamFunc/User/behaviors/Leader.h', 'PullNoCamFunc/User/behaviors/Leader.cpp']",2,behaviors::Leader,Magneton2Year,4,Magneton,6,7.16666666666667,12
+0,0,0,0,0,0,0,0,0,0,0,"['PullNoCamFunc/User/behaviors/LocateTarget.cpp', 'PullNoCamFunc/User/behaviors/LocateTarget.h']",0,LocateTarget,Magneton2Year,0,Magneton,0,0,0
+4,4,4,0,1,0,0,0,1,1,0,"['PullNoCamFunc/User/behaviors/LocateTarget.h', 'PullNoCamFunc/User/behaviors/LocateTarget.cpp']",0,behaviors::LocateTargetFac,Magneton2Year,4,Magneton,4,1,0
+65,14,7,0,1,0,0.428571428571429,2,27,1.28571428571429,0,"['PullNoCamFunc/User/behaviors/LocateTarget.h', 'PullNoCamFunc/User/behaviors/LocateTarget.cpp']",2,behaviors::LocateTarget,Magneton2Year,4,Magneton,7,9.28571428571429,8
+45,16,8,0,1,0,0.125,4,16,1.375,0,"['PullNoCamFunc/User/behaviors/MovePtzToStart.h', 'PullNoCamFunc/User/behaviors/MovePtzToStart.cpp']",1,behaviors::MovePtzToStart,Magneton2Year,6,Magneton,8,5.625,24
+16,4,4,0,1,0,0,0,4,1,0,"['PullNoCamFunc/User/behaviors/MovePtzToStart.h', 'PullNoCamFunc/User/behaviors/MovePtzToStart.cpp']",0,behaviors::MovePtzToStartFac,Magneton2Year,4,Magneton,4,4,0
+16,4,4,0,1,0,0,0,4,1,0,"['PullNoCamFunc/User/behaviors/MoveSBC.h', 'PullNoCamFunc/User/behaviors/MoveSBC.cpp']",0,behaviors::MoveSBCFac,Magneton2Year,4,Magneton,4,4,0
+43,11,8,0,1,0,0.125,0,16,1.375,0,"['PullNoCamFunc/User/behaviors/MoveSBC.h', 'PullNoCamFunc/User/behaviors/MoveSBC.cpp']",1,behaviors::MoveSBC,Magneton2Year,6,Magneton,8,5.375,0
+12,3,3,0,1,0,0,0,4,1,0,"['PullNoCamFunc/User/behaviors/Position.h', 'PullNoCamFunc/User/behaviors/Position.cpp']",0,behaviors::PositionFac,Magneton2Year,3,Magneton,3,4,0
+36,9,6,0,1,0,0.166666666666667,0,14,1,0,"['PullNoCamFunc/User/behaviors/Position.h', 'PullNoCamFunc/User/behaviors/Position.cpp']",1,behaviors::Position,Magneton2Year,4,Magneton,6,6,0
+12,3,3,0,1,0,0,0,4,1,0,['PullNoCamFunc/User/behaviors/Root.h'],0,behaviors::RootFac,Magneton2Year,3,Magneton,3,4,0
+12,3,3,0,1,0,0,0,4,1,0,"['PullNoCamFunc/User/behaviors/RunDijkstra.h', 'PullNoCamFunc/User/behaviors/RunDijkstra.cpp']",0,behaviors::RunDijkstraFac,Magneton2Year,3,Magneton,3,4,0
+175,31,10,0,1,0,0.2,1,87,2.6,0,"['PullNoCamFunc/User/behaviors/RunDijkstra.h', 'PullNoCamFunc/User/behaviors/RunDijkstra.cpp']",7,behaviors::RunDijkstra,Magneton2Year,6,Magneton,10,17.5,6
+3,3,3,0,1,0,0,0,1,1,0,"['PullNoCamFunc/User/behaviors/SearchColor.h', 'PullNoCamFunc/User/behaviors/SearchColor.cpp']",0,behaviors::SearchColorRedFac,Magneton2Year,3,Magneton,3,1,0
+0,0,0,0,0,0,0,0,0,0,0,"['PullNoCamFunc/User/behaviors/SearchColor.h', 'PullNoCamFunc/User/behaviors/SearchColor.cpp']",0,SearchColor,Magneton2Year,0,Magneton,0,0,0
+38,15,6,0,1,0,0.166666666666667,4,16,1.33333333333333,0,"['PullNoCamFunc/User/behaviors/SearchColor.h', 'PullNoCamFunc/User/behaviors/SearchColor.cpp']",1,behaviors::SearchColor,Magneton2Year,4,Magneton,6,6.33333333333333,16
+0,0,0,0,0,0,0,0,0,0,0,"['PullNoCamFunc/User/behaviors/TrackLittleLess.cpp', 'PullNoCamFunc/User/behaviors/TrackLittleLess.h']",0,TrackLittleLess,Magneton2Year,0,Magneton,0,0,0
+10,4,4,0,1,0,0,0,4,1,0,"['PullNoCamFunc/User/behaviors/TrackLittleLess.h', 'PullNoCamFunc/User/behaviors/TrackLittleLess.cpp']",0,behaviors::TrackLittleLessFac,Magneton2Year,4,Magneton,4,2.5,0
+4,4,4,0,1,0,0,0,1,1,0,"['PullNoCamFunc/User/behaviors/TrackLittleLess.h', 'PullNoCamFunc/User/behaviors/TrackLittleLess.cpp']",0,behaviors::TrackLittleLessFrameFac,Magneton2Year,4,Magneton,4,1,0
+10,4,4,0,1,0,0,0,4,1,0,"['PullNoCamFunc/User/behaviors/TrackLittleLess.h', 'PullNoCamFunc/User/behaviors/TrackLittleLess.cpp']",0,behaviors::TrackLittleLessOnceFac,Magneton2Year,4,Magneton,4,2.5,0
+111,32,10,0,1,0,0.5,7,51,1.7,0,"['PullNoCamFunc/User/behaviors/TrackLittleLess.h', 'PullNoCamFunc/User/behaviors/TrackLittleLess.cpp']",2,behaviors::TrackLittleLess,Magneton2Year,6,Magneton,10,11.1,42
+0,0,0,0,0,0,0,0,0,0,0,"['PullNoCamFunc/User/behaviors/UpdateSBC.cpp', 'PullNoCamFunc/User/behaviors/UpdateSBC.h']",0,UpdateSBC,Magneton2Year,0,Magneton,0,0,0
+4,4,4,0,1,0,0,0,1,1,0,"['PullNoCamFunc/User/behaviors/UpdateSBC.h', 'PullNoCamFunc/User/behaviors/UpdateSBC.cpp']",0,behaviors::UpdateSBCFac,Magneton2Year,4,Magneton,4,1,0
+154,38,8,0,1,0,0.375,9,87,2,0,"['PullNoCamFunc/User/behaviors/UpdateSBC.h', 'PullNoCamFunc/User/behaviors/UpdateSBC.cpp']",6,behaviors::UpdateSBC,Magneton2Year,4,Magneton,8,19.25,36
+102,1,1,0,0,0,2,0,102,19,0,"['PullNoCamFunc/User/boot/boot.cc', 'PullNoCamFunc/User/boot/boot.h']",0,PullNoCamFunc/User/boot/boot,Magneton2Year,1,Magneton,1,102,0
+10,4,2,0,1,0,0,1,5,1,0,"['PullNoCamFunc/User/conditions/CondBlindCycles.h', 'PullNoCamFunc/User/conditions/CondBlindCycles.cpp']",0,conditions::CondBlindCycles,Magneton2Year,2,Magneton,2,5,2
+15,6,2,0,1,0,0,1,9,1,0,"['PullNoCamFunc/User/conditions/CondBlockedWay.h', 'PullNoCamFunc/User/conditions/CondBlockedWay.cpp']",0,conditions::CondBlockedWay,Magneton2Year,2,Magneton,2,7.5,2
+11,4,2,0,1,0,0,1,7,1,0,"['PullNoCamFunc/User/conditions/CondCycle.h', 'PullNoCamFunc/User/conditions/CondCycle.cpp']",0,conditions::CondCycle,Magneton2Year,2,Magneton,2,5.5,2
+30,8,2,0,1,0,0,2,25,1.5,0,"['PullNoCamFunc/User/conditions/CondDynGraphFull.h', 'PullNoCamFunc/User/conditions/CondDynGraphFull.cpp']",0,conditions::CondDynGraphFull,Magneton2Year,2,Magneton,2,15,4
+14,6,2,0,1,0,0,1,11,1,0,"['PullNoCamFunc/User/conditions/CondFreeWay.h', 'PullNoCamFunc/User/conditions/CondFreeWay.cpp']",0,conditions::CondFreeWay,Magneton2Year,2,Magneton,2,7,2
+18,7,3,0,1,0,0.333333333333333,2,12,1,0,"['PullNoCamFunc/User/conditions/CondIsBPOrTimer.h', 'PullNoCamFunc/User/conditions/CondIsBPOrTimer.cpp']",1,conditions::CondIsBPOrTimer,Magneton2Year,3,Magneton,3,6,6
+12,4,2,0,1,0,0,1,7,1,0,"['PullNoCamFunc/User/conditions/CondIsFailed.h', 'PullNoCamFunc/User/conditions/CondIsFailed.cpp']",0,conditions::CondIsFailed,Magneton2Year,2,Magneton,2,6,2
+0,0,0,0,0,0,0,0,0,0,0,"['PullNoCamFunc/User/conditions/CondMiddleOfFrame.cpp', 'PullNoCamFunc/User/conditions/CondMiddleOfFrame.h']",0,CondMiddleOfFrame,Magneton2Year,0,Magneton,0,0,0
+66,11,5,0,1,0,0.6,3,41,2.2,0,"['PullNoCamFunc/User/conditions/CondMiddleOfFrame.h', 'PullNoCamFunc/User/conditions/CondMiddleOfFrame.cpp']",1,conditions::CondMiddleOfFrame,Magneton2Year,5,Magneton,5,13.2,15
+22,5,3,0,1,0,0.333333333333333,1,18,1.66666666666667,0,"['PullNoCamFunc/User/conditions/CondNotSeeColor.h', 'PullNoCamFunc/User/conditions/CondNotSeeColor.cpp']",1,conditions::CondNotSeeColor,Magneton2Year,3,Magneton,3,7.33333333333333,3
+34,6,3,0,1,0,0,2,30,1.66666666666667,0,"['PullNoCamFunc/User/conditions/CondNotSeeColorParm.h', 'PullNoCamFunc/User/conditions/CondNotSeeColorParm.cpp']",1,conditions::CondNotSeeColorParm,Magneton2Year,3,Magneton,3,11.3333333333333,6
+13,4,2,0,1,0,0,1,8,1,0,"['PullNoCamFunc/User/conditions/CondOneCycle.h', 'PullNoCamFunc/User/conditions/CondOneCycle.cpp']",0,conditions::CondOneCycle,Magneton2Year,2,Magneton,2,6.5,2
+20,8,2,0,1,0,0,2,16,1,0,"['PullNoCamFunc/User/conditions/CondPtz.h', 'PullNoCamFunc/User/conditions/CondPtz.cpp']",0,conditions::CondPtz,Magneton2Year,2,Magneton,2,10,4
+18,7,3,0,1,0,0,2,13,1,0,"['PullNoCamFunc/User/conditions/CondPtzAtEndAndAllAnswered.h', 'PullNoCamFunc/User/conditions/CondPtzAtEndAndAllAnswered.cpp']",1,conditions::CondPtzAtEndAndAllAnswered,Magneton2Year,3,Magneton,3,6,6
+15,5,3,0,1,0,0,1,10,1,0,"['PullNoCamFunc/User/conditions/CondPtzAtStart.h', 'PullNoCamFunc/User/conditions/CondPtzAtStart.cpp']",1,conditions::CondPtzAtStart,Magneton2Year,3,Magneton,3,5,3
+29,5,3,0,1,0,0.333333333333333,1,25,2.33333333333333,0,"['PullNoCamFunc/User/conditions/CondSeeColor.h', 'PullNoCamFunc/User/conditions/CondSeeColor.cpp']",1,conditions::CondSeeColor,Magneton2Year,3,Magneton,3,9.66666666666667,3
+32,6,3,0,1,0,0,2,28,2.33333333333333,0,"['PullNoCamFunc/User/conditions/CondSeeColorParm.h', 'PullNoCamFunc/User/conditions/CondSeeColorParm.cpp']",1,conditions::CondSeeColorParm,Magneton2Year,3,Magneton,3,10.6666666666667,6
+61,3,3,0,1,0,1.33333333333333,0,47,3.66666666666667,0,"['PullNoCamFunc/User/conditions/CondTeamSizeXRunnersNum.h', 'PullNoCamFunc/User/conditions/CondTeamSizeXRunnersNum.cpp']",4,conditions::CondTeamSizeXRunnersNum,Magneton2Year,3,Magneton,3,20.3333333333333,0
+72,1,1,0,0,0,2,0,72,15,0,['PullNoCamFunc/User/environment/Rgb2Yuv.c'],0,PullNoCamFunc/User/environment/Rgb2Yuv,Magneton2Year,1,Magneton,1,72,0
+21,2,2,0,0,0,1.5,0,13,2.5,0,['PullNoCamFunc/User/protocols/TAP_SelectBehaviorByAngle.cpp'],0,TAP_SelectBehaviorByAngle,Magneton2Year,2,Magneton,2,10.5,0
+13,4,2,0,1,0,0,1,9,1,0,"['PullNoCamFunc/User/protocols/TAP_SelectBehaviorByAngle.h', 'PullNoCamFunc/User/protocols/TAP_SelectBehaviorByAngle.cpp']",0,protocols::TAP_SelectBehaviorByAngle_StopCondition,Magneton2Year,2,Magneton,2,6.5,2
+112,16,6,0,1,0,0.166666666666667,3,77,3,0,"['PullNoCamFunc/User/protocols/TAP_SelectBehaviorByAngle.h', 'PullNoCamFunc/User/protocols/TAP_SelectBehaviorByAngle.cpp']",2,protocols::TAP_SelectBehaviorByAngle,Magneton2Year,4,Magneton,6,18.6666666666667,12
+13,3,3,0,1,0,0,0,5,1,0,"['PullNoCamFunc/User/protocols/TAP_SelectBehaviorByAngle.h', 'PullNoCamFunc/User/protocols/TAP_SelectBehaviorByAngle.cpp']",0,protocols::TAP_SelectBehaviorByAngleFac,Magneton2Year,3,Magneton,3,4.33333333333333,0
+12,3,3,0,1,0,0,0,4,1,0,"['PullNoCamFunc/User/protocols/TAP_SelectChildByID.h', 'PullNoCamFunc/User/protocols/TAP_SelectChildByID.cpp']",0,protocols::TAP_SelectChildByIDFac,Magneton2Year,3,Magneton,3,4,0
+59,6,6,0,1,0,0.166666666666667,0,38,1.5,0,"['PullNoCamFunc/User/protocols/TAP_SelectChildByID.h', 'PullNoCamFunc/User/protocols/TAP_SelectChildByID.cpp']",1,protocols::TAP_SelectChildByID,Magneton2Year,6,Magneton,6,9.83333333333333,0
+12,3,3,0,1,0,0,0,4,1,0,"['PullNoCamFunc/User/protocols/TAP_SelectLeader.h', 'PullNoCamFunc/User/protocols/TAP_SelectLeader.cpp']",0,protocols::TAP_SelectLeaderFac,Magneton2Year,3,Magneton,3,4,0
+50,9,6,0,1,0,0.166666666666667,0,30,1.33333333333333,0,"['PullNoCamFunc/User/protocols/TAP_SelectLeader.h', 'PullNoCamFunc/User/protocols/TAP_SelectLeader.cpp']",1,protocols::TAP_SelectLeader,Magneton2Year,4,Magneton,6,8.33333333333333,0
+42,10,7,0,1,0,0.142857142857143,0,20,1,0,"['PullNoCamFunc/User/protocols/TAP_Together.h', 'PullNoCamFunc/User/protocols/TAP_Together.cpp']",1,protocols::TAP_Together,Magneton2Year,5,Magneton,7,6,0
+12,3,3,0,1,0,0,0,4,1,0,"['PullNoCamFunc/User/protocols/TAP_Together.h', 'PullNoCamFunc/User/protocols/TAP_Together.cpp']",0,protocols::TAP_TogetherFac,Magneton2Year,3,Magneton,3,4,0
+12,3,3,0,1,0,0,0,4,1,0,"['PullNoCamFunc/User/protocols/TEP_UntilAllTeamRun.h', 'PullNoCamFunc/User/protocols/TEP_UntilAllTeamRun.cpp']",0,protocols::TEP_UntilAllTeamRunFac,Magneton2Year,3,Magneton,3,4,0
+50,9,6,3,1,3,0.166666666666667,1,18,1.5,0,"['PullNoCamFunc/User/protocols/TEP_UntilAllTeamRun.h', 'PullNoCamFunc/User/protocols/TEP_UntilAllTeamRun.cpp']",5,protocols::TEP_UntilAllTeamRun,Magneton2Year,6,Magneton,6,8.33333333333333,6
+15,5,2,0,1,0,0,2,10,1,0,"['PullNoCamFunc/User/protocols/TEP_UntilAllTeamRun.h', 'PullNoCamFunc/User/protocols/TEP_UntilAllTeamRun.cpp']",0,protocols::TEP_UntilAllTeamRun_StopCondition,Magneton2Year,2,Magneton,2,7.5,4
+73,6,4,0,1,0,1.25,2,51,1.75,0,"['PullNoCamFunc/User/protocols/TKP_ArraySharedVertex.h', 'PullNoCamFunc/User/protocols/TKP_ArraySharedVertex.cpp']",0,protocols::TKP_ArraySharedVertex,Magneton2Year,4,Magneton,4,18.25,8
+33,7,3,0,1,0,1.66666666666667,0,25,2.33333333333333,0,"['PullNoCamFunc/User/protocols/TKP_BooleanAND.h', 'PullNoCamFunc/User/protocols/TKP_BooleanAND.cpp']",2,protocols::TKP_BooleanAND,Magneton2Year,2,Magneton,3,11,0
+38,7,3,0,1,0,1.66666666666667,0,30,2.33333333333333,0,"['PullNoCamFunc/User/protocols/TKP_BooleanOR.h', 'PullNoCamFunc/User/protocols/TKP_BooleanOR.cpp']",2,protocols::TKP_BooleanOR,Magneton2Year,2,Magneton,3,12.6666666666667,0
+10,3,3,0,1,0,1,0,4,1,0,"['PullNoCamFunc/User/protocols/TKP_Empty.h', 'PullNoCamFunc/User/protocols/TKP_Empty.cpp']",0,protocols::TKP_Empty,Magneton2Year,3,Magneton,3,3.33333333333333,0
+28,5,4,0,1,0,1,0,21,2.25,0,"['PullNoCamFunc/User/protocols/TKP_Int_MaxValue.h', 'PullNoCamFunc/User/protocols/TKP_Int_MaxValue.cpp']",0,protocols::TKP_Int_MaxValue,Magneton2Year,3,Magneton,4,7,0
+24,7,7,0,2,0,1.14285714285714,0,5,1.14285714285714,0,"['PullNoCamFunc/User/protocols/TKP_Majority.h', 'PullNoCamFunc/User/protocols/TKP_Majority.cpp']",0,TKP_Majority,Magneton2Year,7,Magneton,7,3.42857142857143,0
+33,11,7,1,1,0,1.14285714285714,0,27,1.71428571428571,1,"['PullNoCamFunc/User/protocols/TKP_Majority.h', 'PullNoCamFunc/User/protocols/TKP_Majority.cpp']",0,TKP_MajorityCommon,Magneton2Year,3,Magneton,7,4.71428571428571,0
+19,3,3,0,1,0,1,0,13,1.66666666666667,0,"['PullNoCamFunc/User/protocols/TKP_OthersOpinion.h', 'PullNoCamFunc/User/protocols/TKP_OthersOpinion.cpp']",0,protocols::TKP_OthersOpinion,Magneton2Year,3,Magneton,3,6.33333333333333,0
+24,5,2,0,1,0,2,1,23,3,0,"['PullNoCamFunc/User/protocols/TKP_Var_ProgressStatus.h', 'PullNoCamFunc/User/protocols/TKP_Var_ProgressStatus.cpp']",0,protocols::TKP_Var_ProgressStatus,Magneton2Year,2,Magneton,2,12,2
+26,5,2,0,1,0,2,1,25,3,0,"['PullNoCamFunc/User/protocols/TKP_Var_ReadyStatus.h', 'PullNoCamFunc/User/protocols/TKP_Var_ReadyStatus.cpp']",0,protocols::TKP_Var_ReadyStatus,Magneton2Year,2,Magneton,2,13,2
+12,3,3,0,1,0,0,0,4,1,0,"['PullNoCamFunc/User/protocols/TNP_SelectFirstBehavior.h', 'PullNoCamFunc/User/protocols/TNP_SelectFirstBehavior.cpp']",0,protocols::TNP_SelectFirstBehaviorFac,Magneton2Year,3,Magneton,3,4,0
+58,10,6,0,1,0,0.166666666666667,0,30,2,0,"['PullNoCamFunc/User/protocols/TNP_SelectFirstBehavior.h', 'PullNoCamFunc/User/protocols/TNP_SelectFirstBehavior.cpp']",2,protocols::TNP_SelectFirstBehavior,Magneton2Year,4,Magneton,6,9.66666666666667,0
+13,5,4,0,1,0,0.25,0,4,1,0,"['PullNoCamFunc/User/protocols/TSP_AllTeamReady.h', 'PullNoCamFunc/User/protocols/TSP_AllTeamReady.cpp']",1,protocols::TSP_AllTeamReadyFac,Magneton2Year,4,Magneton,4,3.25,0
+15,5,2,0,1,0,0,2,10,1,0,"['PullNoCamFunc/User/protocols/TSP_AllTeamReady.h', 'PullNoCamFunc/User/protocols/TSP_AllTeamReady.cpp']",0,protocols::TSP_AllTeamReady_StopCondition,Magneton2Year,2,Magneton,2,7.5,4
+50,19,7,2,1,3,0.285714285714286,1,17,1.42857142857143,0,"['PullNoCamFunc/User/protocols/TSP_AllTeamReady.h', 'PullNoCamFunc/User/protocols/TSP_AllTeamReady.cpp']",5,protocols::TSP_AllTeamReady,Magneton2Year,5,Magneton,7,7.14285714285714,5
+154,4,4,0,1,0,0.5,0,136,1,0,"['PullNoCamFunc/User/recipes/MagnetonFormationRec.h', 'PullNoCamFunc/User/recipes/MagnetonFormationRec.cpp']",0,MagnetonFormationRec,Magneton2Year,4,Magneton,4,38.5,0
+0,0,0,0,0,0,0,0,0,0,0,['PullNoCamFunc/User/robot/domain_player/devicesLib/Laser.cc'],0,PullNoCamFunc/User/robot/domain_player/devicesLib/Laser,Magneton2Year,0,Magneton,0,0,0
+0,0,0,0,0,0,0,0,0,0,0,['PullNoCamFunc/User/robot/domain_player/devicesLib/Ptz.cc'],0,PullNoCamFunc/User/robot/domain_player/devicesLib/Ptz,Magneton2Year,0,Magneton,0,0,0
+4,4,4,2,1,1,0.25,0,1,1,1,['PullNoCamFunc/User/robot/domain_player/plrDevice.h'],1,funcDevice,Magneton2Year,4,Magneton,4,1,0
+0,0,0,0,0,0,0,0,0,0,0,['PullNoCamFunc/User/robot/domain_player/plrDevicesLib.h'],0,PullNoCamFunc/User/robot/domain_player/plrDevicesLib,Magneton2Year,0,Magneton,0,0,0
+49,13,6,1,3,1,0.5,2,14,1.5,1,['PullNoCamFunc/User/robot/domain_player/plrDevicesLib.h'],1,player::Sonar,Magneton2Year,4,Magneton,6,8.16666666666667,8
+86,21,6,0,3,2,0.666666666666667,2,27,2.66666666666667,0,['PullNoCamFunc/User/robot/domain_player/plrDevicesLib.h'],2,player::Bumper,Magneton2Year,2,Magneton,6,14.3333333333333,4
+34,10,6,0,2,0,0.5,1,15,1.33333333333333,0,['PullNoCamFunc/User/robot/domain_player/plrDevicesLib.h'],1,Motor,Magneton2Year,4,Magneton,6,5.66666666666667,4
+52,15,2,0,4,0,1.5,2,41,7,0,['PullNoCamFunc/User/robot/domain_player/plrDevicesLib.h'],0,player::Sonar_rv400,Magneton2Year,2,Magneton,2,26,4
+4,1,1,0,2,0,0,0,4,1,0,['PullNoCamFunc/User/tests/testSimpleBeh.h'],0,SimpleRunBeh,Magneton2Year,1,Magneton,1,4,0
+4,1,1,0,2,0,0,0,4,1,0,['PullNoCamFunc/User/tests/testSimpleBeh.h'],0,SimpleRunBehFac,Magneton2Year,1,Magneton,1,4,0
+5,1,0,0,1,0,1,0,5,1,0,['PullNoCamFunc/User/tests/testSimpleBeh.h'],0,SimpleBehWM,Magneton2Year,1,Magneton,1,5,0
+8,2,2,2,1,0,0,0,4,1,2,['PullNoCamFunc/User/tests/testSimpleBeh.h'],0,SimpleBehFac,Magneton2Year,2,Magneton,2,4,0
+0,0,0,0,0,0,0,0,0,0,0,['PullNoCamFunc/User/tests/testSimpleBeh.h'],0,testSimpleBeh,Magneton2Year,0,Magneton,0,0,0
+4,1,1,0,2,0,0,0,4,1,0,['PullNoCamFunc/User/tests/testSimpleBeh.h'],0,SimpleTurnBeh,Magneton2Year,1,Magneton,1,4,0
+4,1,1,0,2,0,0,0,4,1,0,['PullNoCamFunc/User/tests/testSimpleBeh.h'],0,SimpleTurnBehFac,Magneton2Year,1,Magneton,1,4,0
+43,7,4,2,1,0,0.25,3,18,1.25,2,['PullNoCamFunc/User/tests/testSimpleBeh.h'],2,SimpleBeh,Magneton2Year,4,Magneton,4,10.75,12
+29,2,2,0,1,0,1,0,25,1,0,['PullNoCamFunc/User/tests/testSimpleTaskCreator.h'],0,SimpleTaskCreator,Magneton2Year,2,Magneton,2,14.5,0
+47,7,3,0,0,2,0.333333333333333,1,23,2.33333333333333,0,"['PullNoCamFunc/User/utils/Utils.cpp', 'PullNoCamFunc/User/utils/Utils.h']",2,PullNoCamFunc/User/utils/Utils,Magneton2Year,3,Magneton,3,15.6666666666667,3
+9,1,1,0,0,0,2,0,9,1,0,['PullNoCamFunc/User/variables/OriginalGraphVarDef.cpp'],0,OriginalGraphVarDef,Magneton2Year,1,Magneton,1,9,0
+26,7,2,0,1,0,1,1,21,1,0,"['PullNoCamFunc/User/variables/OriginalGraphVarDef.h', 'PullNoCamFunc/User/variables/OriginalGraphVarDef.cpp']",0,variables::OriginalGraphVarDef,Magneton2Year,2,Magneton,2,13,2
+56,12,5,0,1,0,1.6,2,49,1.2,0,"['PullNoCamFunc/User/variables/SerializationOfRobotData.h', 'PullNoCamFunc/User/variables/SerializationOfRobotData.cpp']",1,serialization::SerializationOfRobotData,Magneton2Year,5,Magneton,5,11.2,10
+104,25,11,0,1,0,2.27272727272727,1,19,1.36363636363636,0,"['PullNoCamFunc/User/variables/SerializationOfSharedVertex.h', 'PullNoCamFunc/User/variables/SerializationOfSharedVertex.cpp']",0,serialization::SerializationOfSharedVertex,Magneton2Year,5,Magneton,11,9.45454545454546,5
+1,1,1,0,1,0,1,0,1,1,0,['PullNoCamFunc/User/variables/SharedGraph_VarsDef.h'],0,variables::SharedGraph_VarsDef,Magneton2Year,1,Magneton,1,1,0
+11,2,1,0,1,0,1,1,11,1,0,"['PullNoCamFunc/User/variables/TAP_SelectBehaviorByAngle_VarsDef.h', 'PullNoCamFunc/User/variables/TAP_SelectBehaviorByAngle_VarsDef.cpp']",0,variables::TAP_SelectBehaviorByAngle_VarsDef,Magneton2Year,1,Magneton,1,11,1
+11,3,1,0,1,0,1,2,11,1,0,"['PullNoCamFunc/User/variables/TEP_UntilAllTeamRun_VarsDef.h', 'PullNoCamFunc/User/variables/TEP_UntilAllTeamRun_VarsDef.cpp']",0,variables::TEP_UntilAllTeamRun_VarsDef,Magneton2Year,1,Magneton,1,11,2
+11,2,1,0,1,0,1,1,11,1,0,"['PullNoCamFunc/User/variables/TSP_AllTeamReady_VarsDef.h', 'PullNoCamFunc/User/variables/TSP_AllTeamReady_VarsDef.cpp']",0,variables::TSP_AllTeamReady_VarsDef,Magneton2Year,1,Magneton,1,11,1
+11,4,2,0,1,0,1,1,6,1,0,"['PullNoCamFunc/User/variables/VarsDef_Angle_nonshared.h', 'PullNoCamFunc/User/variables/VarsDef_Angle_nonshared.cpp']",0,variables::VarsDef_Angle_nonshared,Magneton2Year,1,Magneton,2,5.5,1
+6,1,0,0,0,0,0,0,6,1,0,['UserInterface/RobotInfo/Program.cs'],0,RobotInfo::Program,Magneton2Year,1,Magneton,1,6,0
+3,1,0,0,0,0,0,0,3,1,0,['UserInterface/RobotInfo/Properties/Resources.Designer.cs'],2,RobotInfo::Properties::Resources,Magneton2Year,1,Magneton,1,3,0
+0,0,0,0,1,0,0,0,0,0,0,['UserInterface/RobotInfo/Properties/Settings.Designer.cs'],1,RobotInfo::Properties::Settings,Magneton2Year,0,Magneton,0,0,0
+90,10,1,0,1,0,0.333333333333333,0,78,1.33333333333333,0,['UserInterface/RobotInformation/cntrRobotInformation.cs'],6,RobotInformation::UserControl1,Magneton2Year,2,Magneton,3,30,0
+2,1,0,0,0,0,0,0,2,1,0,['UserInterface/UserInterface/Magneton-UserInterface/UserInterface/Properties/Resources.Designer.cs'],2,UserInterface::Properties::Resources,Magneton2Year,1,Magneton,1,2,0
+0,0,0,0,1,0,0,0,0,0,0,['UserInterface/UserInterface/Magneton-UserInterface/UserInterface/Properties/Settings.Designer.cs'],1,UserInterface::Properties::Settings,Magneton2Year,0,Magneton,0,0,0
+2,2,0,2,0,0,1,0,1,1,2,['PlayerBypassLaser/clientproxy.h'],0,PlayerCc::ClientProxy,Magneton1Year,2,Magneton,2,1,0
+0,0,0,1,0,2,0,0,0,0,0,['PlayerBypassLaser/common.h'],2,player_laser_geom,Magneton1Year,0,Magneton,0,0,0
+0,0,0,4,0,9,0,0,0,0,0,['PlayerBypassLaser/common.h'],9,player_laser_data,Magneton1Year,0,Magneton,0,0,0
+0,0,0,1,0,2,0,0,0,0,0,['PlayerBypassLaser/common.h'],2,player_point_2d,Magneton1Year,0,Magneton,0,0,0
+0,0,0,0,0,2,0,0,0,0,0,['PlayerBypassLaser/common.h'],2,player_ptz_req_generic,Magneton1Year,0,Magneton,0,0,0
+0,0,0,0,0,5,0,0,0,0,0,['PlayerBypassLaser/common.h'],5,player_ptz_data,Magneton1Year,0,Magneton,0,0,0
+0,0,0,6,0,3,0,0,0,0,0,['PlayerBypassLaser/common.h'],3,player_pose,Magneton1Year,0,Magneton,0,0,0
+0,0,0,1,0,2,0,0,0,0,0,['PlayerBypassLaser/common.h'],2,player_position2d_cmd_vel,Magneton1Year,0,Magneton,0,0,0
+0,0,0,0,0,4,0,0,0,0,0,['PlayerBypassLaser/common.h'],4,player_devaddr,Magneton1Year,0,Magneton,0,0,0
+0,0,0,0,0,0,0,0,0,0,0,['PlayerBypassLaser/common.h'],0,common,Magneton1Year,0,Magneton,0,0,0
+0,0,0,2,0,2,0,0,0,0,0,['PlayerBypassLaser/common.h'],2,player_bbox,Magneton1Year,0,Magneton,0,0,0
+0,0,0,1,0,3,0,0,0,0,0,['PlayerBypassLaser/common.h'],3,player_position2d_data,Magneton1Year,0,Magneton,0,0,0
+0,0,0,0,0,5,0,0,0,0,0,['PlayerBypassLaser/common.h'],5,player_ptz_cmd,Magneton1Year,0,Magneton,0,0,0
+0,0,0,4,0,6,0,0,0,0,0,['PlayerBypassLaser/common.h'],6,player_laser_config,Magneton1Year,0,Magneton,0,0,0
+0,0,0,1,0,3,0,0,0,0,0,['PlayerBypassLaser/common.h'],3,player_position2d_cmd_pos,Magneton1Year,0,Magneton,0,0,0
+19,10,2,0,0,0,2,1,18,1.5,0,['PlayerBypassLaser/playerc++.h'],0,playerc++,Magneton1Year,2,Magneton,2,9.5,2
+81,50,24,4,1,0,0.5,4,9,1,0,['PlayerBypassLaser/playerc++.h'],6,PlayerCc::LaserProxy,Magneton1Year,18,Magneton,26,3.11538461538462,72
+5,5,3,0,0,0,0.4,0,1,1,0,['PlayerBypassLaser/playerclient.h'],0,PlayerCc::PlayerClient,Magneton1Year,5,Magneton,5,1,0
+1,1,1,0,0,0,2,0,1,1,0,['PlayerBypassLaser/playerclient.h'],0,playerclient,Magneton1Year,1,Magneton,1,1,0
+772,50,13,3,0,0,1.30769230769231,2,167,7.23076923076923,0,"['PlayerBypassLaser/urg_laser.h', 'PlayerBypassLaser/urg_laser.cc']",2,urg_laser,Magneton1Year,2,Magneton,13,59.3846153846154,4
+0,0,0,2,0,1,0,0,0,0,0,"['PlayerBypassLaser/urg_laser.h', 'PlayerBypassLaser/urg_laser.cc']",1,urg_laser_readings,Magneton1Year,0,Magneton,0,0,0
+200,76,7,4,0,0,0.125,7,63,2.375,0,"['PlayerBypassLaser/urg_laser_interface.h', 'PlayerBypassLaser/urg_laser_interface.cc']",12,urg_laser_interface,Magneton1Year,1,Magneton,8,25,7
+0,0,0,0,0,0,0,0,0,0,0,['PullCam/User/behaviors/Defines.h'],0,PullCam/User/behaviors/Defines,Magneton1Year,0,Magneton,0,0,0
+0,0,0,0,0,0,0,0,0,0,0,"['PullCam/User/behaviors/ExecuteSBCGraph.cpp', 'PullCam/User/behaviors/ExecuteSBCGraph.h']",0,PullCam/User/behaviors/ExecuteSBCGraph,Magneton1Year,0,Magneton,0,0,0
+0,0,0,0,0,0,0,0,0,0,0,"['PullCam/User/behaviors/Formation.cpp', 'PullCam/User/behaviors/Formation.h']",0,PullCam/User/behaviors/Formation,Magneton1Year,0,Magneton,0,0,0
+0,0,0,0,0,0,0,0,0,0,0,"['PullCam/User/behaviors/KeepDistanceAndAngle.cpp', 'PullCam/User/behaviors/KeepDistanceAndAngle.h']",0,PullCam/User/behaviors/KeepDistanceAndAngle,Magneton1Year,0,Magneton,0,0,0
+0,0,0,0,0,0,0,0,0,0,0,"['PullCam/User/behaviors/LocateTarget.cpp', 'PullCam/User/behaviors/LocateTarget.h']",0,PullCam/User/behaviors/LocateTarget,Magneton1Year,0,Magneton,0,0,0
+0,0,0,0,0,0,0,0,0,0,0,"['PullCam/User/behaviors/SearchColor.h', 'PullCam/User/behaviors/SearchColor.cpp']",0,PullCam/User/behaviors/SearchColor,Magneton1Year,0,Magneton,0,0,0
+0,0,0,0,0,0,0,0,0,0,0,"['PullCam/User/behaviors/TrackLittleLess.cpp', 'PullCam/User/behaviors/TrackLittleLess.h']",0,PullCam/User/behaviors/TrackLittleLess,Magneton1Year,0,Magneton,0,0,0
+0,0,0,0,0,0,0,0,0,0,0,"['PullCam/User/behaviors/UpdateSBC.cpp', 'PullCam/User/behaviors/UpdateSBC.h']",0,PullCam/User/behaviors/UpdateSBC,Magneton1Year,0,Magneton,0,0,0
+101,1,1,0,0,0,2,0,101,19,0,"['PullCam/User/boot/boot.cc', 'PullCam/User/boot/boot.h']",0,PullCam/User/boot/boot,Magneton1Year,1,Magneton,1,101,0
+0,0,0,0,0,0,0,0,0,0,0,"['PullCam/User/conditions/CondMiddleOfFrame.cpp', 'PullCam/User/conditions/CondMiddleOfFrame.h']",0,PullCam/User/conditions/CondMiddleOfFrame,Magneton1Year,0,Magneton,0,0,0
+72,1,1,0,0,0,2,0,72,15,0,['PullCam/User/environment/Rgb2Yuv.c'],0,PullCam/User/environment/Rgb2Yuv,Magneton1Year,1,Magneton,1,72,0
+21,2,2,0,0,0,1.5,0,13,2.5,0,['PullCam/User/protocols/TAP_SelectBehaviorByAngle.cpp'],0,PullCam/User/protocols/TAP_SelectBehaviorByAngle,Magneton1Year,2,Magneton,2,10.5,0
+0,0,0,0,0,0,0,0,0,0,0,['PullCam/User/robot/RobotShrimp.cpp'],0,PullCam/User/robot/RobotShrimp,Magneton1Year,0,Magneton,0,0,0
+20,4,4,0,1,1,0.25,0,7,1.25,0,"['PullCam/User/robot/RobotShrimp.h', 'PullCam/User/robot/RobotShrimp.cpp']",2,robot::UpdateLoop,Magneton1Year,4,Magneton,4,5,0
+0,0,0,0,0,0,0,0,0,0,0,['PullCam/User/robot/domain_player/devicesLib/Laser.cc'],0,PullCam/User/robot/domain_player/devicesLib/Laser,Magneton1Year,0,Magneton,0,0,0
+0,0,0,0,0,0,0,0,0,0,0,['PullCam/User/robot/domain_player/devicesLib/Ptz.cc'],0,PullCam/User/robot/domain_player/devicesLib/Ptz,Magneton1Year,0,Magneton,0,0,0
+0,0,0,0,0,0,0,0,0,0,0,['PullCam/User/robot/domain_player/plrDevicesLib.h'],0,PullCam/User/robot/domain_player/plrDevicesLib,Magneton1Year,0,Magneton,0,0,0
+0,0,0,0,0,0,0,0,0,0,0,['PullCam/User/tests/testSimpleBeh.h'],0,PullCam/User/tests/testSimpleBeh,Magneton1Year,0,Magneton,0,0,0
+47,7,3,0,0,2,0.333333333333333,1,23,1,0,"['PullCam/User/utils/Utils.cpp', 'PullCam/User/utils/Utils.h']",2,PullCam/User/utils/Utils,Magneton1Year,3,Magneton,3,15.6666666666667,3
+9,1,1,0,0,0,2,0,9,1,0,['PullCam/User/variables/OriginalGraphVarDef.cpp'],0,PullCam/User/variables/OriginalGraphVarDef,Magneton1Year,1,Magneton,1,9,0
+0,0,0,0,0,0,0,0,0,0,0,['PullCam2Server/User/behaviors/Defines.h'],0,PullCam2Server/User/behaviors/Defines,Magneton1Year,0,Magneton,0,0,0
+0,0,0,0,0,0,0,0,0,0,0,"['PullCam2Server/User/behaviors/ExecuteSBCGraph.cpp', 'PullCam2Server/User/behaviors/ExecuteSBCGraph.h']",0,PullCam2Server/User/behaviors/ExecuteSBCGraph,Magneton1Year,0,Magneton,0,0,0
+0,0,0,0,0,0,0,0,0,0,0,"['PullCam2Server/User/behaviors/Formation.cpp', 'PullCam2Server/User/behaviors/Formation.h']",0,PullCam2Server/User/behaviors/Formation,Magneton1Year,0,Magneton,0,0,0
+0,0,0,0,0,0,0,0,0,0,0,"['PullCam2Server/User/behaviors/KeepDistanceAndAngle.cpp', 'PullCam2Server/User/behaviors/KeepDistanceAndAngle.h']",0,PullCam2Server/User/behaviors/KeepDistanceAndAngle,Magneton1Year,0,Magneton,0,0,0
+0,0,0,0,0,0,0,0,0,0,0,"['PullCam2Server/User/behaviors/LocateTarget.cpp', 'PullCam2Server/User/behaviors/LocateTarget.h']",0,PullCam2Server/User/behaviors/LocateTarget,Magneton1Year,0,Magneton,0,0,0
+0,0,0,0,0,0,0,0,0,0,0,"['PullCam2Server/User/behaviors/SearchColor.h', 'PullCam2Server/User/behaviors/SearchColor.cpp']",0,PullCam2Server/User/behaviors/SearchColor,Magneton1Year,0,Magneton,0,0,0
+0,0,0,0,0,0,0,0,0,0,0,"['PullCam2Server/User/behaviors/TrackLittleLess.cpp', 'PullCam2Server/User/behaviors/TrackLittleLess.h']",0,PullCam2Server/User/behaviors/TrackLittleLess,Magneton1Year,0,Magneton,0,0,0
+0,0,0,0,0,0,0,0,0,0,0,"['PullCam2Server/User/behaviors/UpdateSBC.cpp', 'PullCam2Server/User/behaviors/UpdateSBC.h']",0,PullCam2Server/User/behaviors/UpdateSBC,Magneton1Year,0,Magneton,0,0,0
+101,1,1,0,0,0,2,0,101,19,0,"['PullCam2Server/User/boot/boot.cc', 'PullCam2Server/User/boot/boot.h']",0,PullCam2Server/User/boot/boot,Magneton1Year,1,Magneton,1,101,0
+0,0,0,0,0,0,0,0,0,0,0,"['PullCam2Server/User/conditions/CondMiddleOfFrame.cpp', 'PullCam2Server/User/conditions/CondMiddleOfFrame.h']",0,PullCam2Server/User/conditions/CondMiddleOfFrame,Magneton1Year,0,Magneton,0,0,0
+72,1,1,0,0,0,2,0,72,15,0,['PullCam2Server/User/environment/Rgb2Yuv.c'],0,PullCam2Server/User/environment/Rgb2Yuv,Magneton1Year,1,Magneton,1,72,0
+21,2,2,0,0,0,1.5,0,13,2.5,0,['PullCam2Server/User/protocols/TAP_SelectBehaviorByAngle.cpp'],0,PullCam2Server/User/protocols/TAP_SelectBehaviorByAngle,Magneton1Year,2,Magneton,2,10.5,0
+0,0,0,0,0,0,0,0,0,0,0,['PullCam2Server/User/robot/domain_player/devicesLib/Laser.cc'],0,PullCam2Server/User/robot/domain_player/devicesLib/Laser,Magneton1Year,0,Magneton,0,0,0
+0,0,0,0,0,0,0,0,0,0,0,['PullCam2Server/User/robot/domain_player/devicesLib/Ptz.cc'],0,PullCam2Server/User/robot/domain_player/devicesLib/Ptz,Magneton1Year,0,Magneton,0,0,0
+0,0,0,0,0,0,0,0,0,0,0,['PullCam2Server/User/robot/domain_player/plrDevicesLib.h'],0,PullCam2Server/User/robot/domain_player/plrDevicesLib,Magneton1Year,0,Magneton,0,0,0
+0,0,0,0,0,0,0,0,0,0,0,['PullCam2Server/User/tests/testSimpleBeh.h'],0,PullCam2Server/User/tests/testSimpleBeh,Magneton1Year,0,Magneton,0,0,0
+47,7,3,0,0,2,0.333333333333333,1,23,1,0,"['PullCam2Server/User/utils/Utils.cpp', 'PullCam2Server/User/utils/Utils.h']",2,PullCam2Server/User/utils/Utils,Magneton1Year,3,Magneton,3,15.6666666666667,3
+9,1,1,0,0,0,2,0,9,1,0,['PullCam2Server/User/variables/OriginalGraphVarDef.cpp'],0,PullCam2Server/User/variables/OriginalGraphVarDef,Magneton1Year,1,Magneton,1,9,0
+7,10,7,0,1,0,0,0,1,1,0,"['PullNoCam/User/behaviors/Blind.h', 'PullNoCam/User/behaviors/Blind.cpp']",1,behaviors::Blind,Magneton1Year,5,Magneton,7,1,0
+17,4,4,0,1,0,0,0,5,1,0,"['PullNoCam/User/behaviors/Blind.h', 'PullNoCam/User/behaviors/Blind.cpp']",0,behaviors::BlindFac,Magneton1Year,4,Magneton,4,4.25,0
+0,0,0,0,0,0,0,0,0,0,0,['PullNoCam/User/behaviors/Defines.h'],0,PullNoCam/User/behaviors/Defines,Magneton1Year,0,Magneton,0,0,0
+12,3,3,0,1,0,0,0,4,1,0,"['PullNoCam/User/behaviors/DoNothing.h', 'PullNoCam/User/behaviors/DoNothing.cpp']",0,behaviors::DoNothingFac,Magneton1Year,3,Magneton,3,4,0
+0,0,0,0,0,0,0,0,0,0,0,"['PullNoCam/User/behaviors/ExecuteSBCGraph.cpp', 'PullNoCam/User/behaviors/ExecuteSBCGraph.h']",0,PullNoCam/User/behaviors/ExecuteSBCGraph,Magneton1Year,0,Magneton,0,0,0
+11,29,9,0,1,0,0.111111111111111,5,3,1,0,"['PullNoCam/User/behaviors/ExecuteSBCGraph.h', 'PullNoCam/User/behaviors/ExecuteSBCGraph.cpp']",6,behaviors::ExecuteSBCGraph,Magneton1Year,6,Magneton,9,1.22222222222222,30
+4,4,4,0,1,0,0,0,1,1,0,"['PullNoCam/User/behaviors/ExecuteSBCGraph.h', 'PullNoCam/User/behaviors/ExecuteSBCGraph.cpp']",0,behaviors::ExecuteSBCGraphFac,Magneton1Year,4,Magneton,4,1,0
+16,4,4,0,1,0,0,0,4,1,0,"['PullNoCam/User/behaviors/Follower.h', 'PullNoCam/User/behaviors/Follower.cpp']",0,behaviors::FollowerFac,Magneton1Year,4,Magneton,4,4,0
+9,23,7,0,1,0,0,5,3,1,0,"['PullNoCam/User/behaviors/Follower.h', 'PullNoCam/User/behaviors/Follower.cpp']",1,behaviors::Follower,Magneton1Year,5,Magneton,7,1.28571428571429,25
+0,0,0,0,0,0,0,0,0,0,0,"['PullNoCam/User/behaviors/Formation.cpp', 'PullNoCam/User/behaviors/Formation.h']",0,PullNoCam/User/behaviors/Formation,Magneton1Year,0,Magneton,0,0,0
+3,3,3,0,1,0,0,0,1,1,0,"['PullNoCam/User/behaviors/Formation.h', 'PullNoCam/User/behaviors/Formation.cpp']",0,behaviors::FormationLeftFac,Magneton1Year,3,Magneton,3,1,0
+3,3,3,0,1,0,0,0,1,1,0,"['PullNoCam/User/behaviors/Formation.h', 'PullNoCam/User/behaviors/Formation.cpp']",0,behaviors::FormationRightFac,Magneton1Year,3,Magneton,3,1,0
+23,25,9,0,1,0,0.777777777777778,4,14,1.22222222222222,0,"['PullNoCam/User/behaviors/Formation.h', 'PullNoCam/User/behaviors/Formation.cpp']",4,behaviors::Formation,Magneton1Year,4,Magneton,9,2.55555555555556,16
+16,4,4,0,1,0,0,0,4,1,0,"['PullNoCam/User/behaviors/GetJoystick.h', 'PullNoCam/User/behaviors/GetJoystick.cpp']",0,behaviors::GetJoystickFac,Magneton1Year,4,Magneton,4,4,0
+16,4,4,0,1,0,0,0,4,1,0,"['PullNoCam/User/behaviors/GetJoystick.h', 'PullNoCam/User/behaviors/GetJoystick.cpp']",0,behaviors::GetJoystickToInitFac,Magneton1Year,4,Magneton,4,4,0
+8,21,6,0,1,0,0,6,3,1,0,"['PullNoCam/User/behaviors/GetJoystick.h', 'PullNoCam/User/behaviors/GetJoystick.cpp']",2,behaviors::GetJoystick,Magneton1Year,4,Magneton,6,1.33333333333333,24
+12,3,3,0,1,0,0,0,4,1,0,['PullNoCam/User/behaviors/IdleBeh.h'],0,behaviors::IdleBehFac_waitUpdate,Magneton1Year,3,Magneton,3,4,0
+9,3,3,0,1,0,0,0,4,1,0,['PullNoCam/User/behaviors/IdleBeh.h'],0,behaviors::isMessageArrived,Magneton1Year,3,Magneton,3,3,0
+13,4,4,0,1,0,0,0,4,1,0,['PullNoCam/User/behaviors/IdleBeh.h'],0,behaviors::IdleBehFac_waitMessage,Magneton1Year,4,Magneton,4,3.25,0
+6,6,6,0,1,0,0,0,1,1,0,['PullNoCam/User/behaviors/IdleBeh.h'],1,behaviors::IdleBeh,Magneton1Year,6,Magneton,6,1,0
+8,13,8,0,1,0,0,2,1,1,0,"['PullNoCam/User/behaviors/InitGraph.h', 'PullNoCam/User/behaviors/InitGraph.cpp']",1,behaviors::InitGraph,Magneton1Year,8,Magneton,8,1,16
+12,3,3,0,1,0,0,0,4,1,0,"['PullNoCam/User/behaviors/InitGraph.h', 'PullNoCam/User/behaviors/InitGraph.cpp']",0,behaviors::InitGraphFac,Magneton1Year,3,Magneton,3,4,0
+8,13,8,0,1,0,0,2,1,1,0,"['PullNoCam/User/behaviors/InitGraphLine.h', 'PullNoCam/User/behaviors/InitGraphLine.cpp']",1,behaviors::InitGraphLine,Magneton1Year,8,Magneton,8,1,16
+12,3,3,0,1,0,0,0,4,1,0,"['PullNoCam/User/behaviors/InitGraphLine.h', 'PullNoCam/User/behaviors/InitGraphLine.cpp']",0,behaviors::InitGraphLineFac,Magneton1Year,3,Magneton,3,4,0
+0,0,0,0,0,0,0,0,0,0,0,"['PullNoCam/User/behaviors/KeepDistanceAndAngle.cpp', 'PullNoCam/User/behaviors/KeepDistanceAndAngle.h']",0,PullNoCam/User/behaviors/KeepDistanceAndAngle,Magneton1Year,0,Magneton,0,0,0
+10,4,4,0,1,0,0,0,4,1,0,"['PullNoCam/User/behaviors/KeepDistanceAndAngle.h', 'PullNoCam/User/behaviors/KeepDistanceAndAngle.cpp']",0,behaviors::KeepDistanceAndAngleFac,Magneton1Year,4,Magneton,4,2.5,0
+7,8,7,0,1,0,0.142857142857143,0,1,1,0,"['PullNoCam/User/behaviors/KeepDistanceAndAngle.h', 'PullNoCam/User/behaviors/KeepDistanceAndAngle.cpp']",2,behaviors::KeepDistanceAndAngle,Magneton1Year,7,Magneton,7,1,0
+6,15,6,0,1,0,0,3,1,1,0,"['PullNoCam/User/behaviors/Leader.h', 'PullNoCam/User/behaviors/Leader.cpp']",2,behaviors::Leader,Magneton1Year,4,Magneton,6,1,12
+16,4,4,0,1,0,0,0,4,1,0,"['PullNoCam/User/behaviors/Leader.h', 'PullNoCam/User/behaviors/Leader.cpp']",0,behaviors::LeaderFac,Magneton1Year,4,Magneton,4,4,0
+0,0,0,0,0,0,0,0,0,0,0,"['PullNoCam/User/behaviors/LocateTarget.cpp', 'PullNoCam/User/behaviors/LocateTarget.h']",0,PullNoCam/User/behaviors/LocateTarget,Magneton1Year,0,Magneton,0,0,0
+4,4,4,0,1,0,0,0,1,1,0,"['PullNoCam/User/behaviors/LocateTarget.h', 'PullNoCam/User/behaviors/LocateTarget.cpp']",0,behaviors::LocateTargetFac,Magneton1Year,4,Magneton,4,1,0
+7,13,7,0,1,0,0.285714285714286,2,1,1,0,"['PullNoCam/User/behaviors/LocateTarget.h', 'PullNoCam/User/behaviors/LocateTarget.cpp']",2,behaviors::LocateTarget,Magneton1Year,5,Magneton,7,1,10
+9,16,8,0,1,0,0,4,2,1,0,"['PullNoCam/User/behaviors/MovePtzToStart.h', 'PullNoCam/User/behaviors/MovePtzToStart.cpp']",1,behaviors::MovePtzToStart,Magneton1Year,6,Magneton,8,1.125,24
+16,4,4,0,1,0,0,0,4,1,0,"['PullNoCam/User/behaviors/MovePtzToStart.h', 'PullNoCam/User/behaviors/MovePtzToStart.cpp']",0,behaviors::MovePtzToStartFac,Magneton1Year,4,Magneton,4,4,0
+8,11,8,0,1,0,0,0,1,1,0,"['PullNoCam/User/behaviors/MoveSBC.h', 'PullNoCam/User/behaviors/MoveSBC.cpp']",1,behaviors::MoveSBC,Magneton1Year,6,Magneton,8,1,0
+16,4,4,0,1,0,0,0,4,1,0,"['PullNoCam/User/behaviors/MoveSBC.h', 'PullNoCam/User/behaviors/MoveSBC.cpp']",0,behaviors::MoveSBCFac,Magneton1Year,4,Magneton,4,4,0
+6,9,6,0,1,0,0,0,1,1,0,"['PullNoCam/User/behaviors/Position.h', 'PullNoCam/User/behaviors/Position.cpp']",1,behaviors::Position,Magneton1Year,4,Magneton,6,1,0
+12,3,3,0,1,0,0,0,4,1,0,"['PullNoCam/User/behaviors/Position.h', 'PullNoCam/User/behaviors/Position.cpp']",0,behaviors::PositionFac,Magneton1Year,3,Magneton,3,4,0
+12,3,3,0,1,0,0,0,4,1,0,['PullNoCam/User/behaviors/Root.h'],0,behaviors::RootFac,Magneton1Year,3,Magneton,3,4,0
+12,3,3,0,1,0,0,0,4,1,0,"['PullNoCam/User/behaviors/RunDijkstra.h', 'PullNoCam/User/behaviors/RunDijkstra.cpp']",0,behaviors::RunDijkstraFac,Magneton1Year,3,Magneton,3,4,0
+39,31,10,0,1,0,0.1,1,30,1.2,0,"['PullNoCam/User/behaviors/RunDijkstra.h', 'PullNoCam/User/behaviors/RunDijkstra.cpp']",7,behaviors::RunDijkstra,Magneton1Year,6,Magneton,10,3.9,6
+0,0,0,0,0,0,0,0,0,0,0,"['PullNoCam/User/behaviors/SearchColor.h', 'PullNoCam/User/behaviors/SearchColor.cpp']",0,PullNoCam/User/behaviors/SearchColor,Magneton1Year,0,Magneton,0,0,0
+3,3,3,0,1,0,0,0,1,1,0,"['PullNoCam/User/behaviors/SearchColor.h', 'PullNoCam/User/behaviors/SearchColor.cpp']",0,behaviors::SearchColorRedFac,Magneton1Year,3,Magneton,3,1,0
+6,15,6,0,1,0,0,4,1,1,0,"['PullNoCam/User/behaviors/SearchColor.h', 'PullNoCam/User/behaviors/SearchColor.cpp']",1,behaviors::SearchColor,Magneton1Year,4,Magneton,6,1,16
+0,0,0,0,0,0,0,0,0,0,0,"['PullNoCam/User/behaviors/TrackLittleLess.cpp', 'PullNoCam/User/behaviors/TrackLittleLess.h']",0,PullNoCam/User/behaviors/TrackLittleLess,Magneton1Year,0,Magneton,0,0,0
+10,4,4,0,1,0,0,0,4,1,0,"['PullNoCam/User/behaviors/TrackLittleLess.h', 'PullNoCam/User/behaviors/TrackLittleLess.cpp']",0,behaviors::TrackLittleLessOnceFac,Magneton1Year,4,Magneton,4,2.5,0
+4,4,4,0,1,0,0,0,1,1,0,"['PullNoCam/User/behaviors/TrackLittleLess.h', 'PullNoCam/User/behaviors/TrackLittleLess.cpp']",0,behaviors::TrackLittleLessFrameFac,Magneton1Year,4,Magneton,4,1,0
+12,31,10,0,1,0,0.4,7,3,1,0,"['PullNoCam/User/behaviors/TrackLittleLess.h', 'PullNoCam/User/behaviors/TrackLittleLess.cpp']",2,behaviors::TrackLittleLess,Magneton1Year,7,Magneton,10,1.2,49
+10,4,4,0,1,0,0,0,4,1,0,"['PullNoCam/User/behaviors/TrackLittleLess.h', 'PullNoCam/User/behaviors/TrackLittleLess.cpp']",0,behaviors::TrackLittleLessFac,Magneton1Year,4,Magneton,4,2.5,0
+0,0,0,0,0,0,0,0,0,0,0,"['PullNoCam/User/behaviors/UpdateSBC.cpp', 'PullNoCam/User/behaviors/UpdateSBC.h']",0,PullNoCam/User/behaviors/UpdateSBC,Magneton1Year,0,Magneton,0,0,0
+17,37,8,0,1,0,0.25,7,10,1.125,0,"['PullNoCam/User/behaviors/UpdateSBC.h', 'PullNoCam/User/behaviors/UpdateSBC.cpp']",7,behaviors::UpdateSBC,Magneton1Year,4,Magneton,8,2.125,28
+4,4,4,0,1,0,0,0,1,1,0,"['PullNoCam/User/behaviors/UpdateSBC.h', 'PullNoCam/User/behaviors/UpdateSBC.cpp']",0,behaviors::UpdateSBCFac,Magneton1Year,4,Magneton,4,1,0
+101,1,1,0,0,0,2,0,101,19,0,"['PullNoCam/User/boot/boot.cc', 'PullNoCam/User/boot/boot.h']",0,PullNoCam/User/boot/boot,Magneton1Year,1,Magneton,1,101,0
+4,9,4,2,0,2,0.5,0,1,1.25,1,"['PullNoCam/User/boot/boot.h', 'PullNoCam/User/boot/boot.cc']",2,Boot,Magneton1Year,2,Magneton,4,1,0
+2,3,2,0,1,0,0.5,1,1,1,0,"['PullNoCam/User/boot/bootMagnetonFormation.h', 'PullNoCam/User/boot/bootMagnetonFormation.cpp']",0,bootMagnetonFormation,Magneton1Year,2,Magneton,2,1,2
+3,9,3,0,0,0,1,0,1,1,0,"['PullNoCam/User/communications/ClientUdpSocket.h', 'PullNoCam/User/communications/ClientUdpSocket.cpp']",3,ClientUdpSocket,Magneton1Year,1,Magneton,3,1,0
+3,4,3,0,0,0,0.666666666666667,0,1,1,0,"['PullNoCam/User/communications/ServerUdpSocket.h', 'PullNoCam/User/communications/ServerUdpSocket.cpp']",1,ServerUdpSocket,Magneton1Year,3,Magneton,3,1,0
+2,4,2,0,1,0,0,1,1,1,0,"['PullNoCam/User/conditions/CondBlindCycles.h', 'PullNoCam/User/conditions/CondBlindCycles.cpp']",0,conditions::CondBlindCycles,Magneton1Year,2,Magneton,2,1,2
+2,6,2,0,1,0,0,1,1,1,0,"['PullNoCam/User/conditions/CondBlockedWay.h', 'PullNoCam/User/conditions/CondBlockedWay.cpp']",0,conditions::CondBlockedWay,Magneton1Year,2,Magneton,2,1,2
+2,4,2,0,1,0,0,1,1,1,0,"['PullNoCam/User/conditions/CondCycle.h', 'PullNoCam/User/conditions/CondCycle.cpp']",0,conditions::CondCycle,Magneton1Year,2,Magneton,2,1,2
+2,8,2,0,1,0,0,2,1,1,0,"['PullNoCam/User/conditions/CondDynGraphFull.h', 'PullNoCam/User/conditions/CondDynGraphFull.cpp']",0,conditions::CondDynGraphFull,Magneton1Year,2,Magneton,2,1,4
+2,6,2,0,1,0,0,1,1,1,0,"['PullNoCam/User/conditions/CondFreeWay.h', 'PullNoCam/User/conditions/CondFreeWay.cpp']",0,conditions::CondFreeWay,Magneton1Year,2,Magneton,2,1,2
+4,7,3,0,1,0,0.333333333333333,2,2,1,0,"['PullNoCam/User/conditions/CondIsBPOrTimer.h', 'PullNoCam/User/conditions/CondIsBPOrTimer.cpp']",1,conditions::CondIsBPOrTimer,Magneton1Year,3,Magneton,3,1.33333333333333,6
+2,4,2,0,1,0,0,1,1,1,0,"['PullNoCam/User/conditions/CondIsFailed.h', 'PullNoCam/User/conditions/CondIsFailed.cpp']",0,conditions::CondIsFailed,Magneton1Year,2,Magneton,2,1,2
+0,0,0,0,0,0,0,0,0,0,0,"['PullNoCam/User/conditions/CondMiddleOfFrame.cpp', 'PullNoCam/User/conditions/CondMiddleOfFrame.h']",0,PullNoCam/User/conditions/CondMiddleOfFrame,Magneton1Year,0,Magneton,0,0,0
+7,11,5,0,1,0,0.6,3,3,1,0,"['PullNoCam/User/conditions/CondMiddleOfFrame.h', 'PullNoCam/User/conditions/CondMiddleOfFrame.cpp']",1,conditions::CondMiddleOfFrame,Magneton1Year,5,Magneton,5,1.4,15
+3,5,3,0,1,0,0.333333333333333,1,1,1,0,"['PullNoCam/User/conditions/CondNotSeeColor.h', 'PullNoCam/User/conditions/CondNotSeeColor.cpp']",1,conditions::CondNotSeeColor,Magneton1Year,3,Magneton,3,1,3
+3,6,3,0,1,0,0,2,1,1,0,"['PullNoCam/User/conditions/CondNotSeeColorParm.h', 'PullNoCam/User/conditions/CondNotSeeColorParm.cpp']",1,conditions::CondNotSeeColorParm,Magneton1Year,3,Magneton,3,1,6
+2,4,2,0,1,0,0,1,1,1,0,"['PullNoCam/User/conditions/CondOneCycle.h', 'PullNoCam/User/conditions/CondOneCycle.cpp']",0,conditions::CondOneCycle,Magneton1Year,2,Magneton,2,1,2
+2,8,2,0,1,0,0,2,1,1,0,"['PullNoCam/User/conditions/CondPtz.h', 'PullNoCam/User/conditions/CondPtz.cpp']",0,conditions::CondPtz,Magneton1Year,2,Magneton,2,1,4
+3,7,3,0,1,0,0,2,1,1,0,"['PullNoCam/User/conditions/CondPtzAtEndAndAllAnswered.h', 'PullNoCam/User/conditions/CondPtzAtEndAndAllAnswered.cpp']",1,conditions::CondPtzAtEndAndAllAnswered,Magneton1Year,3,Magneton,3,1,6
+3,5,3,0,1,0,0,1,1,1,0,"['PullNoCam/User/conditions/CondPtzAtStart.h', 'PullNoCam/User/conditions/CondPtzAtStart.cpp']",1,conditions::CondPtzAtStart,Magneton1Year,3,Magneton,3,1,3
+3,5,3,0,1,0,0.333333333333333,1,1,1,0,"['PullNoCam/User/conditions/CondSeeColor.h', 'PullNoCam/User/conditions/CondSeeColor.cpp']",1,conditions::CondSeeColor,Magneton1Year,3,Magneton,3,1,3
+3,6,3,0,1,0,0,2,1,1,0,"['PullNoCam/User/conditions/CondSeeColorParm.h', 'PullNoCam/User/conditions/CondSeeColorParm.cpp']",1,conditions::CondSeeColorParm,Magneton1Year,3,Magneton,3,1,6
+4,3,3,0,1,0,1.33333333333333,0,2,1,0,"['PullNoCam/User/conditions/CondTeamSizeXRunnersNum.h', 'PullNoCam/User/conditions/CondTeamSizeXRunnersNum.cpp']",4,conditions::CondTeamSizeXRunnersNum,Magneton1Year,3,Magneton,3,1.33333333333333,0
+72,1,1,0,0,0,2,0,72,15,0,['PullNoCam/User/environment/Rgb2Yuv.c'],0,PullNoCam/User/environment/Rgb2Yuv,Magneton1Year,1,Magneton,1,72,0
+21,2,2,3,0,0,1.5,0,13,2.5,0,['PullNoCam/User/protocols/TAP_SelectBehaviorByAngle.cpp'],0,PullNoCam/User/protocols/TAP_SelectBehaviorByAngle,Magneton1Year,2,Magneton,2,10.5,0
+2,4,2,0,1,0,0,1,1,1,0,"['PullNoCam/User/protocols/TAP_SelectBehaviorByAngle.h', 'PullNoCam/User/protocols/TAP_SelectBehaviorByAngle.cpp']",0,protocols::TAP_SelectBehaviorByAngle_StopCondition,Magneton1Year,2,Magneton,2,1,2
+13,3,3,0,1,0,0,0,5,1,0,"['PullNoCam/User/protocols/TAP_SelectBehaviorByAngle.h', 'PullNoCam/User/protocols/TAP_SelectBehaviorByAngle.cpp']",0,protocols::TAP_SelectBehaviorByAngleFac,Magneton1Year,3,Magneton,3,4.33333333333333,0
+6,16,6,0,1,0,0,3,1,1,0,"['PullNoCam/User/protocols/TAP_SelectBehaviorByAngle.h', 'PullNoCam/User/protocols/TAP_SelectBehaviorByAngle.cpp']",2,protocols::TAP_SelectBehaviorByAngle,Magneton1Year,4,Magneton,6,1,12
+6,6,6,0,1,0,0,0,1,1,0,"['PullNoCam/User/protocols/TAP_SelectChildByID.h', 'PullNoCam/User/protocols/TAP_SelectChildByID.cpp']",1,protocols::TAP_SelectChildByID,Magneton1Year,6,Magneton,6,1,0
+12,3,3,0,1,0,0,0,4,1,0,"['PullNoCam/User/protocols/TAP_SelectChildByID.h', 'PullNoCam/User/protocols/TAP_SelectChildByID.cpp']",0,protocols::TAP_SelectChildByIDFac,Magneton1Year,3,Magneton,3,4,0
+6,9,6,0,1,0,0,0,1,1,0,"['PullNoCam/User/protocols/TAP_SelectLeader.h', 'PullNoCam/User/protocols/TAP_SelectLeader.cpp']",1,protocols::TAP_SelectLeader,Magneton1Year,4,Magneton,6,1,0
+12,3,3,0,1,0,0,0,4,1,0,"['PullNoCam/User/protocols/TAP_SelectLeader.h', 'PullNoCam/User/protocols/TAP_SelectLeader.cpp']",0,protocols::TAP_SelectLeaderFac,Magneton1Year,3,Magneton,3,4,0
+12,3,3,0,1,0,0,0,4,1,0,"['PullNoCam/User/protocols/TAP_Together.h', 'PullNoCam/User/protocols/TAP_Together.cpp']",0,protocols::TAP_TogetherFac,Magneton1Year,3,Magneton,3,4,0
+7,10,7,0,1,0,0,0,1,1,0,"['PullNoCam/User/protocols/TAP_Together.h', 'PullNoCam/User/protocols/TAP_Together.cpp']",1,protocols::TAP_Together,Magneton1Year,5,Magneton,7,1,0
+12,3,3,0,1,0,0,0,4,1,0,"['PullNoCam/User/protocols/TEP_UntilAllTeamRun.h', 'PullNoCam/User/protocols/TEP_UntilAllTeamRun.cpp']",0,protocols::TEP_UntilAllTeamRunFac,Magneton1Year,3,Magneton,3,4,0
+6,9,6,3,1,3,0,1,1,1,0,"['PullNoCam/User/protocols/TEP_UntilAllTeamRun.h', 'PullNoCam/User/protocols/TEP_UntilAllTeamRun.cpp']",5,protocols::TEP_UntilAllTeamRun,Magneton1Year,6,Magneton,6,1,6
+2,5,2,0,1,0,0,2,1,1,0,"['PullNoCam/User/protocols/TEP_UntilAllTeamRun.h', 'PullNoCam/User/protocols/TEP_UntilAllTeamRun.cpp']",0,protocols::TEP_UntilAllTeamRun_StopCondition,Magneton1Year,2,Magneton,2,1,4
+4,6,4,0,1,0,1.25,2,1,1,0,"['PullNoCam/User/protocols/TKP_ArraySharedVertex.h', 'PullNoCam/User/protocols/TKP_ArraySharedVertex.cpp']",0,protocols::TKP_ArraySharedVertex,Magneton1Year,4,Magneton,4,1,8
+3,7,3,0,1,0,1.66666666666667,0,1,1,0,"['PullNoCam/User/protocols/TKP_BooleanAND.h', 'PullNoCam/User/protocols/TKP_BooleanAND.cpp']",2,protocols::TKP_BooleanAND,Magneton1Year,2,Magneton,3,1,0
+3,7,3,0,1,0,1.66666666666667,0,1,1,0,"['PullNoCam/User/protocols/TKP_BooleanOR.h', 'PullNoCam/User/protocols/TKP_BooleanOR.cpp']",2,protocols::TKP_BooleanOR,Magneton1Year,2,Magneton,3,1,0
+3,3,3,0,1,0,1,0,1,1,0,"['PullNoCam/User/protocols/TKP_Empty.h', 'PullNoCam/User/protocols/TKP_Empty.cpp']",0,protocols::TKP_Empty,Magneton1Year,3,Magneton,3,1,0
+4,5,4,0,1,0,1,0,1,1,0,"['PullNoCam/User/protocols/TKP_Int_MaxValue.h', 'PullNoCam/User/protocols/TKP_Int_MaxValue.cpp']",0,protocols::TKP_Int_MaxValue,Magneton1Year,3,Magneton,4,1,0
+24,7,7,0,2,0,1.14285714285714,0,5,1.14285714285714,0,"['PullNoCam/User/protocols/TKP_Majority.h', 'PullNoCam/User/protocols/TKP_Majority.cpp']",0,TKP_Majority,Magneton1Year,7,Magneton,7,3.42857142857143,0
+7,11,7,1,1,0,1.14285714285714,0,1,1,1,"['PullNoCam/User/protocols/TKP_Majority.h', 'PullNoCam/User/protocols/TKP_Majority.cpp']",0,TKP_MajorityCommon,Magneton1Year,3,Magneton,7,1,0
+3,3,3,0,1,0,1,0,1,1,0,"['PullNoCam/User/protocols/TKP_OthersOpinion.h', 'PullNoCam/User/protocols/TKP_OthersOpinion.cpp']",0,protocols::TKP_OthersOpinion,Magneton1Year,3,Magneton,3,1,0
+2,5,2,0,1,0,2,1,1,1,0,"['PullNoCam/User/protocols/TKP_Var_ProgressStatus.h', 'PullNoCam/User/protocols/TKP_Var_ProgressStatus.cpp']",0,protocols::TKP_Var_ProgressStatus,Magneton1Year,2,Magneton,2,1,2
+2,5,2,0,1,0,2,1,1,1,0,"['PullNoCam/User/protocols/TKP_Var_ReadyStatus.h', 'PullNoCam/User/protocols/TKP_Var_ReadyStatus.cpp']",0,protocols::TKP_Var_ReadyStatus,Magneton1Year,2,Magneton,2,1,2
+12,3,3,0,1,0,0,0,4,1,0,"['PullNoCam/User/protocols/TNP_SelectFirstBehavior.h', 'PullNoCam/User/protocols/TNP_SelectFirstBehavior.cpp']",0,protocols::TNP_SelectFirstBehaviorFac,Magneton1Year,3,Magneton,3,4,0
+6,10,6,0,1,0,0,0,1,1,0,"['PullNoCam/User/protocols/TNP_SelectFirstBehavior.h', 'PullNoCam/User/protocols/TNP_SelectFirstBehavior.cpp']",2,protocols::TNP_SelectFirstBehavior,Magneton1Year,4,Magneton,6,1,0
+13,5,4,0,1,0,0.25,0,4,1,0,"['PullNoCam/User/protocols/TSP_AllTeamReady.h', 'PullNoCam/User/protocols/TSP_AllTeamReady.cpp']",1,protocols::TSP_AllTeamReadyFac,Magneton1Year,4,Magneton,4,3.25,0
+7,19,7,2,1,3,0.142857142857143,1,1,1,0,"['PullNoCam/User/protocols/TSP_AllTeamReady.h', 'PullNoCam/User/protocols/TSP_AllTeamReady.cpp']",5,protocols::TSP_AllTeamReady,Magneton1Year,5,Magneton,7,1,5
+2,5,2,0,1,0,0,2,1,1,0,"['PullNoCam/User/protocols/TSP_AllTeamReady.h', 'PullNoCam/User/protocols/TSP_AllTeamReady.cpp']",0,protocols::TSP_AllTeamReady_StopCondition,Magneton1Year,2,Magneton,2,1,4
+4,4,4,0,1,0,0.5,0,1,1,0,"['PullNoCam/User/recipes/MagnetonFormationRec.h', 'PullNoCam/User/recipes/MagnetonFormationRec.cpp']",0,MagnetonFormationRec,Magneton1Year,4,Magneton,4,1,0
+38,21,11,17,2,10,0.666666666666667,4,26,1.08333333333333,0,"['PullNoCam/User/robot/RobotShrimp.h', 'PullNoCam/User/robot/RobotShrimp.cpp']",10,robot::RobotShrimp,Magneton1Year,12,Magneton,12,3.16666666666667,48
+0,0,0,0,0,0,0,0,0,0,0,['PullNoCam/User/robot/domain_player/devicesLib/Laser.cc'],0,PullNoCam/User/robot/domain_player/devicesLib/Laser,Magneton1Year,0,Magneton,0,0,0
+0,0,0,0,0,0,0,0,0,0,0,['PullNoCam/User/robot/domain_player/devicesLib/Ptz.cc'],0,PullNoCam/User/robot/domain_player/devicesLib/Ptz,Magneton1Year,0,Magneton,0,0,0
+3,10,3,4,1,5,5.66666666666667,0,1,1,0,"['PullNoCam/User/robot/domain_player/plrAID.h', 'PullNoCam/User/robot/domain_player/plrAID.cc']",5,player::plrAID,Magneton1Year,2,Magneton,3,1,0
+4,4,4,38,1,1,0.25,0,1,1,11,['PullNoCam/User/robot/domain_player/plrDevice.h'],1,player::plrDevice,Magneton1Year,4,Magneton,4,1,0
+7,4,4,0,2,1,0.5,0,4,1,0,['PullNoCam/User/robot/domain_player/plrDevicesLib.h'],1,player::Odometer,Magneton1Year,4,Magneton,4,1.75,0
+47,34,8,2,2,3,0.75,3,31,1.625,0,['PullNoCam/User/robot/domain_player/plrDevicesLib.h'],3,player::Laser,Magneton1Year,3,Magneton,8,5.875,9
+31,35,9,6,2,1,1,2,14,1.11111111111111,0,['PullNoCam/User/robot/domain_player/plrDevicesLib.h'],2,player::Ptz,Magneton1Year,4,Magneton,9,3.44444444444444,8
+7,4,4,0,2,1,0.5,0,4,1,0,['PullNoCam/User/robot/domain_player/plrDevicesLib.h'],1,player::Speedometer,Magneton1Year,4,Magneton,4,1.75,0
+42,15,2,0,3,0,1.5,2,41,7,0,['PullNoCam/User/robot/domain_player/plrDevicesLib.h'],0,player::Sonar_rv400,Magneton1Year,2,Magneton,2,21,4
+6,13,6,1,2,1,0.5,2,1,1,1,['PullNoCam/User/robot/domain_player/plrDevicesLib.h'],1,player::Sonar,Magneton1Year,4,Magneton,6,1,8
+0,0,0,0,0,0,0,0,0,0,0,['PullNoCam/User/robot/domain_player/plrDevicesLib.h'],0,PullNoCam/User/robot/domain_player/plrDevicesLib,Magneton1Year,0,Magneton,0,0,0
+6,22,6,0,2,1,0.833333333333333,2,1,1,0,['PullNoCam/User/robot/domain_player/plrDevicesLib.h'],5,player::Camera,Magneton1Year,3,Magneton,6,1,6
+53,29,9,1,2,1,1,2,15,1.22222222222222,0,['PullNoCam/User/robot/domain_player/plrDevicesLib.h'],7,player::BlobFinder,Magneton1Year,4,Magneton,9,5.88888888888889,8
+7,15,7,11,2,1,0.571428571428571,2,1,1,0,['PullNoCam/User/robot/domain_player/plrDevicesLib.h'],2,player::Motor,Magneton1Year,4,Magneton,7,1,8
+6,19,6,0,2,1,0.5,2,1,1,0,['PullNoCam/User/robot/domain_player/plrDevicesLib.h'],4,player::LPS,Magneton1Year,3,Magneton,6,1,6
+9,21,6,0,2,2,0.666666666666667,2,4,1,0,['PullNoCam/User/robot/domain_player/plrDevicesLib.h'],2,player::Bumper,Magneton1Year,2,Magneton,6,1.5,4
+6,18,6,0,2,1,0.5,2,1,1,0,['PullNoCam/User/robot/domain_player/plrDevicesLib.h'],4,player::GPS,Magneton1Year,3,Magneton,6,1,6
+14,16,13,9,1,6,0.857142857142857,1,1,1,1,"['PullNoCam/User/robot/domain_player/plrRobot.h', 'PullNoCam/User/robot/domain_player/plrRobot.cc']",6,player::plrRobot,Magneton1Year,14,Magneton,14,1,14
+0,0,0,51,0,22,0,0,0,0,0,"['PullNoCam/User/robot/domain_player/plrVarNames.h', 'PullNoCam/User/robot/domain_player/plrVarNames.cc']",22,plrVarNames::plrDevices,Magneton1Year,0,Magneton,0,0,0
+4,19,4,0,0,0,1.75,2,1,1,0,"['PullNoCam/User/structs/Graph.h', 'PullNoCam/User/structs/Graph.cpp']",3,Graph,Magneton1Year,1,Magneton,4,1,2
+12,32,12,2,0,0,0.5,0,1,1,0,"['PullNoCam/User/structs/SharedVertex.h', 'PullNoCam/User/structs/SharedVertex.cpp']",4,SharedVertex,Magneton1Year,2,Magneton,12,1,0
+16,36,14,4,0,0,1,0,3,1,0,"['PullNoCam/User/structs/Vertex.h', 'PullNoCam/User/structs/Vertex.cpp']",4,Vertex,Magneton1Year,3,Magneton,14,1.14285714285714,0
+4,1,1,0,2,0,0,0,4,1,0,['PullNoCam/User/tests/testSimpleBeh.h'],0,SimpleTurnBehFac,Magneton1Year,1,Magneton,1,4,0
+4,1,1,0,2,0,0,0,4,1,0,['PullNoCam/User/tests/testSimpleBeh.h'],0,SimpleRunBeh,Magneton1Year,1,Magneton,1,4,0
+8,2,2,2,1,0,0,0,4,1,2,['PullNoCam/User/tests/testSimpleBeh.h'],0,SimpleBehFac,Magneton1Year,2,Magneton,2,4,0
+4,1,1,0,2,0,0,0,4,1,0,['PullNoCam/User/tests/testSimpleBeh.h'],0,SimpleTurnBeh,Magneton1Year,1,Magneton,1,4,0
+5,1,0,0,1,0,1,0,5,1,0,['PullNoCam/User/tests/testSimpleBeh.h'],0,SimpleBehWM,Magneton1Year,1,Magneton,1,5,0
+0,0,0,0,0,0,0,0,0,0,0,['PullNoCam/User/tests/testSimpleBeh.h'],0,PullNoCam/User/tests/testSimpleBeh,Magneton1Year,0,Magneton,0,0,0
+43,7,4,2,1,0,0,3,18,1.25,2,['PullNoCam/User/tests/testSimpleBeh.h'],2,SimpleBeh,Magneton1Year,4,Magneton,4,10.75,12
+4,1,1,0,2,0,0,0,4,1,0,['PullNoCam/User/tests/testSimpleBeh.h'],0,SimpleRunBehFac,Magneton1Year,1,Magneton,1,4,0
+29,2,2,0,1,0,1,0,25,1,0,['PullNoCam/User/tests/testSimpleTaskCreator.h'],0,SimpleTaskCreator,Magneton1Year,2,Magneton,2,14.5,0
+47,3,3,20,0,2,0.333333333333333,0,23,1,0,"['PullNoCam/User/utils/Utils.cpp', 'PullNoCam/User/utils/Utils.h']",2,PullNoCam/User/utils/Utils,Magneton1Year,3,Magneton,3,15.6666666666667,0
+9,1,1,0,0,0,2,0,9,1,0,['PullNoCam/User/variables/OriginalGraphVarDef.cpp'],0,PullNoCam/User/variables/OriginalGraphVarDef,Magneton1Year,1,Magneton,1,9,0
+2,7,2,0,1,0,1,1,1,1,0,"['PullNoCam/User/variables/OriginalGraphVarDef.h', 'PullNoCam/User/variables/OriginalGraphVarDef.cpp']",0,variables::OriginalGraphVarDef,Magneton1Year,2,Magneton,2,1,2
+5,11,5,1,1,0,1.6,2,1,1,0,"['PullNoCam/User/variables/SerializationOfRobotData.h', 'PullNoCam/User/variables/SerializationOfRobotData.cpp']",1,serialization::SerializationOfRobotData,Magneton1Year,5,Magneton,5,1,10
+11,25,11,0,1,0,2.27272727272727,1,1,1,0,"['PullNoCam/User/variables/SerializationOfSharedVertex.h', 'PullNoCam/User/variables/SerializationOfSharedVertex.cpp']",0,serialization::SerializationOfSharedVertex,Magneton1Year,5,Magneton,11,1,5
+1,1,1,0,1,0,1,0,1,1,0,['PullNoCam/User/variables/SharedGraph_VarsDef.h'],0,variables::SharedGraph_VarsDef,Magneton1Year,1,Magneton,1,1,0
+1,2,1,0,1,0,1,1,1,1,0,"['PullNoCam/User/variables/TAP_SelectBehaviorByAngle_VarsDef.h', 'PullNoCam/User/variables/TAP_SelectBehaviorByAngle_VarsDef.cpp']",0,variables::TAP_SelectBehaviorByAngle_VarsDef,Magneton1Year,1,Magneton,1,1,1
+1,3,1,0,1,0,1,2,1,1,0,"['PullNoCam/User/variables/TEP_UntilAllTeamRun_VarsDef.h', 'PullNoCam/User/variables/TEP_UntilAllTeamRun_VarsDef.cpp']",0,variables::TEP_UntilAllTeamRun_VarsDef,Magneton1Year,1,Magneton,1,1,2
+1,2,1,0,1,0,1,1,1,1,0,"['PullNoCam/User/variables/TSP_AllTeamReady_VarsDef.h', 'PullNoCam/User/variables/TSP_AllTeamReady_VarsDef.cpp']",0,variables::TSP_AllTeamReady_VarsDef,Magneton1Year,1,Magneton,1,1,1
+2,4,2,0,1,0,1,1,1,1,0,"['PullNoCam/User/variables/VarsDef_Angle_nonshared.h', 'PullNoCam/User/variables/VarsDef_Angle_nonshared.cpp']",0,variables::VarsDef_Angle_nonshared,Magneton1Year,1,Magneton,2,1,1
+0,0,0,11,0,3,0,0,0,0,0,"['PullNoCam/User/variables/varNames.h', 'PullNoCam/User/variables/varNames.cc']",3,variables::sharing,Magneton1Year,0,Magneton,0,0,0
+0,0,0,2,0,2,0,0,0,0,0,"['PullNoCam/User/variables/varNames.h', 'PullNoCam/User/variables/varNames.cc']",2,variables::FenceDemo,Magneton1Year,0,Magneton,0,0,0
+0,0,0,12,0,2,0,0,0,0,0,"['PullNoCam/User/variables/varNames.h', 'PullNoCam/User/variables/varNames.cc']",2,variables::synchronization,Magneton1Year,0,Magneton,0,0,0
+0,0,0,34,0,8,0,0,0,0,0,"['PullNoCam/User/variables/varNames.h', 'PullNoCam/User/variables/varNames.cc']",8,variables::formation,Magneton1Year,0,Magneton,0,0,0
+0,0,0,0,0,0,0,0,0,0,0,['PullNoCamControl/User/behaviors/Defines.h'],0,PullNoCamControl/User/behaviors/Defines,Magneton1Year,0,Magneton,0,0,0
+0,0,0,0,0,0,0,0,0,0,0,"['PullNoCamControl/User/behaviors/ExecuteSBCGraph.cpp', 'PullNoCamControl/User/behaviors/ExecuteSBCGraph.h']",0,PullNoCamControl/User/behaviors/ExecuteSBCGraph,Magneton1Year,0,Magneton,0,0,0
+0,0,0,0,0,0,0,0,0,0,0,"['PullNoCamControl/User/behaviors/Formation.cpp', 'PullNoCamControl/User/behaviors/Formation.h']",0,PullNoCamControl/User/behaviors/Formation,Magneton1Year,0,Magneton,0,0,0
+0,0,0,0,0,0,0,0,0,0,0,"['PullNoCamControl/User/behaviors/KeepDistanceAndAngle.cpp', 'PullNoCamControl/User/behaviors/KeepDistanceAndAngle.h']",0,PullNoCamControl/User/behaviors/KeepDistanceAndAngle,Magneton1Year,0,Magneton,0,0,0
+0,0,0,0,0,0,0,0,0,0,0,"['PullNoCamControl/User/behaviors/LocateTarget.cpp', 'PullNoCamControl/User/behaviors/LocateTarget.h']",0,PullNoCamControl/User/behaviors/LocateTarget,Magneton1Year,0,Magneton,0,0,0
+0,0,0,0,0,0,0,0,0,0,0,"['PullNoCamControl/User/behaviors/SearchColor.h', 'PullNoCamControl/User/behaviors/SearchColor.cpp']",0,PullNoCamControl/User/behaviors/SearchColor,Magneton1Year,0,Magneton,0,0,0
+0,0,0,0,0,0,0,0,0,0,0,"['PullNoCamControl/User/behaviors/TrackLittleLess.cpp', 'PullNoCamControl/User/behaviors/TrackLittleLess.h']",0,PullNoCamControl/User/behaviors/TrackLittleLess,Magneton1Year,0,Magneton,0,0,0
+0,0,0,0,0,0,0,0,0,0,0,"['PullNoCamControl/User/behaviors/UpdateSBC.cpp', 'PullNoCamControl/User/behaviors/UpdateSBC.h']",0,PullNoCamControl/User/behaviors/UpdateSBC,Magneton1Year,0,Magneton,0,0,0
+101,1,1,0,0,0,2,0,101,19,0,"['PullNoCamControl/User/boot/boot.cc', 'PullNoCamControl/User/boot/boot.h']",0,PullNoCamControl/User/boot/boot,Magneton1Year,1,Magneton,1,101,0
+0,0,0,0,0,0,0,0,0,0,0,"['PullNoCamControl/User/conditions/CondMiddleOfFrame.cpp', 'PullNoCamControl/User/conditions/CondMiddleOfFrame.h']",0,PullNoCamControl/User/conditions/CondMiddleOfFrame,Magneton1Year,0,Magneton,0,0,0
+72,1,1,0,0,0,2,0,72,15,0,['PullNoCamControl/User/environment/Rgb2Yuv.c'],0,PullNoCamControl/User/environment/Rgb2Yuv,Magneton1Year,1,Magneton,1,72,0
+21,2,2,0,0,0,1.5,0,13,2.5,0,['PullNoCamControl/User/protocols/TAP_SelectBehaviorByAngle.cpp'],0,PullNoCamControl/User/protocols/TAP_SelectBehaviorByAngle,Magneton1Year,2,Magneton,2,10.5,0
+0,0,0,0,0,0,0,0,0,0,0,['PullNoCamControl/User/robot/domain_player/devicesLib/Laser.cc'],0,PullNoCamControl/User/robot/domain_player/devicesLib/Laser,Magneton1Year,0,Magneton,0,0,0
+0,0,0,0,0,0,0,0,0,0,0,['PullNoCamControl/User/robot/domain_player/devicesLib/Ptz.cc'],0,PullNoCamControl/User/robot/domain_player/devicesLib/Ptz,Magneton1Year,0,Magneton,0,0,0
+0,0,0,0,0,0,0,0,0,0,0,['PullNoCamControl/User/robot/domain_player/plrDevicesLib.h'],0,PullNoCamControl/User/robot/domain_player/plrDevicesLib,Magneton1Year,0,Magneton,0,0,0
+0,0,0,0,0,0,0,0,0,0,0,['PullNoCamControl/User/tests/testSimpleBeh.h'],0,PullNoCamControl/User/tests/testSimpleBeh,Magneton1Year,0,Magneton,0,0,0
+47,7,3,0,0,2,0.333333333333333,1,23,1,0,"['PullNoCamControl/User/utils/Utils.cpp', 'PullNoCamControl/User/utils/Utils.h']",2,PullNoCamControl/User/utils/Utils,Magneton1Year,3,Magneton,3,15.6666666666667,3
+9,1,1,0,0,0,2,0,9,1,0,['PullNoCamControl/User/variables/OriginalGraphVarDef.cpp'],0,PullNoCamControl/User/variables/OriginalGraphVarDef,Magneton1Year,1,Magneton,1,9,0
+0,0,0,0,0,0,0,0,0,0,0,['PullNoCamFunc/User/behaviors/Defines.h'],0,PullNoCamFunc/User/behaviors/Defines,Magneton1Year,0,Magneton,0,0,0
+0,0,0,0,0,0,0,0,0,0,0,"['PullNoCamFunc/User/behaviors/ExecuteSBCGraph.cpp', 'PullNoCamFunc/User/behaviors/ExecuteSBCGraph.h']",0,PullNoCamFunc/User/behaviors/ExecuteSBCGraph,Magneton1Year,0,Magneton,0,0,0
+0,0,0,0,0,0,0,0,0,0,0,"['PullNoCamFunc/User/behaviors/Formation.cpp', 'PullNoCamFunc/User/behaviors/Formation.h']",0,PullNoCamFunc/User/behaviors/Formation,Magneton1Year,0,Magneton,0,0,0
+0,0,0,0,0,0,0,0,0,0,0,"['PullNoCamFunc/User/behaviors/KeepDistanceAndAngle.cpp', 'PullNoCamFunc/User/behaviors/KeepDistanceAndAngle.h']",0,PullNoCamFunc/User/behaviors/KeepDistanceAndAngle,Magneton1Year,0,Magneton,0,0,0
+0,0,0,0,0,0,0,0,0,0,0,"['PullNoCamFunc/User/behaviors/LocateTarget.cpp', 'PullNoCamFunc/User/behaviors/LocateTarget.h']",0,PullNoCamFunc/User/behaviors/LocateTarget,Magneton1Year,0,Magneton,0,0,0
+0,0,0,0,0,0,0,0,0,0,0,"['PullNoCamFunc/User/behaviors/SearchColor.h', 'PullNoCamFunc/User/behaviors/SearchColor.cpp']",0,PullNoCamFunc/User/behaviors/SearchColor,Magneton1Year,0,Magneton,0,0,0
+0,0,0,0,0,0,0,0,0,0,0,"['PullNoCamFunc/User/behaviors/TrackLittleLess.cpp', 'PullNoCamFunc/User/behaviors/TrackLittleLess.h']",0,PullNoCamFunc/User/behaviors/TrackLittleLess,Magneton1Year,0,Magneton,0,0,0
+0,0,0,0,0,0,0,0,0,0,0,"['PullNoCamFunc/User/behaviors/UpdateSBC.cpp', 'PullNoCamFunc/User/behaviors/UpdateSBC.h']",0,PullNoCamFunc/User/behaviors/UpdateSBC,Magneton1Year,0,Magneton,0,0,0
+102,1,1,0,0,0,2,0,102,19,0,"['PullNoCamFunc/User/boot/boot.cc', 'PullNoCamFunc/User/boot/boot.h']",0,PullNoCamFunc/User/boot/boot,Magneton1Year,1,Magneton,1,102,0
+0,0,0,0,0,0,0,0,0,0,0,"['PullNoCamFunc/User/conditions/CondMiddleOfFrame.cpp', 'PullNoCamFunc/User/conditions/CondMiddleOfFrame.h']",0,PullNoCamFunc/User/conditions/CondMiddleOfFrame,Magneton1Year,0,Magneton,0,0,0
+72,1,1,0,0,0,2,0,72,15,0,['PullNoCamFunc/User/environment/Rgb2Yuv.c'],0,PullNoCamFunc/User/environment/Rgb2Yuv,Magneton1Year,1,Magneton,1,72,0
+21,2,2,0,0,0,1.5,0,13,2.5,0,['PullNoCamFunc/User/protocols/TAP_SelectBehaviorByAngle.cpp'],0,PullNoCamFunc/User/protocols/TAP_SelectBehaviorByAngle,Magneton1Year,2,Magneton,2,10.5,0
+0,0,0,0,0,0,0,0,0,0,0,['PullNoCamFunc/User/robot/domain_player/devicesLib/Laser.cc'],0,PullNoCamFunc/User/robot/domain_player/devicesLib/Laser,Magneton1Year,0,Magneton,0,0,0
+0,0,0,0,0,0,0,0,0,0,0,['PullNoCamFunc/User/robot/domain_player/devicesLib/Ptz.cc'],0,PullNoCamFunc/User/robot/domain_player/devicesLib/Ptz,Magneton1Year,0,Magneton,0,0,0
+4,4,4,2,1,1,0.25,0,1,1,1,['PullNoCamFunc/User/robot/domain_player/plrDevice.h'],1,funcDevice,Magneton1Year,4,Magneton,4,1,0
+0,0,0,0,0,0,0,0,0,0,0,['PullNoCamFunc/User/robot/domain_player/plrDevicesLib.h'],0,PullNoCamFunc/User/robot/domain_player/plrDevicesLib,Magneton1Year,0,Magneton,0,0,0
+34,10,6,0,2,0,0.5,1,15,1.33333333333333,0,['PullNoCamFunc/User/robot/domain_player/plrDevicesLib.h'],1,Motor,Magneton1Year,4,Magneton,6,5.66666666666667,4
+0,0,0,0,0,0,0,0,0,0,0,['PullNoCamFunc/User/tests/testSimpleBeh.h'],0,PullNoCamFunc/User/tests/testSimpleBeh,Magneton1Year,0,Magneton,0,0,0
+47,7,3,0,0,2,0.333333333333333,1,23,1,0,"['PullNoCamFunc/User/utils/Utils.cpp', 'PullNoCamFunc/User/utils/Utils.h']",2,PullNoCamFunc/User/utils/Utils,Magneton1Year,3,Magneton,3,15.6666666666667,3
+9,1,1,0,0,0,2,0,9,1,0,['PullNoCamFunc/User/variables/OriginalGraphVarDef.cpp'],0,PullNoCamFunc/User/variables/OriginalGraphVarDef,Magneton1Year,1,Magneton,1,9,0
+0,0,0,0,0,0,0,0,0,0,0,['Push/User/behaviors/Defines.h'],0,Push/User/behaviors/Defines,Magneton1Year,0,Magneton,0,0,0
+0,0,0,0,0,0,0,0,0,0,0,"['Push/User/behaviors/ExecuteSBCGraph.cpp', 'Push/User/behaviors/ExecuteSBCGraph.h']",0,Push/User/behaviors/ExecuteSBCGraph,Magneton1Year,0,Magneton,0,0,0
+0,0,0,0,0,0,0,0,0,0,0,"['Push/User/behaviors/Formation.cpp', 'Push/User/behaviors/Formation.h']",0,Push/User/behaviors/Formation,Magneton1Year,0,Magneton,0,0,0
+0,0,0,0,0,0,0,0,0,0,0,"['Push/User/behaviors/KeepDistanceAndAngle.cpp', 'Push/User/behaviors/KeepDistanceAndAngle.h']",0,Push/User/behaviors/KeepDistanceAndAngle,Magneton1Year,0,Magneton,0,0,0
+0,0,0,0,0,0,0,0,0,0,0,"['Push/User/behaviors/LocateTarget.cpp', 'Push/User/behaviors/LocateTarget.h']",0,Push/User/behaviors/LocateTarget,Magneton1Year,0,Magneton,0,0,0
+0,0,0,0,0,0,0,0,0,0,0,"['Push/User/behaviors/SearchColor.h', 'Push/User/behaviors/SearchColor.cpp']",0,Push/User/behaviors/SearchColor,Magneton1Year,0,Magneton,0,0,0
+0,0,0,0,0,0,0,0,0,0,0,"['Push/User/behaviors/TrackLittleLess.cpp', 'Push/User/behaviors/TrackLittleLess.h']",0,Push/User/behaviors/TrackLittleLess,Magneton1Year,0,Magneton,0,0,0
+0,0,0,0,0,0,0,0,0,0,0,"['Push/User/behaviors/UpdateSBC.cpp', 'Push/User/behaviors/UpdateSBC.h']",0,Push/User/behaviors/UpdateSBC,Magneton1Year,0,Magneton,0,0,0
+101,1,1,0,0,0,2,0,101,19,0,"['Push/User/boot/boot.cc', 'Push/User/boot/boot.h']",0,Push/User/boot/boot,Magneton1Year,1,Magneton,1,101,0
+0,0,0,0,0,0,0,0,0,0,0,"['Push/User/conditions/CondMiddleOfFrame.cpp', 'Push/User/conditions/CondMiddleOfFrame.h']",0,Push/User/conditions/CondMiddleOfFrame,Magneton1Year,0,Magneton,0,0,0
+72,1,1,0,0,0,2,0,72,15,0,['Push/User/environment/Rgb2Yuv.c'],0,Push/User/environment/Rgb2Yuv,Magneton1Year,1,Magneton,1,72,0
+21,2,2,0,0,0,1.5,0,13,2.5,0,['Push/User/protocols/TAP_SelectBehaviorByAngle.cpp'],0,Push/User/protocols/TAP_SelectBehaviorByAngle,Magneton1Year,2,Magneton,2,10.5,0
+0,0,0,0,0,0,0,0,0,0,0,['Push/User/robot/domain_player/devicesLib/Laser.cc'],0,Push/User/robot/domain_player/devicesLib/Laser,Magneton1Year,0,Magneton,0,0,0
+0,0,0,0,0,0,0,0,0,0,0,['Push/User/robot/domain_player/devicesLib/Ptz.cc'],0,Push/User/robot/domain_player/devicesLib/Ptz,Magneton1Year,0,Magneton,0,0,0
+0,0,0,0,0,0,0,0,0,0,0,['Push/User/robot/domain_player/plrDevicesLib.h'],0,Push/User/robot/domain_player/plrDevicesLib,Magneton1Year,0,Magneton,0,0,0
+0,0,0,0,0,0,0,0,0,0,0,['Push/User/tests/testSimpleBeh.h'],0,Push/User/tests/testSimpleBeh,Magneton1Year,0,Magneton,0,0,0
+47,7,3,0,0,2,0.333333333333333,1,23,2.33333333333333,0,"['Push/User/utils/Utils.cpp', 'Push/User/utils/Utils.h']",2,Push/User/utils/Utils,Magneton1Year,3,Magneton,3,15.6666666666667,3
+9,1,1,0,0,0,2,0,9,1,0,['Push/User/variables/OriginalGraphVarDef.cpp'],0,Push/User/variables/OriginalGraphVarDef,Magneton1Year,1,Magneton,1,9,0
+70,6,4,0,0,14,1.25,1,57,1,0,"['Shrimp3DriverPlayer2_0_5_v2/shrimp3.cc', 'Shrimp3DriverPlayer2_0_5_v2/shrimp3.h']",14,Shrimp3DriverPlayer2_0_5_v2/shrimp3,Magneton1Year,4,Magneton,4,17.5,4
+0,0,0,0,0,2,0,0,0,0,0,"['Shrimp3DriverPlayer2_0_5_v2/shrimp3.h', 'Shrimp3DriverPlayer2_0_5_v2/shrimp3.cc']",2,player_shrimp3_cmd_t::@10::@13,Magneton1Year,0,Magneton,0,0,0
+0,0,0,0,0,2,0,0,0,0,0,"['Shrimp3DriverPlayer2_0_5_v2/shrimp3.h', 'Shrimp3DriverPlayer2_0_5_v2/shrimp3.cc']",2,@15::@18,Magneton1Year,0,Magneton,0,0,0
+0,0,0,0,0,4,0,0,0,0,0,"['Shrimp3DriverPlayer2_0_5_v2/shrimp3.h', 'Shrimp3DriverPlayer2_0_5_v2/shrimp3.cc']",4,@15,Magneton1Year,0,Magneton,0,0,0
+0,0,0,0,0,1,0,0,0,0,0,"['Shrimp3DriverPlayer2_0_5_v2/shrimp3.h', 'Shrimp3DriverPlayer2_0_5_v2/shrimp3.cc']",1,@15::@16,Magneton1Year,0,Magneton,0,0,0
+0,0,0,0,0,1,0,0,0,0,0,"['Shrimp3DriverPlayer2_0_5_v2/shrimp3.h', 'Shrimp3DriverPlayer2_0_5_v2/shrimp3.cc']",1,player_shrimp3_cmd_t::@10::@11,Magneton1Year,0,Magneton,0,0,0
+0,0,0,0,0,1,0,0,0,0,0,"['Shrimp3DriverPlayer2_0_5_v2/shrimp3.h', 'Shrimp3DriverPlayer2_0_5_v2/shrimp3.cc']",1,player_shrimp3_cmd_t::@10::@14,Magneton1Year,0,Magneton,0,0,0
+0,0,0,0,0,1,0,0,0,0,0,"['Shrimp3DriverPlayer2_0_5_v2/shrimp3.h', 'Shrimp3DriverPlayer2_0_5_v2/shrimp3.cc']",1,@15::@19,Magneton1Year,0,Magneton,0,0,0
+0,0,0,0,0,1,0,0,0,0,0,"['Shrimp3DriverPlayer2_0_5_v2/shrimp3.h', 'Shrimp3DriverPlayer2_0_5_v2/shrimp3.cc']",1,player_shrimp3_cmd_t::@10::@12,Magneton1Year,0,Magneton,0,0,0
+0,0,0,0,0,4,0,0,0,0,0,"['Shrimp3DriverPlayer2_0_5_v2/shrimp3.h', 'Shrimp3DriverPlayer2_0_5_v2/shrimp3.cc']",4,player_shrimp3_cmd_t::@10,Magneton1Year,0,Magneton,0,0,0
+0,0,0,0,0,1,0,0,0,0,0,"['Shrimp3DriverPlayer2_0_5_v2/shrimp3.h', 'Shrimp3DriverPlayer2_0_5_v2/shrimp3.cc']",1,@15::@17,Magneton1Year,0,Magneton,0,0,0
+6,6,3,2,0,0,0,0,4,1,0,"['Shrimp3DriverPlayer2_0_5_v3/Timer.h', 'Shrimp3DriverPlayer2_0_5_v3/Timer.cc']",1,Timer,Magneton1Year,1,Magneton,3,2,0
+82,6,4,20,0,14,1.25,0,64,1,0,"['Shrimp3DriverPlayer2_0_5_v3/shrimp3.cc', 'Shrimp3DriverPlayer2_0_5_v3/shrimp3.h']",14,Shrimp3DriverPlayer2_0_5_v3/shrimp3,Magneton1Year,2,Magneton,4,20.5,0
+0,0,0,0,0,1,0,0,0,0,0,"['Shrimp3DriverPlayer2_0_5_v3/shrimp3.h', 'Shrimp3DriverPlayer2_0_5_v3/shrimp3.cc']",1,player_shrimp3_cmd_t::@0::@4,Magneton1Year,0,Magneton,0,0,0
+0,0,0,1,0,10,0,0,0,0,0,"['Shrimp3DriverPlayer2_0_5_v3/shrimp3.h', 'Shrimp3DriverPlayer2_0_5_v3/shrimp3.cc']",10,player_shrimp3_cmd_t,Magneton1Year,0,Magneton,0,0,0
+0,0,0,0,0,1,0,0,0,0,0,"['Shrimp3DriverPlayer2_0_5_v3/shrimp3.h', 'Shrimp3DriverPlayer2_0_5_v3/shrimp3.cc']",1,@5::@6,Magneton1Year,0,Magneton,0,0,0
+0,0,0,0,0,4,0,0,0,0,0,"['Shrimp3DriverPlayer2_0_5_v3/shrimp3.h', 'Shrimp3DriverPlayer2_0_5_v3/shrimp3.cc']",4,@5,Magneton1Year,0,Magneton,0,0,0
+1059,172,6,0,1,2,1,9,111,6.21739130434783,0,"['Shrimp3DriverPlayer2_0_5_v3/shrimp3.h', 'Shrimp3DriverPlayer2_0_5_v3/shrimp3.cc']",28,shrimp3,Magneton1Year,1,Magneton,23,46.0434782608696,9
+0,0,0,0,0,2,0,0,0,0,0,"['Shrimp3DriverPlayer2_0_5_v3/shrimp3.h', 'Shrimp3DriverPlayer2_0_5_v3/shrimp3.cc']",2,player_shrimp3_cmd_t::@0::@3,Magneton1Year,0,Magneton,0,0,0
+0,0,0,0,0,1,0,0,0,0,0,"['Shrimp3DriverPlayer2_0_5_v3/shrimp3.h', 'Shrimp3DriverPlayer2_0_5_v3/shrimp3.cc']",1,player_shrimp3_cmd_t::@0::@2,Magneton1Year,0,Magneton,0,0,0
+0,0,0,0,0,1,0,0,0,0,0,"['Shrimp3DriverPlayer2_0_5_v3/shrimp3.h', 'Shrimp3DriverPlayer2_0_5_v3/shrimp3.cc']",1,@5::@9,Magneton1Year,0,Magneton,0,0,0
+0,0,0,0,0,1,0,0,0,0,0,"['Shrimp3DriverPlayer2_0_5_v3/shrimp3.h', 'Shrimp3DriverPlayer2_0_5_v3/shrimp3.cc']",1,@5::@7,Magneton1Year,0,Magneton,0,0,0
+0,0,0,0,0,1,0,0,0,0,0,"['Shrimp3DriverPlayer2_0_5_v3/shrimp3.h', 'Shrimp3DriverPlayer2_0_5_v3/shrimp3.cc']",1,player_shrimp3_cmd_t::@0::@1,Magneton1Year,0,Magneton,0,0,0
+0,0,0,0,0,4,0,0,0,0,0,"['Shrimp3DriverPlayer2_0_5_v3/shrimp3.h', 'Shrimp3DriverPlayer2_0_5_v3/shrimp3.cc']",4,player_shrimp3_cmd_t::@0,Magneton1Year,0,Magneton,0,0,0
+0,0,0,0,0,2,0,0,0,0,0,"['Shrimp3DriverPlayer2_0_5_v3/shrimp3.h', 'Shrimp3DriverPlayer2_0_5_v3/shrimp3.cc']",2,@5::@8,Magneton1Year,0,Magneton,0,0,0
+0,0,0,1,0,1,0,0,0,0,0,"['Shrimp3DriverPlayer2_0_5_v3/shrimp3.h', 'Shrimp3DriverPlayer2_0_5_v3/shrimp3.cc']",1,player_shrimp3_data_t,Magneton1Year,0,Magneton,0,0,0
+96,108,28,2,0,27,0.586206896551724,1,11,1.13793103448276,0,"['Shrimp3DriverPlayer2_0_5_v3/shrimp3Commands.h', 'Shrimp3DriverPlayer2_0_5_v3/shrimp3Commands.cc']",29,shrimp3_command,Magneton1Year,2,Magneton,29,3.31034482758621,2
+52,7,5,0,1,0,1,1,47,1.2,0,"['Shrimp3DriverPlayer2_0_5_v3/shrimp3Proxy.h', 'Shrimp3DriverPlayer2_0_5_v3/shrimp3Proxy.cc']",1,shrimp3Proxy,Magneton1Year,5,Magneton,5,10.4,5
+106,1,1,0,0,0,2,0,106,5,0,['Shrimp3_CPP_Client_02/client.cc'],0,client,Magneton1Year,1,Magneton,1,106,0
+0,0,0,0,0,0,0,0,0,0,0,['User/behaviors/Defines.h'],0,User/behaviors/Defines,Magneton1Year,0,Magneton,0,0,0
+0,0,0,0,0,0,0,0,0,0,0,"['User/behaviors/ExecuteSBCGraph.cpp', 'User/behaviors/ExecuteSBCGraph.h']",0,User/behaviors/ExecuteSBCGraph,Magneton1Year,0,Magneton,0,0,0
+0,0,0,0,0,0,0,0,0,0,0,"['User/behaviors/Formation.cpp', 'User/behaviors/Formation.h']",0,User/behaviors/Formation,Magneton1Year,0,Magneton,0,0,0
+0,0,0,0,0,0,0,0,0,0,0,"['User/behaviors/KeepDistanceAndAngle.cpp', 'User/behaviors/KeepDistanceAndAngle.h']",0,User/behaviors/KeepDistanceAndAngle,Magneton1Year,0,Magneton,0,0,0
+0,0,0,0,0,0,0,0,0,0,0,"['User/behaviors/LocateTarget.cpp', 'User/behaviors/LocateTarget.h']",0,User/behaviors/LocateTarget,Magneton1Year,0,Magneton,0,0,0
+0,0,0,0,0,0,0,0,0,0,0,"['User/behaviors/SearchColor.h', 'User/behaviors/SearchColor.cpp']",0,User/behaviors/SearchColor,Magneton1Year,0,Magneton,0,0,0
+0,0,0,0,0,0,0,0,0,0,0,"['User/behaviors/TrackLittleLess.cpp', 'User/behaviors/TrackLittleLess.h']",0,User/behaviors/TrackLittleLess,Magneton1Year,0,Magneton,0,0,0
+0,0,0,0,0,0,0,0,0,0,0,"['User/behaviors/UpdateSBC.cpp', 'User/behaviors/UpdateSBC.h']",0,User/behaviors/UpdateSBC,Magneton1Year,0,Magneton,0,0,0
+101,1,1,0,0,0,2,0,101,19,0,"['User/boot/boot.cc', 'User/boot/boot.h']",0,User/boot/boot,Magneton1Year,1,Magneton,1,101,0
+0,0,0,0,0,0,0,0,0,0,0,"['User/conditions/CondMiddleOfFrame.cpp', 'User/conditions/CondMiddleOfFrame.h']",0,User/conditions/CondMiddleOfFrame,Magneton1Year,0,Magneton,0,0,0
+72,1,1,0,0,0,2,0,72,15,0,['User/environment/Rgb2Yuv.c'],0,User/environment/Rgb2Yuv,Magneton1Year,1,Magneton,1,72,0
+21,2,2,0,0,0,1.5,0,13,2.5,0,['User/protocols/TAP_SelectBehaviorByAngle.cpp'],0,User/protocols/TAP_SelectBehaviorByAngle,Magneton1Year,2,Magneton,2,10.5,0
+0,0,0,0,0,0,0,0,0,0,0,['User/robot/domain_player/devicesLib/Laser.cc'],0,User/robot/domain_player/devicesLib/Laser,Magneton1Year,0,Magneton,0,0,0
+0,0,0,0,0,0,0,0,0,0,0,['User/robot/domain_player/devicesLib/Ptz.cc'],0,User/robot/domain_player/devicesLib/Ptz,Magneton1Year,0,Magneton,0,0,0
+0,0,0,0,0,0,0,0,0,0,0,['User/robot/domain_player/plrDevicesLib.h'],0,User/robot/domain_player/plrDevicesLib,Magneton1Year,0,Magneton,0,0,0
+0,0,0,0,0,0,0,0,0,0,0,['User/tests/testSimpleBeh.h'],0,User/tests/testSimpleBeh,Magneton1Year,0,Magneton,0,0,0
+47,7,3,0,0,2,0.333333333333333,1,23,1,0,"['User/utils/Utils.cpp', 'User/utils/Utils.h']",2,User/utils/Utils,Magneton1Year,3,Magneton,3,15.6666666666667,3
+9,1,1,0,0,0,2,0,9,1,0,['User/variables/OriginalGraphVarDef.cpp'],0,User/variables/OriginalGraphVarDef,Magneton1Year,1,Magneton,1,9,0

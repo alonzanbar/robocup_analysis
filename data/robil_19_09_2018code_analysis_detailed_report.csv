@@ -1,0 +1,647 @@
+analizo_loc,analizo_rfc,analizo_npm,analizo_acc,analizo_dit,analizo_npa,analizo_anpm,analizo_cbo,analizo_mmloc,analizo_accm,analizo_noc,analizo__filename,analizo_noa,analizo__module,folder,analizo_lcom4,type,analizo_nom,analizo_amloc,analizo_sc
+9,4,2,0,0,3,0.5,0,8,1.5,0,['robil/C0_RobilTask/include/C0_RobilTask/MultiGoalActionServer.h'],3,actionlib::MGActionServer::GoalQueueItem,robil,2,external_repositories,2,4.5,0
+201,15,12,2,0,0,1.33333333333333,0,69,1,0,['robil/C0_RobilTask/include/C0_RobilTask/MultiGoalActionServer.h'],10,actionlib::MGActionServer,robil,15,external_repositories,15,13.4,0
+18,17,7,0,0,1,0.571428571428571,0,5,1.57142857142857,0,['robil/C0_RobilTask/include/C0_RobilTask/MultiGoalActionServer.h'],1,actionlib::MGActionServer::GoalQueue,robil,1,external_repositories,7,2.57142857142857,0
+7,7,7,0,0,0,0.285714285714286,0,1,1.42857142857143,0,['robil/C0_RobilTask/include/C0_RobilTask/RobilTask.h'],1,SSTREAM,robil,7,external_repositories,7,1,0
+11,9,6,1,0,0,0.857142857142857,1,2,1,0,['robil/C0_RobilTask/include/C0_RobilTask/RobilTask.h'],4,C0_RobilTask::RobilTask::TaskResult,robil,7,external_repositories,7,1.57142857142857,7
+0,0,0,0,0,0,0,0,0,0,0,['robil/C0_RobilTask/include/C0_RobilTask/RobilTask.h'],0,RobilTask,robil,0,external_repositories,0,0,0
+74,13,0,42,0,3,1.57142857142857,2,27,1.57142857142857,33,['robil/C0_RobilTask/include/C0_RobilTask/RobilTask.h'],9,C0_RobilTask::RobilTask,robil,7,external_repositories,7,10.5714285714286,14
+124,31,13,1,0,0,1.76923076923077,4,26,4,0,['robil/C0_RobilTask/include/C0_RobilTask/StringOperations.h'],0,C0_RobilTask/include/C0_RobilTask/StringOperations,robil,6,external_repositories,13,9.53846153846154,24
+14,4,4,2,0,3,0,0,11,1.5,0,['robil/C0_RobilTask/include/C0_RobilTask/StringOperations.h'],4,C0_RobilTask::Function,robil,4,external_repositories,4,3.5,0
+44,2,2,0,0,0,2,0,37,4,0,['robil/C0_RobilTask/src/DummyTask.cpp'],0,C0_RobilTask/src/DummyTask,robil,2,external_repositories,2,22,0
+69,11,7,0,1,0,2,1,24,2.57142857142857,0,['robil/C0_RobilTask/src/DummyTask.cpp'],4,DummyTaskServer,robil,7,external_repositories,7,9.85714285714286,7
+126,8,4,91,0,0,1.75,1,109,5.25,0,['robil/C0_RobilTask/src/taskTester.cpp'],0,C0_RobilTask/src/taskTester,robil,2,external_repositories,4,31.5,2
+101,24,15,0,1,0,1.2,2,22,1.06666666666667,0,"['robil/C11_Agent/src/C11Main.h', 'robil/C11_Agent/src/C11Main.cpp']",5,C11Main,robil,14,external_repositories,15,6.73333333333333,28
+632,197,35,1,1,0,0.702702702702703,12,78,2.21621621621622,0,"['robil/C11_Agent/src/C11_Agent_Node.h', 'robil/C11_Agent/src/C11_Agent_Node.cpp']",37,C11_Agent_Node,robil,2,external_repositories,37,17.0810810810811,24
+10,10,10,15,0,0,1.3,0,1,1,1,"['robil/C11_Agent/src/C11_Agent_Node.h', 'robil/C11_Agent/src/C11_Agent_Node.cpp']",0,IAgentInterface,robil,10,external_repositories,10,1,0
+48,4,4,2,1,0,1.25,0,34,1.75,0,['robil/C11_Agent/src/C11_HMIResponseServer.hpp'],2,HMIResponseServer,robil,4,external_repositories,4,12,0
+1,1,1,1,0,0,0,0,1,1,1,['robil/C11_Agent/src/C11_HMIResponseServer.hpp'],0,IHMIResponseInterface,robil,1,external_repositories,1,1,0
+267,21,9,7,1,0,0.777777777777778,3,78,3.77777777777778,0,['robil/C11_Agent/src/C11_PushServer.hpp'],6,PushHMIServer,robil,7,external_repositories,9,29.6666666666667,21
+3,3,3,1,0,0,1,0,1,1,1,['robil/C11_Agent/src/C11_PushServer.hpp'],0,IPushHMIInterface,robil,3,external_repositories,3,1,0
+308,81,12,0,1,0,1.33333333333333,4,54,2.16666666666667,0,"['robil/C11_Agent/src/C11_TCPServer.h', 'robil/C11_Agent/src/C11_TCPServer.cpp']",14,CTcpServer,robil,1,external_repositories,12,25.6666666666667,4
+14,2,2,0,1,0,2,0,9,1.5,0,['robil/C11_Agent/src/C11_UntilOperatorIntervention.hpp'],0,UntilOperatorIntervention,robil,2,external_repositories,2,7,0
+208,25,6,0,0,9,1.83333333333333,1,65,2.5,0,['robil/C11_Agent/src/C11_agent_st.cpp'],9,C11_agent_st,robil,3,external_repositories,6,34.6666666666667,3
+54,19,5,0,0,0,2,5,34,1,0,"['robil/C11_Agent/src/C11_structs.cpp', 'robil/C11_Agent/src/C11_structs.h']",0,C11_structs,robil,5,external_repositories,5,10.8,25
+0,0,0,1,0,2,0,0,0,0,0,"['robil/C11_Agent/src/C11_structs.h', 'robil/C11_Agent/src/C11_structs.cpp']",2,StructImage,robil,0,external_repositories,0,0,0
+0,0,0,1,0,2,0,0,0,0,0,"['robil/C11_Agent/src/C11_structs.h', 'robil/C11_Agent/src/C11_structs.cpp']",2,StructGrid,robil,0,external_repositories,0,0,0
+0,0,0,2,0,5,0,0,0,0,0,"['robil/C11_Agent/src/C11_structs.h', 'robil/C11_Agent/src/C11_structs.cpp']",5,StructGridData,robil,0,external_repositories,0,0,0
+0,0,0,15,0,2,0,0,0,0,0,"['robil/C11_Agent/src/C11_structs.h', 'robil/C11_Agent/src/C11_structs.cpp']",2,StructPoint,robil,0,external_repositories,0,0,0
+0,0,0,3,0,3,0,0,0,0,0,"['robil/C11_Agent/src/C11_structs.h', 'robil/C11_Agent/src/C11_structs.cpp']",3,StructOrientation,robil,0,external_repositories,0,0,0
+0,0,0,11,0,3,0,0,0,0,0,"['robil/C11_Agent/src/C11_structs.h', 'robil/C11_Agent/src/C11_structs.cpp']",3,StructHeader,robil,0,external_repositories,0,0,0
+4,4,1,0,0,0,2,1,4,2,0,['robil/C11_Agent/src/Vec2d.hpp'],0,C11_Agent/src/Vec2d,robil,1,external_repositories,1,4,1
+40,73,34,30,0,4,0.911764705882353,1,7,1,0,['robil/C11_Agent/src/Vec2d.hpp'],4,Vec2d,robil,26,external_repositories,34,1.17647058823529,26
+0,0,0,1,0,3,0,0,0,0,0,['robil/C11_Agent/src/tinyxml2.cpp'],3,tinyxml2::Entity,robil,0,external_repositories,0,0,0
+0,0,0,0,0,14,0,0,0,0,0,"['robil/C11_Agent/src/tinyxml2.cpp', 'robil/C11_Agent/src/tinyxml2.h']",14,tinyxml2,robil,0,external_repositories,0,0,0
+338,108,31,14,1,0,0.848484848484849,5,73,1.72727272727273,0,"['robil/C11_Agent/src/tinyxml2.h', 'robil/C11_Agent/src/tinyxml2.cpp']",11,tinyxml2::XMLDocument,robil,11,external_repositories,33,10.2424242424242,55
+6,6,6,6,0,0,0.166666666666667,0,1,1,1,"['robil/C11_Agent/src/tinyxml2.h', 'robil/C11_Agent/src/tinyxml2.cpp']",0,tinyxml2::MemPool,robil,6,external_repositories,6,1,0
+52,55,17,0,0,0,0.470588235294118,2,4,1,0,"['robil/C11_Agent/src/tinyxml2.h', 'robil/C11_Agent/src/tinyxml2.cpp']",1,tinyxml2::XMLHandle,robil,1,external_repositories,17,3.05882352941176,2
+137,74,19,19,0,0,0.64,3,26,1.32,0,"['robil/C11_Agent/src/tinyxml2.h', 'robil/C11_Agent/src/tinyxml2.cpp']",4,tinyxml2::XMLAttribute,robil,6,external_repositories,25,5.48,18
+55,12,11,6,0,0,0.416666666666667,0,12,1,0,"['robil/C11_Agent/src/tinyxml2.h', 'robil/C11_Agent/src/tinyxml2.cpp']",4,tinyxml2::DynArray,robil,12,external_repositories,12,4.58333333333333,0
+58,9,9,0,1,0,0.222222222222222,0,23,1,0,"['robil/C11_Agent/src/tinyxml2.h', 'robil/C11_Agent/src/tinyxml2.cpp']",6,tinyxml2::MemPoolT,robil,9,external_repositories,9,6.44444444444444,0
+52,55,17,0,0,0,0.470588235294118,2,4,1,0,"['robil/C11_Agent/src/tinyxml2.h', 'robil/C11_Agent/src/tinyxml2.cpp']",1,tinyxml2::XMLConstHandle,robil,1,external_repositories,17,3.05882352941176,2
+244,33,20,47,0,0,2.1,1,76,2.65,0,"['robil/C11_Agent/src/tinyxml2.h', 'robil/C11_Agent/src/tinyxml2.cpp']",0,tinyxml2::XMLUtil,robil,13,external_repositories,20,12.2,13
+0,0,0,0,0,2,0,0,0,0,0,"['robil/C11_Agent/src/tinyxml2.h', 'robil/C11_Agent/src/tinyxml2.cpp']",2,tinyxml2::MemPoolT::Chunk,robil,0,external_repositories,0,0,0
+25,9,9,7,0,0,1,0,3,1,1,"['robil/C11_Agent/src/tinyxml2.h', 'robil/C11_Agent/src/tinyxml2.cpp']",0,tinyxml2::XMLVisitor,robil,9,external_repositories,9,2.77777777777778,0
+56,29,7,2,1,0,0.818181818181818,5,26,1.54545454545455,0,"['robil/C11_Agent/src/tinyxml2.h', 'robil/C11_Agent/src/tinyxml2.cpp']",1,tinyxml2::XMLText,robil,8,external_repositories,11,5.09090909090909,40
+38,20,5,0,1,0,0.888888888888889,5,11,1.22222222222222,0,"['robil/C11_Agent/src/tinyxml2.h', 'robil/C11_Agent/src/tinyxml2.cpp']",0,tinyxml2::XMLUnknown,robil,9,external_repositories,9,4.22222222222222,45
+260,119,29,74,0,0,0.617647058823529,6,77,1.70588235294118,6,"['robil/C11_Agent/src/tinyxml2.h', 'robil/C11_Agent/src/tinyxml2.cpp']",8,tinyxml2::XMLNode,robil,12,external_repositories,34,7.64705882352941,72
+379,175,38,8,1,0,1.27272727272727,8,55,2.09090909090909,0,"['robil/C11_Agent/src/tinyxml2.h', 'robil/C11_Agent/src/tinyxml2.cpp']",2,tinyxml2::XMLElement,robil,12,external_repositories,44,8.61363636363636,96
+180,41,9,18,0,0,0.909090909090909,2,83,3.18181818181818,0,"['robil/C11_Agent/src/tinyxml2.h', 'robil/C11_Agent/src/tinyxml2.cpp']",3,tinyxml2::StrPair,robil,2,external_repositories,11,16.3636363636364,4
+0,0,0,0,0,1,0,0,0,0,0,"['robil/C11_Agent/src/tinyxml2.h', 'robil/C11_Agent/src/tinyxml2.cpp']",1,tinyxml2::MemPoolT::Block,robil,0,external_repositories,0,0,0
+321,152,29,0,1,0,1.18181818181818,8,36,2,0,"['robil/C11_Agent/src/tinyxml2.h', 'robil/C11_Agent/src/tinyxml2.cpp']",11,tinyxml2::XMLPrinter,robil,3,external_repositories,33,9.72727272727273,24
+37,20,5,0,1,0,0.888888888888889,5,10,1.22222222222222,0,"['robil/C11_Agent/src/tinyxml2.h', 'robil/C11_Agent/src/tinyxml2.cpp']",0,tinyxml2::XMLComment,robil,9,external_repositories,9,4.11111111111111,45
+38,20,5,0,1,0,0.888888888888889,5,10,1.22222222222222,0,"['robil/C11_Agent/src/tinyxml2.h', 'robil/C11_Agent/src/tinyxml2.cpp']",0,tinyxml2::XMLDeclaration,robil,9,external_repositories,9,4.22222222222222,45
+279,47,17,2,1,0,1.17647058823529,5,40,1.94117647058824,0,"['robil/C11_OperatorControl/src/C11_Node.h', 'robil/C11_OperatorControl/src/C11_Node.cpp']",21,C11_Node,robil,10,external_repositories,17,16.4117647058824,50
+2,2,2,1,0,0,0.5,0,1,1,1,['robil/C11_OperatorControl/src/C11_Node_Subscriber.h'],0,IC11_Node_Subscriber,robil,2,external_repositories,2,1,0
+207,52,7,2,1,0,0.833333333333333,2,55,2,0,"['robil/C11_OperatorControl/src/arcitem.h', 'robil/C11_OperatorControl/src/arcitem.cpp']",6,CArcItem,robil,3,external_repositories,12,17.25,6
+170,35,10,1,1,0,1.18181818181818,0,43,1.81818181818182,0,"['robil/C11_OperatorControl/src/graphicsview.h', 'robil/C11_OperatorControl/src/graphicsview.cpp']",5,CGraphicsView,robil,2,external_repositories,11,15.4545454545455,0
+254,67,15,0,1,0,1.4375,9,85,1.9375,0,"['robil/C11_OperatorControl/src/imagedraw.h', 'robil/C11_OperatorControl/src/imagedraw.cpp']",11,ImageDraw,robil,3,external_repositories,16,15.875,27
+98,49,14,17,1,0,0.928571428571429,2,20,1.35714285714286,0,['robil/C11_OperatorControl/src/lineItemlist.h'],6,CLineItemList,robil,4,external_repositories,14,7,8
+145,73,20,17,1,0,0.85,2,14,1.1,0,"['robil/C11_OperatorControl/src/lineitem.h', 'robil/C11_OperatorControl/src/lineitem.cpp']",6,CLineItem,robil,4,external_repositories,20,7.25,8
+13,1,1,0,0,0,2,0,13,2,0,['robil/C11_OperatorControl/src/main.cpp'],0,C11_OperatorControl/src/main,robil,1,external_repositories,1,13,0
+0,0,0,9,0,4,0,0,0,0,0,"['robil/C11_OperatorControl/src/mapmain.cpp', 'robil/C11_OperatorControl/src/mapmain.h']",4,mapmain,robil,0,external_repositories,0,0,0
+0,0,0,2,0,2,0,0,0,0,0,"['robil/C11_OperatorControl/src/mapmain.h', 'robil/C11_OperatorControl/src/mapmain.cpp']",2,sItemPressed,robil,0,external_repositories,0,0,0
+976,326,21,0,1,0,0.952380952380952,15,81,3.57142857142857,0,"['robil/C11_OperatorControl/src/mapmain.h', 'robil/C11_OperatorControl/src/mapmain.cpp']",36,CMapMain,robil,1,external_repositories,42,23.2380952380952,15
+9,2,2,0,1,0,0.5,0,5,1,0,"['robil/C11_OperatorControl/src/mapwidget.h', 'robil/C11_OperatorControl/src/mapwidget.cpp']",0,CMapWidget,robil,2,external_repositories,2,4.5,0
+0,0,0,0,0,2,0,0,0,0,0,['robil/C11_OperatorControl/src/pixitem.cpp'],2,pixitem,robil,0,external_repositories,0,0,0
+77,13,5,1,1,0,1.33333333333333,0,45,2.16666666666667,0,"['robil/C11_OperatorControl/src/pixitem.h', 'robil/C11_OperatorControl/src/pixitem.cpp']",4,CPixItem,robil,2,external_repositories,6,12.8333333333333,0
+69,38,11,19,1,0,0.909090909090909,1,9,1,0,"['robil/C11_OperatorControl/src/pointitem.h', 'robil/C11_OperatorControl/src/pointitem.cpp']",5,CPointItem,robil,2,external_repositories,11,6.27272727272727,2
+0,0,0,47,0,1,0,0,0,0,0,['robil/C11_OperatorControl/src/polygonitem.cpp'],1,polygonitem,robil,0,external_repositories,0,0,0
+28,9,4,0,1,0,1.5,1,13,1.25,0,"['robil/C11_OperatorControl/src/polygonitem.h', 'robil/C11_OperatorControl/src/polygonitem.cpp']",2,CPolygonItem,robil,3,external_repositories,4,7,3
+26,7,5,0,1,0,1.2,0,9,1,0,"['robil/C11_OperatorControl/src/robotdataitem.h', 'robil/C11_OperatorControl/src/robotdataitem.cpp']",1,CRobotDataItem,robil,4,external_repositories,5,5.2,0
+425,160,19,13,1,0,1,4,56,2.88,0,"['robil/C11_OperatorControl/src/routeitem.h', 'robil/C11_OperatorControl/src/routeitem.cpp']",8,CRouteItem,robil,2,external_repositories,25,17,8
+36,4,4,0,1,0,1,0,24,1.5,0,"['robil/C11_OperatorControl/src/scaleitem.h', 'robil/C11_OperatorControl/src/scaleitem.cpp']",0,CScaleItem,robil,4,external_repositories,4,9,0
+0,0,0,0,0,0,0,0,0,0,0,"['robil/C11_OperatorControl/src/structs.h', 'robil/C11_OperatorControl/src/structs.cpp']",0,structs,robil,0,external_repositories,0,0,0
+0,0,0,6,0,2,0,0,0,0,0,"['robil/C11_OperatorControl/src/structs.h', 'robil/C11_OperatorControl/src/structs.cpp']",2,StructIntPoint,robil,0,external_repositories,0,0,0
+38,3,3,1,1,0,1,0,22,1.33333333333333,0,"['robil/C11_OperatorControl/src/tcpConnection.h', 'robil/C11_OperatorControl/src/tcpConnection.cpp']",13,CTcpConnection,robil,3,external_repositories,3,12.6666666666667,0
+10,10,10,1,0,0,1.7,0,1,1,1,"['robil/C11_OperatorControl/src/tcpConnection.h', 'robil/C11_OperatorControl/src/tcpConnection.cpp']",0,ITcpConnectionInterface,robil,10,external_repositories,10,1,0
+0,0,0,4,0,1,0,0,0,0,0,['robil/C11_OperatorControl/src/traingleitem.cpp'],1,traingleitem,robil,0,external_repositories,0,0,0
+40,23,7,1,1,0,1.14285714285714,4,10,1,0,"['robil/C11_OperatorControl/src/traingleitem.h', 'robil/C11_OperatorControl/src/traingleitem.cpp']",3,CtraingleItem,robil,4,external_repositories,7,5.71428571428571,16
+34,1,1,0,0,0,2,0,34,4,0,['robil/C21_VisionAndLidar/src/C21ImageServiceTest.cpp'],0,C21ImageServiceTest,robil,1,external_repositories,1,34,0
+42,10,4,7,0,2,1.75,0,20,1.5,0,['robil/C21_VisionAndLidar/src/C21ImageTest.cpp'],2,C21ImageTest,robil,1,external_repositories,4,10.5,0
+49,1,1,0,0,0,2,0,49,5,0,['robil/C21_VisionAndLidar/src/C21PanoramaTest.cpp'],0,C21PanoramaTest,robil,1,external_repositories,1,49,0
+50,3,2,0,0,0,1.5,0,40,2,0,['robil/C21_VisionAndLidar/src/C21SceneTest.cpp'],0,C21SceneTest,robil,1,external_repositories,2,25,0
+375,24,11,0,0,0,1.72727272727273,2,120,3.36363636363636,0,['robil/C21_VisionAndLidar/src/C21_Node.cpp'],42,C21_Node,robil,3,external_repositories,11,34.0909090909091,6
+58,17,3,2,0,14,3,1,35,3.33333333333333,0,['robil/C21_VisionAndLidar/src/C21_ObjectLocationTest.cpp'],14,C21_ObjectLocationTest,robil,2,external_repositories,3,19.3333333333333,2
+61,15,2,0,0,0,1,2,50,2.5,0,['robil/C21_VisionAndLidar/src/C21_ObjectLocationTest.cpp'],9,CloudFetch,robil,1,external_repositories,2,30.5,2
+0,0,0,0,0,0,0,0,0,0,0,['robil/C21_VisionAndLidar/src/resolution.h'],0,resolution,robil,0,external_repositories,0,0,0
+9,2,1,121,0,4,2,0,9,1,0,['robil/C22_CompactGroundRecognitionAndMapping/src/C22_Node.cpp'],4,C22_CompactGroundRecognitionAndMapping/src/C22_Node,robil,1,external_repositories,1,9,0
+144,63,7,0,0,0,1.71428571428571,3,138,2.42857142857143,0,"['robil/C22_CompactGroundRecognitionAndMapping/src/C22_Node.h', 'robil/C22_CompactGroundRecognitionAndMapping/src/C22_Node.cpp']",16,C22_Node,robil,3,external_repositories,7,20.5714285714286,9
+9,2,1,1,0,4,2,0,9,1,0,['robil/C22_CompactGroundRecognitionAndMapping/src/C22_NodeCheat.cpp'],4,C22_CompactGroundRecognitionAndMapping/src/C22_NodeCheat,robil,1,external_repositories,1,9,0
+51,1,1,0,0,0,2,0,51,11,0,['robil/C22_CompactGroundRecognitionAndMapping/src/C22_Test.cpp'],0,C22_CompactGroundRecognitionAndMapping/src/C22_Test,robil,1,external_repositories,1,51,0
+0,0,0,1,0,1,0,0,0,0,0,['robil/C22_CompactGroundRecognitionAndMapping/src/MPlane.cpp'],1,C22_CompactGroundRecognitionAndMapping/src/MPlane,robil,0,external_repositories,0,0,0
+14,26,7,1,0,7,0.428571428571429,1,8,1.57142857142857,0,"['robil/C22_CompactGroundRecognitionAndMapping/src/MPlane.h', 'robil/C22_CompactGroundRecognitionAndMapping/src/MPlane.cpp']",7,MPlane,robil,3,external_repositories,7,2,3
+0,0,0,8,0,5,0,0,0,0,0,"['robil/C22_CompactGroundRecognitionAndMapping/src/MapMatrix.h', 'robil/C22_CompactGroundRecognitionAndMapping/src/MapMatrix.cpp']",5,C22_CompactGroundRecognitionAndMapping/src/MapMatrix,robil,0,external_repositories,0,0,0
+169,40,9,4,0,5,1.09090909090909,4,118,3.09090909090909,0,"['robil/C22_CompactGroundRecognitionAndMapping/src/MapMatrix.h', 'robil/C22_CompactGroundRecognitionAndMapping/src/MapMatrix.cpp']",5,MapMatrix,robil,11,external_repositories,11,15.3636363636364,44
+32,31,10,1,0,5,0.4,0,11,1.5,0,"['robil/C22_CompactGroundRecognitionAndMapping/src/MapSquare.h', 'robil/C22_CompactGroundRecognitionAndMapping/src/MapSquare.cpp']",5,MapSquare,robil,1,external_repositories,10,3.2,0
+0,0,0,0,0,0,0,0,0,0,0,"['robil/C22_CompactGroundRecognitionAndMapping/src/MapSquare.h', 'robil/C22_CompactGroundRecognitionAndMapping/src/MapSquare.cpp']",0,C22_CompactGroundRecognitionAndMapping/src/MapSquare,robil,0,external_repositories,0,0,0
+4,7,4,2,0,2,0.5,0,1,1,0,"['robil/C22_CompactGroundRecognitionAndMapping/src/pclPlane.h', 'robil/C22_CompactGroundRecognitionAndMapping/src/pclPlane.cpp']",2,pclPlane,robil,3,external_repositories,4,1,0
+9,2,1,0,0,4,2,1,9,1,0,['robil/C22_GroundRecognitionAndMapping/src/C22_Node.cpp'],4,C22_GroundRecognitionAndMapping/src/C22_Node,robil,1,external_repositories,1,9,1
+9,2,1,0,0,4,2,1,9,1,0,['robil/C22_GroundRecognitionAndMapping/src/C22_NodeCheat.cpp'],4,C22_GroundRecognitionAndMapping/src/C22_NodeCheat,robil,1,external_repositories,1,9,1
+60,1,1,0,0,0,2,0,60,13,0,['robil/C22_GroundRecognitionAndMapping/src/C22_Test.cpp'],0,C22_GroundRecognitionAndMapping/src/C22_Test,robil,1,external_repositories,1,60,0
+0,0,0,0,0,1,0,0,0,0,0,['robil/C22_GroundRecognitionAndMapping/src/MPlane.cpp'],1,C22_GroundRecognitionAndMapping/src/MPlane,robil,0,external_repositories,0,0,0
+0,0,0,0,0,5,0,0,0,0,0,"['robil/C22_GroundRecognitionAndMapping/src/MapMatrix.h', 'robil/C22_GroundRecognitionAndMapping/src/MapMatrix.cpp']",5,C22_GroundRecognitionAndMapping/src/MapMatrix,robil,0,external_repositories,0,0,0
+0,0,0,0,0,0,0,0,0,0,0,"['robil/C22_GroundRecognitionAndMapping/src/MapSquare.h', 'robil/C22_GroundRecognitionAndMapping/src/MapSquare.cpp']",0,C22_GroundRecognitionAndMapping/src/MapSquare,robil,0,external_repositories,0,0,0
+9,2,1,0,0,4,2,1,9,1,0,['robil/C22_GroundRecognitionAndMapping/src/backup/C22_Node.cpp'],4,C22_GroundRecognitionAndMapping/src/backup/C22_Node,robil,1,external_repositories,1,9,1
+0,0,0,0,0,0,0,0,0,0,0,['robil/C22_transformations/include/C22_transformations/MapTransformations.h'],0,MapTransformations,robil,0,external_repositories,0,0,0
+13,11,4,4,0,4,1.5,0,6,1,0,['robil/C22_transformations/include/C22_transformations/MapTransformations.h'],4,C22_transform::MapProperties,robil,3,external_repositories,4,3.25,0
+54,42,10,4,0,0,3.3,2,14,1.2,0,['robil/C22_transformations/include/C22_transformations/MapTransformations.h'],1,C22_transform,robil,3,external_repositories,10,5.4,6
+4,4,1,0,0,0,2,1,4,2,0,['robil/C22_transformations/include/C22_transformations/Vec2d.hpp'],0,C22_transformations/include/C22_transformations/Vec2d,robil,1,external_repositories,1,4,1
+16,1,1,0,0,0,2,0,16,1,0,['robil/C22_transformations/src/example.cpp'],0,example,robil,1,external_repositories,1,16,0
+0,0,0,0,0,2,0,0,0,0,0,['robil/C22_transformations/src/example.cpp'],2,XY,robil,0,external_repositories,0,0,0
+9,4,1,0,0,3,2,0,9,1,0,['robil/C23_ObjectRecognition/build_bak/CMakeFiles/CompilerIdC/CMakeCCompilerId.c'],3,CMakeCCompilerId,robil,1,external_repositories,1,9,0
+8,3,1,0,0,3,2,0,8,1,0,['robil/C23_ObjectRecognition/build_bak/CMakeFiles/CompilerIdCXX/CMakeCXXCompilerId.cpp'],3,CMakeCXXCompilerId,robil,1,external_repositories,1,8,0
+17,1,1,0,0,0,2,0,17,2,0,['robil/C23_ObjectRecognition/src/C23.cpp'],0,C23,robil,1,external_repositories,1,17,0
+0,0,0,4,0,2,0,0,0,0,0,['robil/C23_ObjectRecognition/src/C23_Detector.cpp'],2,TemplateAlignment::Result,robil,0,external_repositories,0,0,0
+63,26,7,2,0,0,0.857142857142857,2,23,1.42857142857143,0,['robil/C23_ObjectRecognition/src/C23_Detector.cpp'],6,TemplateAlignment,robil,2,external_repositories,7,9,4
+55,28,7,4,0,0,0.2,0,11,1,0,['robil/C23_ObjectRecognition/src/C23_Detector.cpp'],6,FeatureCloud,robil,3,external_repositories,10,5.5,0
+3447,268,6,1,0,23,3.58823529411765,7,418,8.55882352941176,0,"['robil/C23_ObjectRecognition/src/C23_Detector.cpp', 'robil/C23_ObjectRecognition/src/C23_Detector.hpp']",41,C23_Detector,robil,1,external_repositories,34,101.382352941176,7
+12,1,1,2,0,0,2,0,12,2,0,['robil/C23_ObjectRecognition/src/C23_Tasks.cpp'],0,C23_Tasks,robil,1,external_repositories,1,12,0
+85,4,2,0,1,0,2,2,77,6.5,0,['robil/C23_ObjectRecognition/src/C23_Tasks.cpp'],5,C23_SearchObject,robil,2,external_repositories,2,42.5,4
+32,3,2,0,1,0,2,1,26,2.5,0,['robil/C23_ObjectRecognition/src/C23_Tasks.cpp'],1,C23_TrackObject,robil,2,external_repositories,2,16,2
+16,2,2,0,1,0,2,0,11,1.5,0,['robil/C23_ObjectRecognition/src/C23_Tasks.cpp'],1,C23_TakePicture,robil,2,external_repositories,2,8,0
+204,5,3,2,0,14,0.666666666666667,1,138,8.66666666666667,0,"['robil/C23_ObjectRecognition/src/GeneralDetector.hpp', 'robil/C23_ObjectRecognition/src/GeneralDetector.cpp']",14,GeneralDetector,robil,3,external_repositories,3,68,3
+86,9,1,0,0,0,2,3,86,5,0,['robil/C23_ObjectRecognition/src/test.cpp'],0,test,robil,1,external_repositories,1,86,3
+80,18,5,0,0,2,1.8,0,39,2.8,0,['robil/C24_ObstacleDetection/src/C24_Node.cpp'],7,C24_Node,robil,1,external_repositories,5,16,0
+44,1,1,0,0,0,2,0,44,9,0,['robil/C24_ObstacleDetection/src/C24_Test.cpp'],0,C24_Test,robil,1,external_repositories,1,44,0
+27,2,2,0,1,0,1.5,0,22,2,0,['robil/C24_ObstacleDetection/src/ObstacleDetectionServer.hpp'],0,ObstacleDetectionServer,robil,2,external_repositories,2,13.5,0
+174,16,9,0,0,0,1.77777777777778,0,37,1.88888888888889,0,['robil/C25_GlobalPosition/src/C25_Node.cpp'],27,C25_Node,robil,2,external_repositories,9,19.3333333333333,0
+95,32,6,11,0,10,1.83333333333333,2,36,2.66666666666667,0,['robil/C25_GlobalPosition/src/C25_objectTest.cpp'],15,C25_objectTest,robil,1,external_repositories,6,15.8333333333333,2
+30,1,1,0,0,0,2,0,30,2,0,['robil/C25_GlobalPosition/src/C25_test.cpp'],0,C25_test,robil,1,external_repositories,1,30,0
+27,2,2,0,1,0,1.5,0,22,2,0,['robil/C25_GlobalPosition/src/LocalizationTrackServer.hpp'],0,LocalizationTrackServer,robil,2,external_repositories,2,13.5,0
+47,7,4,0,1,0,0.5,1,25,2.25,0,['robil/C25_ekf/include/C25_ekf/nonlinearanalyticconditionalgaussianodo.h'],1,BFL::NonLinearAnalyticConditionalGaussianOdo,robil,3,external_repositories,4,11.75,3
+251,74,11,5,0,0,2.28571428571429,1,135,3,0,['robil/C25_ekf/include/C25_ekf/odom_estimation.h'],30,estimation::OdomEstimation,robil,6,external_repositories,14,17.9285714285714,6
+12,1,1,0,0,1,2,0,12,1,0,"['robil/C25_ekf/include/C25_ekf/odom_estimation_node.h', 'robil/C25_ekf/src/odom_estimation_node.cpp']",1,odom_estimation_node,robil,1,external_repositories,1,12,0
+337,126,2,0,0,0,0.857142857142857,2,78,7.85714285714286,0,['robil/C25_ekf/include/C25_ekf/odom_estimation_node.h'],52,estimation::OdomEstimationNode,robil,1,external_repositories,7,48.1428571428571,2
+0,0,0,0,0,0,0,0,0,0,0,['robil/C25_ekf/src/nonlinearanalyticconditionalgaussianodo.cpp'],0,nonlinearanalyticconditionalgaussianodo,robil,0,external_repositories,0,0,0
+46,9,2,1,1,10,0.333333333333333,1,13,1.5,0,['robil/C25_ekf/test/test_robot_pose_ekf.cpp'],10,TestEKF,robil,4,external_repositories,6,7.66666666666667,4
+60,13,2,1,0,11,2,0,44,2,0,['robil/C25_ekf/test/test_robot_pose_ekf.cpp'],11,test_robot_pose_ekf,robil,2,external_repositories,2,30,0
+30,5,2,0,0,2,2,1,16,1,0,['robil/C25_ekf/test/test_robot_pose_ekf_zero_covariance.cpp'],2,test_robot_pose_ekf_zero_covariance,robil,2,external_repositories,2,15,2
+22,3,2,0,1,0,2,1,19,3,0,['robil/C27_ScorePerception/src/ScorePerception.cpp'],0,task_untilCompletion,robil,2,external_repositories,2,11,2
+33,15,5,1,0,3,1,0,15,1.2,0,['robil/C27_ScorePerception/src/ScorePerception.cpp'],3,ScorePerception,robil,2,external_repositories,5,6.6,0
+65,17,3,6,0,0,2.83333333333333,3,47,2.33333333333333,0,"['robil/C31_PathPlanner/src/AStar.cpp', 'robil/C31_PathPlanner/src/AStar.h']",1,AStar,robil,3,external_repositories,6,10.8333333333333,9
+3,1,1,2,0,3,0,0,3,1,0,"['robil/C31_PathPlanner/src/AStar.h', 'robil/C31_PathPlanner/src/AStar.cpp']",3,BStarParameters,robil,1,external_repositories,1,3,0
+118,35,2,5,0,0,3,5,79,3.2,0,"['robil/C31_PathPlanner/src/AStar.h', 'robil/C31_PathPlanner/src/AStar.cpp']",6,BStar,robil,2,external_repositories,5,23.6,10
+4,4,2,0,0,0,1.5,1,3,1,0,"['robil/C31_PathPlanner/src/AStar.h', 'robil/C31_PathPlanner/src/AStar.cpp']",1,BStar::QTComparison,robil,2,external_repositories,2,2,2
+0,0,0,0,0,0,0,0,0,0,0,"['robil/C31_PathPlanner/src/AStar.h', 'robil/C31_PathPlanner/src/AStar.cpp']",0,BStar::NoPathException,robil,0,external_repositories,0,0,0
+4,4,2,0,0,0,1.5,1,3,1,0,"['robil/C31_PathPlanner/src/AStar.h', 'robil/C31_PathPlanner/src/AStar.cpp']",1,AStar::QTComparison,robil,2,external_repositories,2,2,2
+3,3,1,0,0,0,2,1,3,1,0,"['robil/C31_PathPlanner/src/AStar.h', 'robil/C31_PathPlanner/src/AStar.cpp']",0,BStar::lowest_first,robil,1,external_repositories,1,3,1
+132,111,7,4,0,2,1.76470588235294,3,11,3.23529411764706,0,"['robil/C31_PathPlanner/src/AltTransforms.cpp', 'robil/C31_PathPlanner/src/AltTransforms.h']",2,AltTransforms,robil,2,external_repositories,17,7.76470588235294,6
+9,3,2,6,0,3,0.5,0,5,1,0,"['robil/C31_PathPlanner/src/AltTransforms.h', 'robil/C31_PathPlanner/src/AltTransforms.cpp']",3,AltTransformsParameters,robil,2,external_repositories,2,4.5,0
+8,2,1,0,0,0,1,1,8,2,0,['robil/C31_PathPlanner/src/ConvertorC11.hpp'],0,ConvertorC11,robil,1,external_repositories,1,8,1
+144,35,10,0,0,0,1.8,5,27,2.7,0,['robil/C31_PathPlanner/src/ConvertorC22.hpp'],0,ConvertorC22,robil,5,external_repositories,10,14.4,25
+11,2,1,0,0,0,1,1,11,2,0,['robil/C31_PathPlanner/src/ConvertorC23.hpp'],0,ConvertorC23,robil,1,external_repositories,1,11,1
+10,16,4,0,0,0,0.25,1,3,1,0,['robil/C31_PathPlanner/src/Events.hpp'],2,Events::Queue,robil,1,external_repositories,4,2.5,1
+33,17,4,5,0,0,1,0,10,2.16666666666667,0,['robil/C31_PathPlanner/src/Events.hpp'],2,Events,robil,2,external_repositories,6,5.5,0
+3,5,3,1,0,2,1.33333333333333,0,1,1,0,['robil/C31_PathPlanner/src/Events.hpp'],2,Event,robil,3,external_repositories,3,1,0
+1,1,1,2,0,3,3,0,1,1,0,['robil/C31_PathPlanner/src/Gps.h'],3,MapProperties,robil,1,external_repositories,1,1,0
+1,1,1,2,0,2,2,0,1,1,0,['robil/C31_PathPlanner/src/Gps.h'],2,Gps2Grid,robil,1,external_repositories,1,1,0
+0,0,0,0,0,0,0,0,0,0,0,['robil/C31_PathPlanner/src/Gps.h'],0,Gps,robil,0,external_repositories,0,0,0
+10,5,4,18,0,4,1.25,0,3,1,0,['robil/C31_PathPlanner/src/Gps.h'],4,GPSPoint,robil,4,external_repositories,4,2.5,0
+37,14,2,11,0,0,1.5,3,19,3.5,0,['robil/C31_PathPlanner/src/Inflator.h'],4,Inflator,robil,1,external_repositories,2,18.5,3
+29,9,3,0,0,0,2,2,14,2.33333333333333,0,"['robil/C31_PathPlanner/src/Map.cpp', 'robil/C31_PathPlanner/src/Map.h']",0,Map,robil,3,external_repositories,3,9.66666666666667,6
+10,12,4,28,0,0,1.16666666666667,1,5,1.33333333333333,1,"['robil/C31_PathPlanner/src/Map.h', 'robil/C31_PathPlanner/src/Map.cpp']",4,BaseMap,robil,4,external_repositories,6,1.66666666666667,4
+28,7,6,0,1,0,1.42857142857143,0,8,1,0,"['robil/C31_PathPlanner/src/Map.h', 'robil/C31_PathPlanner/src/Map.cpp']",1,MapT,robil,7,external_repositories,7,4,0
+0,0,0,0,1,0,0,0,0,0,0,"['robil/C31_PathPlanner/src/Map.h', 'robil/C31_PathPlanner/src/Map.cpp']",0,AltMap,robil,0,external_repositories,0,0,0
+72,17,0,3,1,0,2.6,3,24,6.4,0,"['robil/C31_PathPlanner/src/Map.h', 'robil/C31_PathPlanner/src/Map.cpp']",0,ObsMap,robil,5,external_repositories,5,14.4,15
+57,19,6,11,0,0,3.57142857142857,2,32,3.42857142857143,0,"['robil/C31_PathPlanner/src/Map.h', 'robil/C31_PathPlanner/src/Map.cpp']",0,MapEditor,robil,7,external_repositories,7,8.14285714285714,14
+17,23,6,2,0,6,1.5,4,12,1,0,"['robil/C31_PathPlanner/src/Map.h', 'robil/C31_PathPlanner/src/Map.cpp']",6,World,robil,6,external_repositories,6,2.83333333333333,24
+5,2,1,0,0,3,0,1,5,2,0,"['robil/C31_PathPlanner/src/Map.h', 'robil/C31_PathPlanner/src/Map.cpp']",3,MapT::MapCreator,robil,1,external_repositories,1,5,1
+0,0,0,0,0,0,0,0,0,0,0,['robil/C31_PathPlanner/src/MapFileReader.hpp'],0,map_file_reader::CanNotFindDimentions,robil,0,external_repositories,0,0,0
+0,0,0,3,0,3,0,0,0,0,0,['robil/C31_PathPlanner/src/MapFileReader.hpp'],3,map_file_reader::Dim,robil,0,external_repositories,0,0,0
+103,14,3,0,0,0,4,1,43,9.66666666666667,0,['robil/C31_PathPlanner/src/MapFileReader.hpp'],0,MapFileReader,robil,1,external_repositories,3,34.3333333333333,1
+0,0,0,0,0,0,0,0,0,0,0,['robil/C31_PathPlanner/src/MapFileReader.hpp'],0,map_file_reader::CanNotOpenFile,robil,0,external_repositories,0,0,0
+364,47,10,10,0,1,1.4,6,132,4.7,0,"['robil/C31_PathPlanner/src/PField.cpp', 'robil/C31_PathPlanner/src/PField.h']",3,PField,robil,10,external_repositories,10,36.4,60
+6,3,3,1,0,2,2,0,4,1,0,['robil/C31_PathPlanner/src/PField.cpp'],2,Position,robil,3,external_repositories,3,2,0
+23,2,2,6,0,9,0,0,17,1.5,0,"['robil/C31_PathPlanner/src/PField.h', 'robil/C31_PathPlanner/src/PField.cpp']",9,PField::SmoothingParameters,robil,2,external_repositories,2,11.5,0
+0,0,0,0,0,0,0,0,0,0,0,"['robil/C31_PathPlanner/src/PathPlanner.cpp', 'robil/C31_PathPlanner/src/PathPlanner.h']",0,PathPlanner,robil,0,external_repositories,0,0,0
+2,1,1,4,0,1,1,0,2,1,0,"['robil/C31_PathPlanner/src/PathPlanner.h', 'robil/C31_PathPlanner/src/PathPlanner.cpp']",1,PlanningResult,robil,1,external_repositories,1,2,0
+9,2,2,5,0,6,0.5,0,8,1,0,"['robil/C31_PathPlanner/src/PathPlanner.h', 'robil/C31_PathPlanner/src/PathPlanner.cpp']",6,PathPlanning::PlanningInputData,robil,2,external_repositories,2,4.5,0
+12,6,6,10,0,3,0.833333333333333,0,5,1.33333333333333,0,"['robil/C31_PathPlanner/src/PathPlanner.h', 'robil/C31_PathPlanner/src/PathPlanner.cpp']",5,PathPlanning::EditSession,robil,6,external_repositories,6,2,0
+365,119,24,21,1,1,0.833333333333333,10,88,2.375,0,"['robil/C31_PathPlanner/src/PathPlanner.h', 'robil/C31_PathPlanner/src/PathPlanner.cpp']",19,PathPlanning,robil,9,external_repositories,24,15.2083333333333,90
+21,1,1,9,0,10,10,0,21,1,0,"['robil/C31_PathPlanner/src/PathPlanner.h', 'robil/C31_PathPlanner/src/PathPlanner.cpp']",10,PlanningArguments,robil,1,external_repositories,1,21,0
+2,1,1,7,0,4,4,0,2,1,0,"['robil/C31_PathPlanner/src/PathPlanner.h', 'robil/C31_PathPlanner/src/PathPlanner.cpp']",4,Editable_Constraints,robil,1,external_repositories,1,2,0
+4,2,2,7,0,3,2.5,0,2,1,0,"['robil/C31_PathPlanner/src/PathPlanner.h', 'robil/C31_PathPlanner/src/PathPlanner.cpp']",4,PathPlanning::ReadSession,robil,2,external_repositories,2,2,0
+30,4,3,8,0,10,4.33333333333333,1,20,1.33333333333333,0,"['robil/C31_PathPlanner/src/PathPlanner.h', 'robil/C31_PathPlanner/src/PathPlanner.cpp']",10,Editable_PlanningArguments,robil,3,external_repositories,3,10,3
+2,2,2,1,0,0,0,0,1,1,1,"['robil/C31_PathPlanner/src/PathPlanner.h', 'robil/C31_PathPlanner/src/PathPlanner.cpp']",0,PathPlanning::ChangesNotification,robil,2,external_repositories,2,1,0
+2,2,2,0,1,1,0.5,0,1,1,0,"['robil/C31_PathPlanner/src/PathPlanner.h', 'robil/C31_PathPlanner/src/PathPlanner.cpp']",1,PathPlanning::_ChangesNotification,robil,2,external_repositories,2,1,0
+157,95,20,5,1,1,1.23809523809524,7,25,2.38095238095238,0,"['robil/C31_PathPlanner/src/QTNode.cpp', 'robil/C31_PathPlanner/src/QTNode.h']",6,QTNode,robil,2,external_repositories,21,7.47619047619048,14
+1,3,1,0,0,0,3,1,1,1,0,"['robil/C31_PathPlanner/src/QTNode.h', 'robil/C31_PathPlanner/src/QTNode.cpp']",0,Bound::SameY,robil,1,external_repositories,1,1,1
+0,0,0,14,0,2,0,0,0,0,0,"['robil/C31_PathPlanner/src/QTNode.h', 'robil/C31_PathPlanner/src/QTNode.cpp']",2,Bound::XY,robil,0,external_repositories,0,0,0
+114,61,10,8,1,0,1,3,25,3.36363636363636,0,"['robil/C31_PathPlanner/src/QTNode.h', 'robil/C31_PathPlanner/src/QTNode.cpp']",4,BWQTNode,robil,2,external_repositories,11,10.3636363636364,6
+31,6,2,5,0,0,3,3,30,3,0,"['robil/C31_PathPlanner/src/QTNode.h', 'robil/C31_PathPlanner/src/QTNode.cpp']",1,QTPath,robil,2,external_repositories,2,15.5,6
+1,3,1,0,0,0,3,1,1,1,0,"['robil/C31_PathPlanner/src/QTNode.h', 'robil/C31_PathPlanner/src/QTNode.cpp']",0,Bound::SameX,robil,1,external_repositories,1,1,1
+96,59,6,17,0,0,2.78571428571429,3,12,3.5,2,"['robil/C31_PathPlanner/src/QTNode.h', 'robil/C31_PathPlanner/src/QTNode.cpp']",4,Bound,robil,3,external_repositories,14,6.85714285714286,9
+1,5,1,0,0,0,3,2,1,1,0,"['robil/C31_PathPlanner/src/QTNode.h', 'robil/C31_PathPlanner/src/QTNode.cpp']",0,Bound::SameNode,robil,1,external_repositories,1,1,2
+1,4,1,0,0,0,3,1,1,1,0,"['robil/C31_PathPlanner/src/QTNode.h', 'robil/C31_PathPlanner/src/QTNode.cpp']",0,Bound::SameXorY,robil,1,external_repositories,1,1,1
+0,0,0,0,0,0,0,0,0,0,0,['robil/C31_PathPlanner/src/Tasks.hpp'],0,Tasks,robil,0,external_repositories,0,0,0
+59,10,2,0,1,0,2.5,4,56,3.5,0,['robil/C31_PathPlanner/src/Tasks.hpp'],1,PathPlanningFocusServer,robil,2,external_repositories,2,29.5,8
+3,1,0,7,0,0,0,0,3,1,0,['robil/C31_PathPlanner/src/Tasks.hpp'],7,PathPlanningServer::Statistic,robil,1,external_repositories,1,3,0
+712,284,38,0,1,1,1.07894736842105,22,147,2.47368421052632,0,['robil/C31_PathPlanner/src/Tasks.hpp'],7,PathPlanningServer,robil,9,external_repositories,38,18.7368421052632,198
+0,0,0,0,0,6,0,0,0,0,0,['robil/C31_PathPlanner/src/Tasks.hpp'],6,PathPlanningServer::TargetStock,robil,0,external_repositories,0,0,0
+20,5,2,0,1,0,2.5,2,17,3,0,['robil/C31_PathPlanner/src/Tasks.hpp'],1,Task_whileSolution,robil,2,external_repositories,2,10,4
+4,4,1,0,0,0,2,1,4,2,0,['robil/C31_PathPlanner/src/Vec2d.hpp'],0,C31_PathPlanner/src/Vec2d,robil,1,external_repositories,1,4,1
+0,0,0,0,0,0,0,0,0,0,0,['robil/C31_PathPlanner/src/cogniteam_pathplanner_parameters.h'],0,cogniteam_pathplanner_parameters,robil,0,external_repositories,0,0,0
+0,0,0,0,0,2,0,0,0,0,0,['robil/C31_PathPlanner/src/cogniteam_pathplanning.cpp'],2,@360::Pair,robil,0,external_repositories,0,0,0
+719,128,14,10,0,0,3.57142857142857,19,131,1.57142857142857,0,"['robil/C31_PathPlanner/src/cogniteam_pathplanning.cpp', 'robil/C31_PathPlanner/src/cogniteam_pathplanning.h']",0,cogniteam_pathplanning,robil,11,external_repositories,14,51.3571428571429,209
+0,0,0,0,0,3,0,0,0,0,0,"['robil/C31_PathPlanner/src/cogniteam_pathplanning.h', 'robil/C31_PathPlanner/src/cogniteam_pathplanning.cpp']",3,Attractor,robil,0,external_repositories,0,0,0
+1,1,1,20,0,2,1,0,1,1,0,"['robil/C31_PathPlanner/src/cogniteam_pathplanning.h', 'robil/C31_PathPlanner/src/cogniteam_pathplanning.cpp']",2,RobotDimentions,robil,1,external_repositories,1,1,0
+0,0,0,6,0,2,0,0,0,0,0,"['robil/C31_PathPlanner/src/cogniteam_pathplanning.h', 'robil/C31_PathPlanner/src/cogniteam_pathplanning.cpp']",2,TransitWaypoint,robil,0,external_repositories,0,0,0
+2,1,1,8,0,3,3,0,2,1,0,"['robil/C31_PathPlanner/src/cogniteam_pathplanning.h', 'robil/C31_PathPlanner/src/cogniteam_pathplanning.cpp']",3,Constraints,robil,1,external_repositories,1,2,0
+2,2,2,28,0,3,1,0,1,1,0,"['robil/C31_PathPlanner/src/cogniteam_pathplanning.h', 'robil/C31_PathPlanner/src/cogniteam_pathplanning.cpp']",3,Waypoint,robil,2,external_repositories,2,1,0
+1263,180,19,3,0,0,2.89473684210526,19,243,7.57894736842105,0,['robil/C31_PathPlanner/src/cogniteam_pathplanning_tests.cpp'],0,cogniteam_pathplanning_tests,robil,7,external_repositories,19,66.4736842105263,133
+18,1,1,0,0,0,2,0,18,1,0,['robil/C31_PathPlanner/src/gpp.cpp'],0,gpp,robil,1,external_repositories,1,18,0
+13,3,2,0,0,0,2,0,8,1,0,['robil/C31_PathPlanner/src/lpp.cpp'],0,lpp,robil,1,external_repositories,2,6.5,0
+1,1,1,2,0,3,3,0,1,1,0,['robil/C31_PathPlanner/src/map_generator.cpp'],3,robotOri_t,robil,1,external_repositories,1,1,0
+1,1,1,1,0,2,2,0,1,1,0,['robil/C31_PathPlanner/src/map_generator.cpp'],2,Offset_t,robil,1,external_repositories,1,1,0
+1,1,1,5,0,3,3,0,1,1,0,['robil/C31_PathPlanner/src/map_generator.cpp'],3,robotPos_t,robil,1,external_repositories,1,1,0
+131,18,8,162,0,6,2.5,2,41,1.625,0,['robil/C31_PathPlanner/src/map_generator.cpp'],6,map_generator,robil,5,external_repositories,8,16.375,10
+12,3,2,0,0,1,0.5,1,8,2,0,['robil/C31_PathPlanner/src/stub/Tasks_stub.hpp'],1,WhileInXXXArea::AreaClassifier,robil,2,external_repositories,2,6,2
+27,7,5,2,1,0,1.2,0,15,1.4,2,['robil/C31_PathPlanner/src/stub/Tasks_stub.hpp'],2,WhileInXXXArea,robil,3,external_repositories,5,5.4,0
+6,11,4,0,0,4,2.25,2,3,1,0,['robil/C31_PathPlanner/src/stub/Tasks_stub.hpp'],4,WhileInXXXArea::Rect,robil,4,external_repositories,4,1.5,8
+84,7,5,0,1,0,1.4,0,42,1.6,0,['robil/C31_PathPlanner/src/stub/Tasks_stub.hpp'],3,ObjectRecognition,robil,3,external_repositories,5,16.8,0
+82,5,3,0,1,0,1.66666666666667,1,70,3,0,['robil/C31_PathPlanner/src/stub/Tasks_stub.hpp'],0,PathPlanningFocus,robil,3,external_repositories,3,27.3333333333333,3
+8,2,2,0,2,0,0.5,0,5,1,0,['robil/C31_PathPlanner/src/stub/Tasks_stub.hpp'],0,WhileInZMPArea,robil,2,external_repositories,2,4,0
+0,0,0,55,0,2,0,0,0,0,0,['robil/C31_PathPlanner/src/stub/Tasks_stub.hpp'],2,Tasks_stub,robil,0,external_repositories,0,0,0
+8,2,2,0,2,0,0.5,0,5,1,0,['robil/C31_PathPlanner/src/stub/Tasks_stub.hpp'],0,WhileInQSArea,robil,2,external_repositories,2,4,0
+87,9,5,0,0,0,2,0,22,2.2,0,['robil/C31_PathPlanner/src/stub/gpp_stub.cpp'],0,gpp_stub,robil,1,external_repositories,5,17.4,0
+63,7,2,1,0,0,1,3,56,1.5,0,['robil/C31_PathPlanner/src/test_addPointsToPath.cpp'],0,Tester,robil,2,external_repositories,2,31.5,6
+5,2,1,0,0,0,2,1,5,1,0,['robil/C31_PathPlanner/src/test_addPointsToPath.cpp'],0,test_addPointsToPath,robil,1,external_repositories,1,5,1
+39,7,4,0,0,0,1.25,0,17,1.25,0,['robil/C31_PathPlanner/src/test_c11_simulator.cpp'],0,test_c11_simulator,robil,1,external_repositories,4,9.75,0
+4,2,1,0,0,0,2,1,4,1,0,['robil/C31_PathPlanner/src/test_planning.cpp'],0,test_planning,robil,1,external_repositories,1,4,1
+4,2,1,0,0,0,2,1,4,1,0,['robil/C31_PathPlanner/src/test_planning_with_alts.cpp'],0,test_planning_with_alts,robil,1,external_repositories,1,4,1
+4,2,1,0,0,0,2,1,4,1,0,['robil/C31_PathPlanner/src/test_planning_with_transit.cpp'],0,test_planning_with_transit,robil,1,external_repositories,1,4,1
+38,14,1,0,1,0,0.666666666666667,1,29,1,0,['robil/C31_PathPlanner/tests/pathplanningviewer/src/pathplanning/BLEditor.java'],3,pathplanning::BLEditor,robil,1,external_repositories,3,12.6666666666667,1
+18,15,2,1,0,0,1,4,17,2,0,['robil/C31_PathPlanner/tests/pathplanningviewer/src/pathplanning/MapBoard.java'],3,pathplanning::MapBoard::LabelPoint,robil,1,external_repositories,2,9,4
+49,22,2,4,0,4,0.5,4,35,3,0,['robil/C31_PathPlanner/tests/pathplanningviewer/src/pathplanning/MapBoard.java'],5,pathplanning::MapBoard::Map,robil,2,external_repositories,4,12.25,8
+48,24,6,1,0,2,0.285714285714286,3,21,2.85714285714286,0,['robil/C31_PathPlanner/tests/pathplanningviewer/src/pathplanning/MapBoard.java'],7,pathplanning::MapBoard::Frame,robil,1,external_repositories,7,6.85714285714286,3
+36,16,3,1,0,0,0.666666666666667,4,25,3,0,['robil/C31_PathPlanner/tests/pathplanningviewer/src/pathplanning/MapBoard.java'],3,pathplanning::MapBoard::Path,robil,1,external_repositories,3,12,4
+4,4,2,4,0,0,1,0,3,1,0,['robil/C31_PathPlanner/tests/pathplanningviewer/src/pathplanning/MapBoard.java'],3,pathplanning::MapBoard::Point,robil,2,external_repositories,2,2,0
+1,7,0,9,0,0,1,1,1,1,0,['robil/C31_PathPlanner/tests/pathplanningviewer/src/pathplanning/MapBoard.java'],3,pathplanning::MapBoard::View,robil,1,external_repositories,1,1,1
+687,160,4,8,1,2,0.961538461538462,13,278,4.03846153846154,0,['robil/C31_PathPlanner/tests/pathplanningviewer/src/pathplanning/MapBoard.java'],31,pathplanning::MapBoard,robil,2,external_repositories,26,26.4230769230769,26
+43,19,2,1,0,4,1,5,35,5,0,['robil/C31_PathPlanner/tests/pathplanningviewer/src/pathplanning/MapBoard.java'],6,pathplanning::MapBoard::Alt,robil,1,external_repositories,2,21.5,5
+30,9,2,1,1,0,0.75,0,13,1.75,0,['robil/C31_PathPlanner/tests/pathplanningviewer/src/pathplanning/MapPanel.java'],2,pathplanning::MapPanel,robil,1,external_repositories,4,7.5,0
+33,68,19,7,0,0,0.80952380952381,1,4,1,0,['robil/C31_PathPlanner/tests/pathplanningviewer/src/pathplanning/Vec.java'],2,pathplanning::Vec,robil,1,external_repositories,21,1.57142857142857,1
+11,3,1,0,0,0,1,1,11,2,0,['robil/C31_PathPlanner/tests/pathplanningviewer/src/pathplanning/main.java'],0,pathplanning::main,robil,1,external_repositories,1,11,1
+101,35,14,23,0,3,0.5,1,19,1.85714285714286,0,"['robil/C34_BTExecuter/src/BT.h', 'robil/C34_BTExecuter/src/BT.cpp']",3,BT,robil,2,external_repositories,14,7.21428571428571,2
+364,74,9,14,0,10,1.77777777777778,6,180,2.88888888888889,0,"['robil/C34_BTExecuter/src/BTExecuter.cpp', 'robil/C34_BTExecuter/src/BTExecuter.h']",13,BTExecuter,robil,2,external_repositories,9,40.4444444444444,12
+272,64,20,20,0,0,0.8,3,38,2.35,0,"['robil/C34_BTExecuter/src/BTExecuter.h', 'robil/C34_BTExecuter/src/BTExecuter.cpp']",2,ServerActions,robil,3,external_repositories,20,13.6,9
+67,11,10,14,0,4,0.818181818181818,0,15,1.90909090909091,0,"['robil/C34_BTExecuter/src/BTExecuter.h', 'robil/C34_BTExecuter/src/BTExecuter.cpp']",5,BTServer,robil,11,external_repositories,11,6.09090909090909,0
+27,9,4,4,0,0,1.5,1,12,2.75,0,"['robil/C34_BTExecuter/src/BTExecuter.h', 'robil/C34_BTExecuter/src/BTExecuter.cpp']",1,Params,robil,1,external_repositories,4,6.75,1
+94,29,8,0,1,0,0.5,3,31,3.375,0,"['robil/C34_BTExecuter/src/Dec.h', 'robil/C34_BTExecuter/src/Dec.cpp']",2,Dec,robil,1,external_repositories,8,11.75,3
+46,32,10,0,0,0,0.2,0,16,1.3,0,"['robil/C34_BTExecuter/src/ExeEnergy.h', 'robil/C34_BTExecuter/src/ExeEnergy.cpp']",5,ExeEnergy,robil,4,external_repositories,10,4.6,0
+3,4,3,0,1,0,0.333333333333333,0,1,1,0,['robil/C34_BTExecuter/src/ExeStack.cpp'],1,ExeStackException,robil,3,external_repositories,3,1,0
+119,72,12,1,0,2,1.21052631578947,0,12,2.05263157894737,0,"['robil/C34_BTExecuter/src/ExeStack.h', 'robil/C34_BTExecuter/src/ExeStack.cpp']",8,ExeStack,robil,1,external_repositories,19,6.26315789473684,0
+63,27,8,0,0,0,0.444444444444444,0,24,1.77777777777778,0,"['robil/C34_BTExecuter/src/ExecuterStatus.h', 'robil/C34_BTExecuter/src/ExecuterStatus.cpp']",5,ExecuterStatus,robil,2,external_repositories,9,7,0
+46,27,12,4,0,0,1.25,1,7,1.16666666666667,0,"['robil/C34_BTExecuter/src/Info.h', 'robil/C34_BTExecuter/src/Info.cpp']",4,Info,robil,7,external_repositories,12,3.83333333333333,7
+36,14,6,0,1,0,0.5,0,8,1.16666666666667,0,"['robil/C34_BTExecuter/src/Logger.h', 'robil/C34_BTExecuter/src/Logger.cpp']",7,Logger,robil,3,external_repositories,6,6,0
+136,56,14,0,0,1,1.16666666666667,1,16,2.27777777777778,0,"['robil/C34_BTExecuter/src/Lookup.cpp', 'robil/C34_BTExecuter/src/Lookup.h']",4,Lookup,robil,2,external_repositories,18,7.55555555555556,2
+7,3,2,0,1,0,0.5,0,4,1,0,"['robil/C34_BTExecuter/src/Lookup.h', 'robil/C34_BTExecuter/src/Lookup.cpp']",1,Lookup::Planer_LoadFromFile,robil,2,external_repositories,2,3.5,0
+9,4,3,3,0,4,1,0,5,1.33333333333333,2,"['robil/C34_BTExecuter/src/Lookup.h', 'robil/C34_BTExecuter/src/Lookup.cpp']",4,Lookup::Item,robil,3,external_repositories,3,3,0
+2,2,2,2,0,0,0,0,1,1,1,"['robil/C34_BTExecuter/src/Lookup.h', 'robil/C34_BTExecuter/src/Lookup.cpp']",0,Lookup::Planner,robil,2,external_repositories,2,1,0
+8,2,2,0,1,0,1.5,0,7,2,0,"['robil/C34_BTExecuter/src/Lookup.h', 'robil/C34_BTExecuter/src/Lookup.cpp']",0,Lookup::ItemLocal,robil,2,external_repositories,2,4,0
+6,5,2,0,1,0,1.5,2,5,1.5,0,"['robil/C34_BTExecuter/src/Lookup.h', 'robil/C34_BTExecuter/src/Lookup.cpp']",0,Lookup::ItemGlobalSynch,robil,2,external_repositories,2,3,4
+28,7,4,2,0,0,2.5,1,12,1.5,0,"['robil/C34_BTExecuter/src/MapReader.cpp', 'robil/C34_BTExecuter/src/MapReader.h']",1,MapReader,robil,4,external_repositories,4,7,4
+118,71,20,18,0,0,0.827586206896552,3,21,1.24137931034483,7,"['robil/C34_BTExecuter/src/Node.cpp', 'robil/C34_BTExecuter/src/Node.h']",11,Node,robil,8,external_repositories,29,4.06896551724138,24
+65,35,7,0,1,0,0.375,3,38,1.875,0,"['robil/C34_BTExecuter/src/Par.h', 'robil/C34_BTExecuter/src/Par.cpp']",5,Par,robil,2,external_repositories,8,8.125,6
+73,54,11,7,0,3,1.38461538461538,1,21,1.92307692307692,0,"['robil/C34_BTExecuter/src/Result.cpp', 'robil/C34_BTExecuter/src/Result.h']",7,Result,robil,2,external_repositories,13,5.61538461538461,2
+35,21,5,0,1,0,0.4,3,29,1.6,0,"['robil/C34_BTExecuter/src/Sel.h', 'robil/C34_BTExecuter/src/Sel.cpp']",1,Sel,robil,2,external_repositories,5,7,6
+33,21,5,0,1,0,0.4,3,27,1.6,0,"['robil/C34_BTExecuter/src/Seq.h', 'robil/C34_BTExecuter/src/Seq.cpp']",1,Seq,robil,2,external_repositories,5,6.6,6
+14,4,4,1,0,3,0,0,11,1.5,0,['robil/C34_BTExecuter/src/StringOperations.h'],4,string_operations::Function,robil,4,external_repositories,4,3.5,0
+166,32,14,5,0,0,1.64285714285714,4,33,4.92857142857143,0,['robil/C34_BTExecuter/src/StringOperations.h'],0,C34_BTExecuter/src/StringOperations,robil,7,external_repositories,14,11.8571428571429,28
+38,21,5,0,1,0,0.4,3,32,1.6,0,"['robil/C34_BTExecuter/src/Swi.h', 'robil/C34_BTExecuter/src/Swi.cpp']",1,Swi,robil,2,external_repositories,5,7.6,6
+131,34,7,0,1,0,0.5,5,95,2.3,0,"['robil/C34_BTExecuter/src/Task.cpp', 'robil/C34_BTExecuter/src/Task.h']",2,Task,robil,4,external_repositories,10,13.1,20
+0,0,0,3,0,6,0,0,0,0,0,['robil/C34_BTExecuter/src/TaskProxyTable.h'],6,BTTaskResult,robil,0,external_repositories,0,0,0
+5,5,5,1,0,0,0.6,0,1,1,1,['robil/C34_BTExecuter/src/TaskProxyTable.h'],0,BTTaskProxyCreator,robil,5,external_repositories,5,1,0
+10,10,10,2,0,0,0.2,0,1,1,2,['robil/C34_BTExecuter/src/TaskProxyTable.h'],0,BTTask,robil,10,external_repositories,10,1,0
+0,0,0,2,0,3,0,0,0,0,0,['robil/C34_BTExecuter/src/TaskProxyTable.h'],3,BTTaskGoal,robil,0,external_repositories,0,0,0
+19,15,8,7,0,0,0.625,0,7,1.375,2,['robil/C34_BTExecuter/src/TaskProxyTable.h'],1,TaskProxyTable,robil,4,external_repositories,8,2.375,0
+0,0,0,0,0,1,0,0,0,0,0,['robil/C34_BTExecuter/src/TaskProxyTable.h'],1,BTTaskFeedback,robil,0,external_repositories,0,0,0
+56,22,6,0,1,0,1,2,18,1.83333333333333,0,"['robil/C34_BTExecuter/src/TaskProxyTableXML.cpp', 'robil/C34_BTExecuter/src/TaskProxyTableXML.h']",2,TaskProxyTableXML,robil,2,external_repositories,6,9.33333333333333,4
+9,4,3,0,1,0,0,1,5,1,0,"['robil/C34_BTExecuter/src/TestTaskProxyTable.cpp', 'robil/C34_BTExecuter/src/TestTaskProxyTable.h']",0,TestTaskProxyTable,robil,3,external_repositories,3,3,3
+48,32,9,0,1,0,0.444444444444444,1,17,1.33333333333333,0,['robil/C34_BTExecuter/src/TestTaskProxyTable.cpp'],6,TestTask,robil,2,external_repositories,9,5.33333333333333,2
+31,23,5,0,1,0,0.4,3,25,1.4,0,"['robil/C34_BTExecuter/src/UnknownNode.h', 'robil/C34_BTExecuter/src/UnknownNode.cpp']",1,UnknownNode,robil,2,external_repositories,5,6.2,6
+2,4,2,0,0,0,0.5,0,1,1,0,['robil/C34_BTExecuter/src/Unlock.h'],1,Lock,robil,1,external_repositories,2,1,0
+2,4,2,0,0,0,0.5,0,1,1,0,['robil/C34_BTExecuter/src/Unlock.h'],1,Unlock,robil,1,external_repositories,2,1,0
+0,0,0,6,0,8,0,0,0,0,0,['robil/C34_Designer/src/document/Document.java'],8,document::Document::TreeChangeType,robil,0,external_repositories,0,0,0
+1512,447,73,36,1,13,0.851063829787234,26,188,3.54255319148936,0,['robil/C34_Designer/src/document/Document.java'],37,document::Document,robil,11,external_repositories,94,16.0851063829787,286
+187,68,5,0,1,0,1,11,110,8.2,0,['robil/C34_Designer/src/document/DocumentMouseHandler.java'],1,document::DocumentMouseHandler,robil,5,external_repositories,5,37.4,55
+108,33,14,11,0,0,0.785714285714286,1,40,1.64285714285714,0,['robil/C34_Designer/src/document/LookupTable.java'],3,document::LookupTable,robil,2,external_repositories,14,7.71428571428571,2
+89,36,15,4,0,0,0.8,1,16,1.8,0,['robil/C34_Designer/src/document/LookupTableRecord.java'],4,document::LookupTableRecord,robil,5,external_repositories,15,5.93333333333333,5
+28,4,4,0,0,0,0,0,7,1,0,['robil/C34_Designer/src/document/OSValidator.java'],0,document::OSValidator,robil,4,external_repositories,4,7,0
+42,7,3,21,0,21,0.666666666666667,1,36,3,0,['robil/C34_Designer/src/document/Parameters.java'],21,document::Parameters,robil,2,external_repositories,3,14,2
+116,17,6,2,0,1,0.857142857142857,2,32,2.42857142857143,0,['robil/C34_Designer/src/document/ParametersXmlHandler.java'],1,document::ParametersXmlHandler,robil,4,external_repositories,7,16.5714285714286,8
+63,26,13,3,0,0,0.846153846153846,0,17,1.23076923076923,0,['robil/C34_Designer/src/document/PlanExecution.java'],6,document::PlanExecution,robil,6,external_repositories,13,4.84615384615385,0
+3,2,1,1,0,1,1,0,3,1,0,['robil/C34_Designer/src/document/PlanExecutionCollection.java'],1,document::PlanExecutionCollection::EventListenerArgs,robil,1,external_repositories,1,3,0
+1,1,1,0,0,0,1,0,1,1,0,['robil/C34_Designer/src/document/PlanExecutionCollection.java'],0,document::PlanExecutionCollection::EventListener,robil,1,external_repositories,1,1,0
+16,6,2,3,1,0,1,0,9,1.66666666666667,0,['robil/C34_Designer/src/document/PlanExecutionCollection.java'],2,document::PlanExecutionCollection,robil,1,external_repositories,3,5.33333333333333,0
+16,5,3,74,1,0,0.666666666666667,1,11,1,23,['robil/C34_Designer/src/document/actions/AbstractDesignerAction.java'],1,document::actions::AbstractDesignerAction,robil,3,external_repositories,3,5.33333333333333,3
+9,8,2,0,2,0,1,3,6,1,0,['robil/C34_Designer/src/document/actions/ArrowReconnectAction.java'],0,document::actions::ArrowReconnectAction,robil,2,external_repositories,2,4.5,6
+6,5,2,0,2,0,1,2,3,1,0,['robil/C34_Designer/src/document/actions/CloseTabAction.java'],0,document::actions::CloseTabAction,robil,2,external_repositories,2,3,4
+6,4,2,0,2,0,1,1,3,1,0,['robil/C34_Designer/src/document/actions/CompileAction.java'],0,document::actions::CompileAction,robil,2,external_repositories,2,3,2
+14,10,2,0,2,0,2,4,9,1,0,['robil/C34_Designer/src/document/actions/CopyToAction.java'],2,document::actions::CopyToAction,robil,2,external_repositories,2,7,8
+9,8,2,0,2,0,1,3,6,1,0,['robil/C34_Designer/src/document/actions/CopyTreeAction.java'],0,document::actions::CopyTreeAction,robil,2,external_repositories,2,4.5,6
+42,5,3,0,0,0,3,1,21,1.66666666666667,0,['robil/C34_Designer/src/document/actions/Dialogs.java'],0,document::actions::Dialogs,robil,3,external_repositories,3,14,3
+13,7,2,0,2,0,1,4,10,2,0,['robil/C34_Designer/src/document/actions/ExportTasksAction.java'],0,document::actions::ExportTasksAction,robil,2,external_repositories,2,6.5,8
+66,6,2,0,2,0,1,2,60,3.66666666666667,0,['robil/C34_Designer/src/document/actions/LoadAndOpenAction.java'],0,document::actions::LoadAndOpenAction,robil,2,external_repositories,3,22,4
+6,2,2,0,1,0,0.5,0,3,1,0,['robil/C34_Designer/src/document/actions/LogConsoleAction.java'],0,document::actions::LogConsoleAction,robil,2,external_repositories,2,3,0
+12,8,2,0,2,0,1,3,9,1,0,['robil/C34_Designer/src/document/actions/ModifyAction.java'],0,document::actions::ModifyAction,robil,2,external_repositories,2,6,6
+6,5,2,0,2,0,1,2,3,1,0,['robil/C34_Designer/src/document/actions/NewWindowAction.java'],0,document::actions::NewWindowAction,robil,2,external_repositories,2,3,4
+6,5,2,0,2,0,1,2,3,1,0,['robil/C34_Designer/src/document/actions/NextTabAction.java'],0,document::actions::NextTabAction,robil,2,external_repositories,2,3,4
+27,3,2,0,1,0,0.5,0,23,2.5,0,['robil/C34_Designer/src/document/actions/OpenFileAction.java'],1,document::actions::OpenFileAction::ProjectFilter,robil,2,external_repositories,2,13.5,0
+34,6,2,0,2,0,1,3,31,1,0,['robil/C34_Designer/src/document/actions/OpenFileAction.java'],0,document::actions::OpenFileAction,robil,2,external_repositories,2,17,6
+6,3,2,0,1,0,1,1,3,1,0,['robil/C34_Designer/src/document/actions/OpenLookupTableEditorAction.java'],1,document::actions::OpenLookupTableEditorAction,robil,2,external_repositories,2,3,2
+13,7,2,0,2,0,1,4,10,1.5,0,['robil/C34_Designer/src/document/actions/OpenTaskDescriptionEditorAction.java'],0,document::actions::OpenTaskDescriptionEditorAction,robil,2,external_repositories,2,6.5,8
+37,2,2,0,1,0,0.5,0,34,1,0,['robil/C34_Designer/src/document/actions/OpenTerminalAction.java'],0,document::actions::OpenTerminalAction,robil,2,external_repositories,2,18.5,0
+6,5,2,0,1,0,1,3,3,1,0,['robil/C34_Designer/src/document/actions/OpenXmlEditorAction.java'],1,document::actions::OpenXmlEditorAction,robil,2,external_repositories,2,3,6
+8,9,2,0,2,0,1,4,5,1,0,['robil/C34_Designer/src/document/actions/PointAction.java'],0,document::actions::PointAction,robil,2,external_repositories,2,4,8
+6,5,2,0,2,0,1,2,3,1,0,['robil/C34_Designer/src/document/actions/PreviousTabAction.java'],0,document::actions::PreviousTabAction,robil,2,external_repositories,2,3,4
+5,3,2,0,1,0,0.5,1,3,1,0,['robil/C34_Designer/src/document/actions/PropertiesAction.java'],0,document::actions::PropertiesAction,robil,2,external_repositories,2,2.5,2
+58,7,2,0,1,0,1,1,50,3,0,['robil/C34_Designer/src/document/actions/PropertiesEditorAction.java'],2,document::actions::PropertiesEditorAction,robil,2,external_repositories,3,19.3333333333333,2
+6,7,2,0,2,0,1,4,3,1,0,['robil/C34_Designer/src/document/actions/RedoAction.java'],0,document::actions::RedoAction,robil,2,external_repositories,2,3,8
+9,8,2,0,2,0,1,3,6,1,0,['robil/C34_Designer/src/document/actions/RemoveAction.java'],0,document::actions::RemoveAction,robil,2,external_repositories,2,4.5,6
+9,8,2,0,2,0,1,3,6,1,0,['robil/C34_Designer/src/document/actions/RemoveSubtreeAction.java'],0,document::actions::RemoveSubtreeAction,robil,2,external_repositories,2,4.5,6
+86,44,2,0,2,0,0.5,6,36,2.375,0,['robil/C34_Designer/src/document/actions/RunAction.java'],0,document::actions::RunAction,robil,3,external_repositories,8,10.75,18
+19,5,2,0,2,0,1,2,16,2,0,['robil/C34_Designer/src/document/actions/SaveImageAction.java'],0,document::actions::SaveImageAction,robil,2,external_repositories,2,9.5,4
+30,8,2,0,2,0,1,3,19,2,0,['robil/C34_Designer/src/document/actions/SaveXMLAction.java'],0,document::actions::SaveXMLAction,robil,3,external_repositories,3,10,9
+6,4,2,0,2,0,1,1,3,1,0,['robil/C34_Designer/src/document/actions/TestAction.java'],0,document::actions::TestAction,robil,2,external_repositories,2,3,2
+10,9,2,0,2,0,1.5,3,6,1,0,['robil/C34_Designer/src/document/actions/ToolAction.java'],1,document::actions::ToolAction,robil,1,external_repositories,2,5,3
+6,7,2,0,2,0,1,4,3,1,0,['robil/C34_Designer/src/document/actions/UndoAction.java'],0,document::actions::UndoAction,robil,2,external_repositories,2,3,8
+152,25,14,14,0,0,0.857142857142857,1,34,2.14285714285714,0,['robil/C34_Designer/src/document/description/TaskDescription.java'],9,document::description::TaskDescription,robil,11,external_repositories,14,10.8571428571429,11
+99,29,6,6,0,5,1.28571428571429,1,32,2.85714285714286,0,['robil/C34_Designer/src/document/description/TaskDescription.java'],5,document::description::TaskDescription::TaskInfo,robil,3,external_repositories,7,14.1428571428571,3
+72,39,9,6,0,0,0.1,1,15,1.9,0,['robil/C34_Designer/src/document/history/HistoryManager.java'],6,document::history::HistoryManager,robil,2,external_repositories,10,7.2,2
+12,4,4,0,1,0,1,0,3,1,0,['robil/C34_Designer/src/document/history/HistoryManagerNotReadyException.java'],1,document::history::HistoryManagerNotReadyException,robil,4,external_repositories,4,3,0
+9,3,3,0,1,0,1,0,3,1,0,['robil/C34_Designer/src/document/history/HistoryStackEmptyException.java'],1,document::history::HistoryStackEmptyException,robil,3,external_repositories,3,3,0
+52,16,4,2,0,0,1.2,1,33,1.4,0,['robil/C34_Designer/src/document/history/Snapshot.java'],5,document::history::Snapshot,robil,3,external_repositories,5,10.4,3
+225,99,2,0,1,0,0.25,6,25,1.45,0,['robil/C34_Designer/src/document/ui/DesignerPopupMenu.java'],4,document::ui::DesignerPopupMenu,robil,1,external_repositories,20,11.25,6
+453,37,7,4,1,0,0.571428571428571,3,126,1.14285714285714,0,['robil/C34_Designer/src/document/ui/Menubar.java'],5,document::ui::Menubar,robil,1,external_repositories,14,32.3571428571429,3
+226,17,8,15,1,8,1.125,1,193,1.125,0,['robil/C34_Designer/src/document/ui/Toolbar.java'],14,document::ui::Toolbar,robil,5,external_repositories,8,28.25,5
+14,2,2,0,0,0,1,0,7,2,0,['robil/C34_Designer/src/document/ui/Utilities.java'],0,document::ui::Utilities,robil,2,external_repositories,2,7,0
+39,17,9,0,1,0,0.222222222222222,1,10,1.44444444444444,0,['robil/C34_Designer/src/elements/Arrow.java'],2,elements::Arrow::Reconector,robil,6,external_repositories,9,4.33333333333333,6
+30,9,7,0,1,0,0.142857142857143,1,8,1.57142857142857,0,['robil/C34_Designer/src/elements/Arrow.java'],1,elements::Arrow::Creator,robil,6,external_repositories,7,4.28571428571429,6
+2,2,2,3,0,0,0.5,0,1,1,2,['robil/C34_Designer/src/elements/Arrow.java'],0,elements::Arrow::ArrayElement,robil,2,external_repositories,2,1,0
+157,72,14,17,1,3,1.31578947368421,7,31,1.63157894736842,0,['robil/C34_Designer/src/elements/Arrow.java'],3,elements::Arrow,robil,9,external_repositories,19,8.26315789473684,63
+1,1,1,1,0,0,1,0,1,1,1,['robil/C34_Designer/src/elements/Decorator.java'],0,elements::Decorator::Border,robil,1,external_repositories,1,1,0
+65,43,11,2,1,3,0.909090909090909,6,22,1.27272727272727,0,['robil/C34_Designer/src/elements/Decorator.java'],3,elements::Decorator,robil,7,external_repositories,11,5.90909090909091,42
+26,10,7,0,1,0,0.142857142857143,2,6,1.14285714285714,0,['robil/C34_Designer/src/elements/Decorator.java'],1,elements::Decorator::Creator,robil,7,external_repositories,7,3.71428571428571,14
+17,10,3,0,1,2,1.66666666666667,4,7,1,0,['robil/C34_Designer/src/elements/Decorator.java'],2,elements::Decorator::Dec,robil,2,external_repositories,3,5.66666666666667,8
+21,7,7,5,0,0,0.142857142857143,0,3,1,5,['robil/C34_Designer/src/elements/GElement.java'],0,elements::GElement::Creator,robil,7,external_repositories,7,3,0
+106,55,23,71,0,2,0.482758620689655,4,11,1.20689655172414,5,['robil/C34_Designer/src/elements/GElement.java'],5,elements::GElement,robil,17,external_repositories,29,3.6551724137931,68
+11,3,2,7,0,0,0.5,0,6,1,0,['robil/C34_Designer/src/elements/GElement.java'],4,elements::GElement::GraphProp,robil,2,external_repositories,2,5.5,0
+37,37,7,27,0,10,0.714285714285714,2,12,1,0,['robil/C34_Designer/src/elements/GProperty.java'],10,elements::GProperty,robil,7,external_repositories,7,5.28571428571429,14
+94,9,3,1,1,0,1.2,0,70,3,0,['robil/C34_Designer/src/elements/JAutoSuggestComboBox.java'],5,elements::JAutoSuggestComboBox,robil,5,external_repositories,5,18.8,0
+54,36,10,1,1,1,0.6,6,19,1.2,0,['robil/C34_Designer/src/elements/Joint.java'],1,elements::Joint,robil,6,external_repositories,10,5.4,36
+26,10,7,0,1,0,0.142857142857143,2,6,1.14285714285714,0,['robil/C34_Designer/src/elements/Joint.java'],1,elements::Joint::Creator,robil,7,external_repositories,7,3.71428571428571,14
+3,1,1,1,0,0,1,0,3,1,0,['robil/C34_Designer/src/elements/Modifier.java'],0,elements::Modifier,robil,1,external_repositories,1,3,0
+149,47,11,6,1,0,1.375,8,43,1.875,0,['robil/C34_Designer/src/elements/Tooltip.java'],6,elements::Tooltip,robil,9,external_repositories,16,9.3125,72
+0,0,0,2,0,3,0,0,0,0,0,['robil/C34_Designer/src/elements/Tooltip.java'],3,elements::Tooltip::Position,robil,0,external_repositories,0,0,0
+0,0,0,2,0,4,0,0,0,0,0,['robil/C34_Designer/src/elements/Tooltip.java'],4,elements::Tooltip::ToolTipDesign,robil,0,external_repositories,0,0,0
+14,6,4,0,1,1,1,0,4,1,0,['robil/C34_Designer/src/elements/Vec.java'],2,elements::Vec::Size2D,robil,4,external_repositories,4,3.5,0
+117,74,34,41,0,1,0.916666666666667,0,4,1,0,['robil/C34_Designer/src/elements/Vec.java'],2,elements::Vec,robil,16,external_repositories,36,3.25,0
+7,4,1,26,0,3,0,0,7,1,0,['robil/C34_Designer/src/elements/View.java'],3,elements::View,robil,1,external_repositories,1,7,0
+1,1,1,2,0,0,0,0,1,1,2,['robil/C34_Designer/src/elements/View.java'],0,elements::View::ChangesListener,robil,1,external_repositories,1,1,0
+16,8,4,13,0,0,1.25,1,6,1.5,5,['robil/C34_Designer/src/elements/tasks/Border.java'],1,elements::tasks::Border,robil,3,external_repositories,4,4,3
+19,12,3,0,1,2,2,5,9,1,0,['robil/C34_Designer/src/elements/tasks/ParallelBorder.java'],2,elements::tasks::ParallelBorder,robil,2,external_repositories,3,6.33333333333333,10
+16,9,2,0,1,0,3,4,9,1,0,['robil/C34_Designer/src/elements/tasks/SelectorBorder.java'],4,elements::tasks::SelectorBorder,robil,2,external_repositories,2,8,8
+20,13,3,0,1,2,2,5,9,1,0,['robil/C34_Designer/src/elements/tasks/SequenceBorder.java'],2,elements::tasks::SequenceBorder,robil,2,external_repositories,3,6.66666666666667,10
+64,11,2,0,1,0,3,4,57,5,0,['robil/C34_Designer/src/elements/tasks/SwitchBorder.java'],4,elements::tasks::SwitchBorder,robil,2,external_repositories,2,32,8
+335,174,32,21,1,9,0.432432432432432,17,116,1.78378378378378,0,['robil/C34_Designer/src/elements/tasks/Task.java'],22,elements::tasks::Task,robil,9,external_repositories,37,9.05405405405405,153
+23,4,2,0,1,0,3.5,2,15,1.5,0,['robil/C34_Designer/src/elements/tasks/TaskBorder.java'],5,elements::tasks::TaskBorder,robil,2,external_repositories,2,11.5,4
+18,6,6,1,1,0,0,0,3,1,0,['robil/C34_Designer/src/elements/tasks/TaskCreator.java'],0,elements::tasks::TaskCreator,robil,6,external_repositories,6,3,0
+221,31,3,0,1,0,0.333333333333333,6,213,5.66666666666667,0,['robil/C34_Designer/src/elements/tasks/TaskModifyDialog.java'],11,elements::tasks::ModifyDialog,robil,3,external_repositories,3,73.6666666666667,18
+46,29,13,2,0,0,0.692307692307692,0,10,1,0,['robil/C34_Designer/src/elements/tasks/TaskResult.java'],6,elements::tasks::TaskResult,robil,6,external_repositories,13,3.53846153846154,0
+1,1,1,0,0,0,1,0,1,1,0,['robil/C34_Designer/src/elements/tasks/TaskResultCollection.java'],0,elements::tasks::TaskResultCollection::EventListener,robil,1,external_repositories,1,1,0
+3,2,1,1,0,1,1,0,3,1,0,['robil/C34_Designer/src/elements/tasks/TaskResultCollection.java'],1,elements::tasks::TaskResultCollection::EventListenerArgs,robil,1,external_repositories,1,3,0
+16,6,2,2,1,0,1,0,9,1.66666666666667,0,['robil/C34_Designer/src/elements/tasks/TaskResultCollection.java'],2,elements::tasks::TaskResultCollection,robil,1,external_repositories,3,5.33333333333333,0
+91,18,1,0,1,0,0.666666666666667,5,59,2.33333333333333,0,['robil/C34_Designer/src/elements/tasks/TaskRunHistoryDialog.java'],4,elements::tasks::TaskRunHistoryDialog,robil,1,external_repositories,3,30.3333333333333,5
+101,15,6,0,0,0,1.75,0,50,2.75,0,['robil/C34_Designer/src/logger/Log.java'],2,logger::Log,robil,3,external_repositories,8,12.625,0
+3,2,1,2,0,1,1,0,3,1,0,['robil/C34_Designer/src/logger/LogManager.java'],1,logger::LogManager::LineCounter,robil,1,external_repositories,1,3,0
+96,21,8,0,0,0,0.3,1,33,1.6,0,['robil/C34_Designer/src/logger/LogManager.java'],5,logger::LogManager,robil,6,external_repositories,10,9.6,6
+7,1,1,0,0,0,1,0,7,1,0,['robil/C34_Designer/src/terminal/ProgramRegistrator.java'],0,terminal::ProgramRegistrator,robil,1,external_repositories,1,7,0
+248,52,6,8,1,4,0.666666666666667,1,60,3.41666666666667,0,['robil/C34_Designer/src/terminal/Terminal.java'],10,terminal::Terminal,robil,1,external_repositories,12,20.6666666666667,1
+28,15,10,29,0,1,1.2,0,8,1.2,3,['robil/C34_Designer/src/terminal/commands/Command.java'],3,terminal::commands::Command,robil,6,external_repositories,10,2.8,0
+21,11,5,0,1,0,0.8,2,8,1.2,0,['robil/C34_Designer/src/terminal/commands/History.java'],0,terminal::commands::History,robil,5,external_repositories,5,4.2,10
+13,8,4,10,1,0,1.25,2,4,1,3,['robil/C34_Designer/src/terminal/commands/RosCommand.java'],1,terminal::commands::RosCommand,robil,4,external_repositories,4,3.25,8
+58,16,5,0,2,0,0.8,5,28,2.2,0,['robil/C34_Designer/src/terminal/commands/RosLogger.java'],0,terminal::commands::RosLogger,robil,5,external_repositories,5,11.6,25
+194,41,7,6,2,0,1,6,75,4,0,['robil/C34_Designer/src/terminal/commands/ServiceCaller.java'],0,terminal::commands::ServiceCaller,robil,7,external_repositories,8,24.25,42
+20,13,6,0,1,0,0.833333333333333,2,5,1,0,['robil/C34_Designer/src/terminal/commands/Test.java'],0,terminal::commands::Test,robil,6,external_repositories,6,3.33333333333333,12
+101,24,5,0,2,0,0.8,6,58,2.6,0,['robil/C34_Designer/src/terminal/commands/TopicListener.java'],0,terminal::commands::TopicListener,robil,5,external_repositories,5,20.2,30
+25,8,1,1,1,0,1,2,25,5,0,['robil/C34_Designer/src/terminal/communication/CompactStackStreamMessageParser.java'],2,terminal::communication::CompactStackStreamMessageParser,robil,1,external_repositories,1,25,2
+1,1,1,0,0,0,1,0,1,1,0,['robil/C34_Designer/src/terminal/communication/IMessage.java'],0,terminal::communication::IMessage,robil,1,external_repositories,1,1,0
+9,2,2,7,0,0,1.5,0,8,1,0,['robil/C34_Designer/src/terminal/communication/MessageParser.java'],0,terminal::communication::MessageParser,robil,2,external_repositories,2,4.5,0
+48,23,9,6,0,6,0.777777777777778,2,12,1.22222222222222,0,['robil/C34_Designer/src/terminal/communication/RosExecutor.java'],7,terminal::communication::RosExecutor,robil,8,external_repositories,9,5.33333333333333,16
+134,35,4,10,0,0,1.66666666666667,3,36,3.33333333333333,0,['robil/C34_Designer/src/terminal/communication/RosPipe.java'],6,terminal::communication::RosPipe,robil,4,external_repositories,9,14.8888888888889,12
+0,0,0,9,0,3,0,0,0,0,0,['robil/C34_Designer/src/terminal/communication/RosPipe.java'],3,terminal::communication::RosPipe::RosTargets,robil,0,external_repositories,0,0,0
+18,5,2,0,1,0,0.5,2,15,1.5,0,['robil/C34_Designer/src/terminal/communication/RosStackStreamListener.java'],1,terminal::communication::RosStackStreamListener,robil,2,external_repositories,2,9,4
+18,6,2,0,1,0,0.5,2,15,1.5,0,['robil/C34_Designer/src/terminal/communication/RosStopStreamListener.java'],1,terminal::communication::RosStopStreamListener,robil,1,external_repositories,2,9,2
+15,5,2,3,0,2,0.666666666666667,0,7,1.66666666666667,0,['robil/C34_Designer/src/terminal/communication/StackStreamMessage.java'],3,terminal::communication::StackStreamMessage::TaskFinishReason,robil,3,external_repositories,3,5,0
+88,56,21,30,1,0,0.523809523809524,2,13,1.28571428571429,0,['robil/C34_Designer/src/terminal/communication/StackStreamMessage.java'],8,terminal::communication::StackStreamMessage,robil,4,external_repositories,21,4.19047619047619,8
+12,5,3,25,0,2,0.666666666666667,0,6,1.33333333333333,0,['robil/C34_Designer/src/terminal/communication/StackStreamMessage.java'],3,terminal::communication::StackStreamMessage::ChangeType,robil,3,external_repositories,3,4,0
+34,14,2,10,1,0,1.5,2,26,3,0,['robil/C34_Designer/src/terminal/communication/StackStreamMessageParser.java'],4,terminal::communication::StackStreamMessageParser,robil,1,external_repositories,2,17,2
+46,21,13,5,1,0,0.538461538461538,1,7,1.15384615384615,0,['robil/C34_Designer/src/terminal/communication/StopStreamMessage.java'],5,terminal::communication::StopStreamMessage,robil,11,external_repositories,13,3.53846153846154,11
+15,5,2,5,0,2,0.666666666666667,0,7,1.66666666666667,0,['robil/C34_Designer/src/terminal/communication/StopStreamMessage.java'],3,terminal::communication::StopStreamMessage::PlanFinishReason,robil,3,external_repositories,3,5,0
+27,8,1,4,0,0,1,1,27,6,0,['robil/C34_Designer/src/terminal/communication/StopStreamMessageParser.java'],2,terminal::communication::StopStreamMessageParser,robil,1,external_repositories,1,27,1
+7,5,1,8,1,0,1,2,7,2,0,['robil/C34_Designer/src/terminal/communication/UniversalStackStreamMessageParser.java'],2,terminal::communication::UniversalStackStreamMessageParser,robil,1,external_repositories,1,7,2
+41,7,4,0,0,2,2,1,14,2,0,['robil/C34_Designer/src/terminal/communication/Utils.java'],3,terminal::communication::Utils,robil,4,external_repositories,4,10.25,4
+30,24,3,0,0,0,0,3,11,1,0,['robil/C34_Designer/src/terminal/communication/tests/CompactStackStreamMessageParserTest.java'],1,terminal::communication::tests::CompactStackStreamMessageParserTest,robil,1,external_repositories,3,10,3
+140,84,9,0,0,0,0,4,31,1,0,['robil/C34_Designer/src/terminal/communication/tests/StackStreamMessageParserTest.java'],1,terminal::communication::tests::StackStreamMessageParserTest,robil,1,external_repositories,9,15.5555555555556,4
+39,19,3,0,0,0,0,3,15,1,0,['robil/C34_Designer/src/terminal/communication/tests/StopStreamMessageParserTest.java'],1,terminal::communication::tests::StopStreamMessageParserTest,robil,1,external_repositories,3,13,3
+139,98,11,0,0,0,0,5,22,1,0,['robil/C34_Designer/src/terminal/communication/tests/UniversalStackStreamMessageParserTest.java'],1,terminal::communication::tests::UniversalStackStreamMessageParserTest,robil,1,external_repositories,11,12.6363636363636,5
+20,5,5,0,1,0,0.4,0,5,1.6,0,['robil/C34_Designer/src/terminal/lineprocessors/ArrayLineProcessor.java'],1,terminal::lineprocessors::ArrayLineProcessor,robil,5,external_repositories,5,4,0
+22,8,7,4,1,0,0.571428571428571,0,7,1.28571428571429,0,['robil/C34_Designer/src/terminal/lineprocessors/BatchLineProcessor.java'],1,terminal::lineprocessors::BatchLineProcessor,robil,7,external_repositories,7,3.14285714285714,0
+10,6,4,0,1,0,0.5,1,3,1,0,['robil/C34_Designer/src/terminal/lineprocessors/ConsoleWriterLineProcessor.java'],1,terminal::lineprocessors::ConsoleWriterLineProcessor,robil,4,external_repositories,4,2.5,4
+8,4,4,0,1,0,0.25,0,2,1,0,['robil/C34_Designer/src/terminal/lineprocessors/DummyLineProcessor.java'],0,terminal::lineprocessors::DummyLineProcessor,robil,4,external_repositories,4,2,0
+3,3,3,7,0,0,0.333333333333333,0,1,1,6,['robil/C34_Designer/src/terminal/lineprocessors/LineProcessor.java'],0,terminal::lineprocessors::LineProcessor,robil,3,external_repositories,3,1,0
+55,12,4,0,1,0,0.5,4,36,1.75,0,['robil/C34_Designer/src/terminal/lineprocessors/StackStreamProcessor.java'],3,terminal::lineprocessors::StackStreamProcessor,robil,3,external_repositories,4,13.75,12
+42,13,4,0,1,0,0.6,2,26,1.6,0,['robil/C34_Designer/src/terminal/lineprocessors/StopStreamProcessor.java'],4,terminal::lineprocessors::StopStreamProcessor,robil,4,external_repositories,5,8.4,8
+126,15,2,0,1,0,4,0,104,2.5,0,['robil/C34_Designer/src/windows/ChooseRemotePlanDialog.java'],4,windows::ChooseRemotePlanDialog,robil,1,external_repositories,4,31.5,0
+151,29,5,0,1,0,0.916666666666667,2,41,2,0,['robil/C34_Designer/src/windows/LogConsoleWindow.java'],6,windows::LogConsoleWindow,robil,4,external_repositories,12,12.5833333333333,8
+128,10,3,1,1,0,1,1,47,2.66666666666667,0,['robil/C34_Designer/src/windows/ParametersEditor.java'],13,windows::ParametersEditor,robil,4,external_repositories,6,21.3333333333333,4
+60,15,8,0,1,0,1,3,17,1.33333333333333,0,['robil/C34_Designer/src/windows/ParametersEditor.java'],3,windows::ParametersEditor::PropertiesTableModel,robil,7,external_repositories,9,6.66666666666667,21
+7,1,1,0,1,0,1,0,7,2,0,['robil/C34_Designer/src/windows/ParametersEditor.java'],0,windows::ParametersEditor::RowListener,robil,1,external_repositories,1,7,0
+7,1,1,0,1,0,1,0,7,2,0,['robil/C34_Designer/src/windows/ParametersEditor.java'],0,windows::ParametersEditor::ColumnListener,robil,1,external_repositories,1,7,0
+139,23,4,0,1,0,1,2,67,2.14285714285714,0,['robil/C34_Designer/src/windows/PlanEditor.java'],3,windows::PlanEditor,robil,1,external_repositories,7,19.8571428571429,2
+77,15,1,0,1,0,0.666666666666667,4,50,1.66666666666667,0,['robil/C34_Designer/src/windows/PlanExecutionHistoryDialog.java'],3,windows::PlanExecutionHistoryDialog,robil,1,external_repositories,3,25.6666666666667,4
+330,24,1,0,1,0,0.636363636363636,2,63,1.54545454545455,0,['robil/C34_Designer/src/windows/TaskDescriptionEditor.java'],7,windows::TaskDescriptionEditor,robil,11,external_repositories,11,30,22
+281,57,19,40,1,6,0.55,4,73,2.2,0,['robil/C34_Designer/src/windows/designer/BTDesigner.java'],8,windows::designer::BTDesigner,robil,5,external_repositories,20,14.05,20
+17,9,5,13,0,2,0.6,1,4,1.2,0,['robil/C34_Designer/src/windows/designer/BTDesigner.java'],2,windows::designer::BTDesigner::DesignerTab,robil,3,external_repositories,5,3.4,3
+37,4,1,2,1,0,2,0,37,3,0,['robil/C34_Designer/src/windows/designer/ButtonTabComponent.java'],4,windows::designer::ButtonTabComponent,robil,1,external_repositories,1,37,0
+68,13,3,0,1,0,0.5,4,28,2.25,0,['robil/C34_Designer/src/windows/designer/ButtonTabComponent.java'],1,windows::designer::ButtonTabComponent::TabButton,robil,4,external_repositories,4,17,16
+86,22,7,0,1,0,0.857142857142857,2,31,1.14285714285714,0,['robil/C34_Designer/src/windows/filemanager/FileBrowserPanel.java'],5,windows::filemanager::FileBrowserPanel,robil,1,external_repositories,7,12.2857142857143,2
+30,9,7,0,1,0,0.714285714285714,1,9,1.28571428571429,0,['robil/C34_Designer/src/windows/filemanager/FileBrowserTableModel.java'],2,windows::filemanager::FileBrowserTableModel,robil,7,external_repositories,7,4.28571428571429,7
+3,1,1,0,1,0,0,0,3,1,0,['robil/C34_Designer/src/windows/filemanager/FileManager.java'],1,windows::filemanager::FileManager,robil,1,external_repositories,1,3,0
+52,25,13,2,0,0,0.384615384615385,0,12,1.38461538461538,0,['robil/C34_Designer/src/windows/filemanager/filelistproviders/FileDescription.java'],5,windows::filemanager::filelistproviders::FileDescription,robil,6,external_repositories,13,4,0
+1,1,1,3,0,0,1,0,1,1,2,['robil/C34_Designer/src/windows/filemanager/filelistproviders/FileListProvider.java'],0,windows::filemanager::filelistproviders::FileListProvider,robil,1,external_repositories,1,1,0
+16,4,1,0,1,0,1,2,16,2,0,['robil/C34_Designer/src/windows/filemanager/filelistproviders/LocalFileListProvider.java'],0,windows::filemanager::filelistproviders::LocalFileListProvider,robil,1,external_repositories,1,16,2
+3,1,1,0,1,0,1,0,3,1,0,['robil/C34_Designer/src/windows/filemanager/filelistproviders/RemoteFileListProvider.java'],0,windows::filemanager::filelistproviders::RemoteFileListProvider,robil,1,external_repositories,1,3,0
+284,25,1,0,1,0,0.6,2,141,1.8,0,['robil/C34_Designer/src/windows/lookuptable/LookupTableEditor.java'],4,windows::lookuptable::LookupTableEditor,robil,1,external_repositories,5,56.8,2
+21,15,7,0,1,0,1.28571428571429,2,3,1,0,['robil/C34_Designer/src/windows/lookuptable/LookupTableModel.java'],2,windows::lookuptable::LookupTableModel,robil,7,external_repositories,7,3,14
+14,3,1,0,1,0,3,1,14,1,0,['robil/C34_Designer/src/windows/lookuptable/LookupTablePopupMenu.java'],1,windows::lookuptable::LookupTablePopupMenu,robil,1,external_repositories,1,14,1
+3,1,1,1,0,0,1,0,3,1,0,"['robil/C34_Executer/src/TaskProxyConnectionByActionLib.cpp', 'robil/C34_Executer/src/TaskProxyConnectionByActionLib.h']",0,TaskProxyConnectionByActionLib,robil,1,external_repositories,1,3,0
+15,3,3,0,1,0,0.666666666666667,0,9,1.66666666666667,0,"['robil/C34_Executer/src/TaskProxyConnectionByActionLib.h', 'robil/C34_Executer/src/TaskProxyConnectionByActionLib.cpp']",0,TaskProxyConnectionByActionLib::RobilTaskProxyCreator,robil,3,external_repositories,3,5,0
+95,30,10,0,1,0,0.3,4,27,1.6,0,"['robil/C34_Executer/src/TaskProxyConnectionByActionLib.h', 'robil/C34_Executer/src/TaskProxyConnectionByActionLib.cpp']",4,TaskProxyConnectionByActionLib::RobilTaskProxy,robil,6,external_repositories,10,9.5,24
+252,82,23,2,0,4,2.04347826086957,3,84,2.73913043478261,0,['robil/C34_Executer/src/executer.cpp'],4,executer,robil,1,external_repositories,23,10.9565217391304,3
+81,15,5,9,0,5,1.6,0,30,3,0,['robil/C34_Executer/src/stack_stream_filter.cpp'],5,stack_stream_filter,robil,1,external_repositories,5,16.2,0
+18,1,1,0,0,0,2,0,18,3,0,['robil/C34_Executer/src/test_action_client.cpp'],0,test_action_client,robil,1,external_repositories,1,18,0
+0,0,0,1,0,5,0,0,0,0,0,['robil/C41_QuasiStaticWalking/src/QuasiStaticWalking.cpp'],5,QuasiStaticWalking::Walk,robil,0,external_repositories,0,0,0
+688,63,10,0,0,0,0.9,4,606,2.5,0,['robil/C41_QuasiStaticWalking/src/QuasiStaticWalking.cpp'],29,QuasiStaticWalking,robil,5,external_repositories,10,68.8,20
+157,11,7,0,0,0,1,1,126,2.14285714285714,0,"['robil/C41_QuasiStaticWalking/src/client.cpp', 'robil/C45_PostureControl/src/turn_in_place.cpp']",9,turn_in_place,robil,7,external_repositories,7,22.4285714285714,7
+14,1,1,0,0,0,2,0,14,2,0,['robil/C41_QuasiStaticWalking/src/client.cpp'],0,C41_QuasiStaticWalking/src/client,robil,1,external_repositories,1,14,0
+120,34,11,9,0,0,3.81818181818182,3,52,1,0,['robil/C41_QuasiStaticWalking/src/transformations.h'],0,src/transformations,robil,11,external_repositories,11,10.9090909090909,33
+0,0,0,11,0,6,0,0,0,0,0,['robil/C41_QuasiStaticWalking/src/transformations.h'],6,XYZRPY,robil,0,external_repositories,0,0,0
+43,3,2,0,1,0,1.66666666666667,0,22,2,0,['robil/C41_QuasiStaticWalking_tools/FootPlacement/src/FTTask.hpp'],0,TaskCheckExtremeSlope,robil,3,external_repositories,3,14.3333333333333,0
+16,1,1,0,0,0,2,0,16,3,0,['robil/C41_QuasiStaticWalking_tools/FootPlacement/src/FakePath.cpp'],0,FakePath,robil,1,external_repositories,1,16,0
+550,58,2,0,0,0,3.13333333333333,7,264,3.06666666666667,0,"['robil/C41_QuasiStaticWalking_tools/FootPlacement/src/FootPlacementService.cpp', 'robil/C41_QuasiStaticWalking_tools/FootPlacement/src/FootPlacementService.h']",8,FootPlacementService,robil,4,external_repositories,15,36.6666666666667,28
+36,1,1,0,0,0,2,0,36,3,0,['robil/C41_QuasiStaticWalking_tools/FootPlacement/src/FootTest.cpp'],0,FootTest,robil,1,external_repositories,1,36,0
+7,1,1,0,0,0,2,0,7,1,0,['robil/C41_QuasiStaticWalking_tools/legs_val_calc/src/each_leg_val_calc.cpp'],0,each_leg_val_calc,robil,1,external_repositories,1,7,0
+263,38,4,0,0,0,0.75,1,221,1.25,0,['robil/C41_QuasiStaticWalking_tools/legs_val_calc/src/each_leg_val_calc.cpp'],20,each_leg_val_calculator,robil,2,external_repositories,4,65.75,2
+470,61,6,0,0,0,1.16666666666667,1,260,1.16666666666667,0,['robil/C41_QuasiStaticWalking_tools/legs_val_calc/src/legs_val_calc.cpp'],24,legs_val_calculator,robil,2,external_repositories,6,78.3333333333333,2
+7,1,1,0,0,0,2,0,7,1,0,['robil/C41_QuasiStaticWalking_tools/legs_val_calc/src/legs_val_calc.cpp'],0,legs_val_calc,robil,1,external_repositories,1,7,0
+656,81,6,0,0,0,0.833333333333333,4,555,4.83333333333333,0,['robil/C41_QuasiStaticWalking_tools/move_pelvis/src/move_pelvis.cpp'],36,move_pelvis_service,robil,2,external_repositories,6,109.333333333333,8
+10,1,1,0,0,0,2,0,10,1,0,['robil/C41_QuasiStaticWalking_tools/move_pelvis/src/move_pelvis.cpp'],0,move_pelvis,robil,1,external_repositories,1,10,0
+120,34,11,0,0,0,3.81818181818182,3,52,1,0,['robil/C41_QuasiStaticWalking_tools/move_pelvis/src/transformations.h'],0,tools/move_pelvis/src/transformations,robil,11,external_repositories,11,10.9090909090909,33
+10,1,1,0,0,0,2,0,10,1,0,['robil/C41_QuasiStaticWalking_tools/move_pelvis/src/walk_legs.cpp'],0,walk_legs,robil,1,external_repositories,1,10,0
+1106,143,12,0,0,0,1.41666666666667,4,308,8,0,['robil/C41_QuasiStaticWalking_tools/move_pelvis/src/walk_legs.cpp'],43,walk_legs_service,robil,3,external_repositories,12,92.1666666666667,12
+172,48,15,0,0,0,1.6,1,90,1.73333333333333,0,['robil/C41_QuasiStaticWalking_tools/pelvis_leg_target/src/pelvis_leg_target.cpp'],13,move_to_leg,robil,11,external_repositories,15,11.4666666666667,11
+7,1,1,0,0,0,2,0,7,1,0,['robil/C41_QuasiStaticWalking_tools/pelvis_leg_target/src/pelvis_leg_target.cpp'],0,pelvis_leg_target,robil,1,external_repositories,1,7,0
+60,5,2,0,0,0,1,0,56,2.5,0,['robil/C41_QuasiStaticWalking_tools/traj_splitter_to_vector/src/trajectory_vector_server.cpp'],2,traj_vector_server,robil,1,external_repositories,2,30,0
+8,1,1,0,0,0,2,0,8,1,0,['robil/C41_QuasiStaticWalking_tools/traj_splitter_to_vector/src/trajectory_vector_server.cpp'],0,trajectory_vector_server,robil,1,external_repositories,1,8,0
+141,9,3,0,0,0,1.33333333333333,1,129,2,0,['robil/C41_QuasiStaticWalking_tools/traj_splitter_to_vector/src/walking_position_vector.cpp'],2,walking_position_vector,robil,2,external_repositories,3,47,2
+97,8,3,0,0,0,1.33333333333333,1,85,2,0,['robil/C41_QuasiStaticWalking_tools/traj_splitter_to_vector/src/walking_trajectory_vector.cpp'],2,walking_trajectory_vector,robil,2,external_repositories,3,32.3333333333333,2
+40,15,5,0,0,2,1.6,0,26,1,0,['robil/C42_State/src/state.cpp'],2,state,robil,1,external_repositories,5,8,0
+15,3,2,0,1,0,2,1,12,2.5,0,['robil/C42_WalkType/src/WalkType.cpp'],0,task_WalkCrawlDEBRIS,robil,2,external_repositories,2,7.5,2
+15,3,2,0,1,0,2,1,12,2.5,0,['robil/C42_WalkType/src/WalkType.cpp'],0,task_WalkCrawlMUD,robil,2,external_repositories,2,7.5,2
+15,3,2,0,1,0,2,1,12,2.5,0,['robil/C42_WalkType/src/WalkType.cpp'],0,task_WalkDiscrete,robil,2,external_repositories,2,7.5,2
+15,3,2,0,1,0,2,1,12,2.5,0,['robil/C42_WalkType/src/WalkType.cpp'],0,task_WalkCrawlHILLS,robil,2,external_repositories,2,7.5,2
+15,3,2,0,1,0,2,1,12,2.5,0,['robil/C42_WalkType/src/WalkType.cpp'],0,task_WalkContinues,robil,2,external_repositories,2,7.5,2
+89,22,8,5,0,4,0.625,0,33,2,0,['robil/C42_WalkType/src/WalkType.cpp'],4,WalkType,robil,1,external_repositories,8,11.125,0
+127,20,4,0,0,0,1.25,3,65,2.25,0,['robil/C43_LocalBodyCOM/src/computeCOM.cpp'],9,C43_LocalBodyCOM::CoM_Node_class,robil,2,external_repositories,4,31.75,6
+32,1,1,0,0,0,2,0,32,2,0,['robil/C43_LocalBodyCOM/src/computeCOM.cpp'],0,computeCOM,robil,1,external_repositories,1,32,0
+2,1,1,0,1,0,1,0,2,1,0,['robil/C43_LocalBodyCOM_tools/include/C43_LocalBodyCOM/Kinematics.h'],0,C43_LocalBodyCOM::Kinematics::InitFailed,robil,1,external_repositories,1,2,0
+42,25,3,6,0,0,2.71428571428571,1,36,1.42857142857143,1,['robil/C43_LocalBodyCOM_tools/include/C43_LocalBodyCOM/Kinematics.h'],12,C43_LocalBodyCOM::Kinematics,robil,3,external_repositories,7,6,3
+0,0,0,0,0,0,0,0,0,0,0,['robil/C43_LocalBodyCOM_tools/include/C43_LocalBodyCOM/Kinematics.h'],0,C43_LocalBodyCOM_tools/include/C43_LocalBodyCOM/Kinematics,robil,0,external_repositories,0,0,0
+334,51,9,1,1,0,0.857142857142857,4,79,2.92857142857143,0,['robil/C43_LocalBodyCOM_tools/include/C43_LocalBodyCOM/TestStability.h'],9,C43_LocalBodyCOM::TestStability,robil,3,external_repositories,14,23.8571428571429,12
+35,6,2,0,0,1,1.5,1,19,1,0,['robil/C43_LocalBodyCOM_tools/src/Check_pub_rate.cpp'],1,Check_pub_rate,robil,1,external_repositories,2,17.5,1
+114,35,4,0,0,0,1,2,64,2.5,0,['robil/C43_LocalBodyCOM_tools/src/test_stability.cpp'],16,C43_LocalBodyCOM::TestStabilityNode,robil,2,external_repositories,4,28.5,4
+31,1,1,0,0,0,2,0,31,4,0,['robil/C43_LocalBodyCOM_tools/src/test_stability.cpp'],0,test_stability,robil,1,external_repositories,1,31,0
+10,1,1,0,0,0,2,0,10,2,0,['robil/C43_LocalBodyPVA/src/C43_Node.cpp'],0,C43_Node,robil,1,external_repositories,1,10,0
+27,2,2,0,1,0,2.5,0,22,2,0,['robil/C45_PostureControl/src/C45_Behavior.cpp'],9,C45_task_start,robil,2,external_repositories,2,13.5,0
+17,2,2,0,0,0,2,0,10,2,0,['robil/C45_PostureControl/src/C45_Behavior.cpp'],0,C45_Behavior,robil,2,external_repositories,2,8.5,0
+211,30,5,0,0,0,0.4,2,176,2.2,0,['robil/C45_PostureControl/src/C45_PostureControl.cpp'],21,posture_controller,robil,2,external_repositories,5,42.2,4
+9,1,1,0,0,0,2,0,9,1,0,['robil/C45_PostureControl/src/C45_PostureControl.cpp'],0,C45_PostureControl,robil,1,external_repositories,1,9,0
+19,2,2,0,0,0,2,0,12,2,0,['robil/C45_PostureControl/src/C45_TaskStart.cpp'],0,C45_TaskStart,robil,2,external_repositories,2,9.5,0
+26,2,2,0,1,0,2,0,22,2,0,['robil/C45_PostureControl/src/C45_TaskStart.cpp'],0,task_planner,robil,2,external_repositories,2,13,0
+17,2,2,0,0,0,2,0,10,2,0,['robil/C45_PostureControl/src/C45_TaskStop.cpp'],0,C45_TaskStop,robil,2,external_repositories,2,8.5,0
+14,1,1,0,0,0,2,0,14,2,0,['robil/C45_PostureControl/src/run_stability_maintainer.cpp'],0,run_stability_maintainer,robil,1,external_repositories,1,14,0
+47,10,6,0,0,0,0.833333333333333,1,29,1.16666666666667,0,['robil/C45_PostureControl/src/run_stability_maintainer.cpp'],9,run_maintainer,robil,5,external_repositories,6,7.83333333333333,5
+286,62,12,0,0,0,1.58333333333333,3,188,1.83333333333333,0,['robil/C45_PostureControl/src/stability_maintainer.cpp'],29,stability_maintainer,robil,5,external_repositories,12,23.8333333333333,15
+527,92,18,0,0,0,1.61111111111111,2,228,3.38888888888889,0,['robil/C45_PostureControl_tools/PoseController/src/PoseController.cpp'],32,PoseControllerClass,robil,2,external_repositories,18,29.2777777777778,4
+9,1,1,0,0,0,2,0,9,1,0,['robil/C45_PostureControl_tools/PoseController/src/PoseController.cpp'],0,PoseController,robil,1,external_repositories,1,9,0
+12,1,1,0,0,0,2,0,12,1,0,['robil/C45_PostureControl_tools/PoseController/src/move_back_lbz_neck_ay.cpp'],0,move_back_lbz_neck_ay,robil,1,external_repositories,1,12,0
+76,23,4,0,0,0,1,1,52,1.5,0,['robil/C45_PostureControl_tools/PoseController/src/move_back_lbz_neck_ay.cpp'],23,back_neck,robil,2,external_repositories,4,19,2
+43,2,2,0,1,0,2,0,38,3,0,['robil/C45_PostureControl_tools/PoseController/src/task.hpp'],0,TaskResetHead,robil,2,external_repositories,2,21.5,0
+39,4,2,0,0,0,1,1,35,1.5,0,['robil/C65_CloseValve/src/C65_CloseValve_client.cpp'],0,C65_CloseValve_client,robil,1,external_repositories,2,19.5,1
+9,1,1,0,0,0,2,0,9,1,0,['robil/C65_CloseValve/src/C65_CloseValve_server.cpp'],0,C65_CloseValve_server,robil,1,external_repositories,1,9,0
+63,26,5,0,0,0,0.6,0,29,1.6,0,['robil/C65_CloseValve/src/C65_CloseValve_server.cpp'],10,C65_CloseValve_Server,robil,2,external_repositories,5,12.6,0
+6,1,1,0,0,0,7,0,6,1,0,"['robil/C66_Grasp/src/FK.cpp', 'robil/C66_Grasp/src/FK.h']",0,C66_Grasp/src/FK,robil,1,external_repositories,1,6,0
+4,22,4,0,0,7,1.75,0,1,1,0,"['robil/C66_Grasp/src/FK.h', 'robil/C66_Grasp/src/FK.cpp']",7,Quarternion,robil,2,external_repositories,4,1,0
+9,31,5,57,0,6,1.4,1,4,1,0,"['robil/C66_Grasp/src/FK.h', 'robil/C66_Grasp/src/FK.cpp']",6,RPY,robil,2,external_repositories,5,1.8,2
+781,138,45,42,0,4,1.50909090909091,2,229,4.29090909090909,0,"['robil/C66_Grasp/src/FK.h', 'robil/C66_Grasp/src/FK.cpp']",4,Matrix,robil,27,external_repositories,55,14.2,54
+650,24,15,46,0,0,3.73333333333333,4,154,2.06666666666667,0,"['robil/C66_Grasp/src/IK.cpp', 'robil/C66_Grasp/src/IK.h']",0,C66_Grasp/src/IK,robil,13,external_repositories,15,43.3333333333333,52
+11,9,5,48,0,3,1.2,1,6,1,0,"['robil/C66_Grasp/src/IK.h', 'robil/C66_Grasp/src/IK.cpp']",3,IkSolution,robil,5,external_repositories,5,2.2,5
+9,14,5,0,0,2,1.6,1,5,1,0,"['robil/C66_Grasp/src/Path.h', 'robil/C66_Grasp/src/Path.cpp']",2,pPathPoints,robil,2,external_repositories,5,1.8,2
+0,0,0,0,0,0,0,0,0,0,0,"['robil/C66_Grasp/src/Path.h', 'robil/C66_Grasp/src/Path.cpp']",0,C66_Grasp/src/Path,robil,0,external_repositories,0,0,0
+1,3,1,0,0,1,2,1,1,1,0,"['robil/C66_Grasp/src/Path.h', 'robil/C66_Grasp/src/Path.cpp']",1,sPathPoints,robil,1,external_repositories,1,1,1
+1,3,1,0,0,1,4,1,1,1,0,"['robil/C66_Grasp/src/Path.h', 'robil/C66_Grasp/src/Path.cpp']",1,PathPoints,robil,1,external_repositories,1,1,1
+589,70,8,5,0,14,1.82352941176471,4,338,3,0,"['robil/C66_Grasp/src/PickUp.cpp', 'robil/C66_Grasp/src/PickUp_OLD.cpp']",34,PickUp,robil,9,external_repositories,17,34.6470588235294,36
+346,43,11,0,1,0,3,9,201,3.27272727272727,0,['robil/C66_Grasp/src/PickUp.cpp'],5,PickUpServer,robil,11,external_repositories,11,31.4545454545455,99
+30,8,2,2,0,4,1,1,19,2,0,['robil/C66_Grasp/src/PickUp_OLD.cpp'],4,PickUp_OLD,robil,1,external_repositories,2,15,1
+9,1,1,3,0,0,3,0,9,1,0,"['robil/C66_Grasp/src/Trace.cpp', 'robil/C66_Grasp/src/Trace.h']",0,C66_Grasp/src/Trace,robil,1,external_repositories,1,9,0
+3,18,3,1,0,1,2.66666666666667,2,1,1,0,"['robil/C66_Grasp/src/Trace.h', 'robil/C66_Grasp/src/Trace.cpp']",1,Trace,robil,1,external_repositories,3,1,2
+71,1,1,1,0,0,1,0,71,1,0,['robil/C66_Grasp/src/Transmit.h'],0,C66_Grasp/src/Transmit,robil,1,external_repositories,1,71,0
+81,10,2,1,0,7,0.5,4,80,3,0,"['robil/C66_Grasp/src/Transmit.h', 'robil/C67_CarManipulation/src/Transmit.cpp']",9,Transmit,robil,2,external_repositories,2,40.5,8
+14,1,1,0,0,0,2,0,14,2,0,['robil/C66_Grasp/src/client.cpp'],0,C66_Grasp/src/client,robil,1,external_repositories,1,14,0
+219,39,4,0,0,0,0.75,1,192,1.25,0,['robil/C66_Grasp_tools/arms_val_calc/src/arms_val_calc.cpp'],19,arms_val_calculator,robil,2,external_repositories,4,54.75,2
+7,1,1,0,0,0,2,0,7,1,0,['robil/C66_Grasp_tools/arms_val_calc/src/arms_val_calc.cpp'],0,arms_val_calc,robil,1,external_repositories,1,7,0
+35,1,1,0,0,0,2,0,35,1,0,['robil/C66_Grasp_tools/hand_grasp/src/finger_point.cpp'],0,finger_point,robil,1,external_repositories,1,35,0
+107,18,4,0,0,0,0.75,1,73,2,0,['robil/C66_Grasp_tools/hand_grasp/src/hand_grasp.cpp'],7,graspper,robil,2,external_repositories,4,26.75,2
+7,1,1,0,0,0,2,0,7,1,0,['robil/C66_Grasp_tools/hand_grasp/src/hand_grasp.cpp'],0,hand_grasp,robil,1,external_repositories,1,7,0
+42,1,1,0,0,0,2,0,42,2,0,['robil/C66_Grasp_tools/hand_grasp/src/wheel_push.cpp'],0,wheel_push,robil,1,external_repositories,1,42,0
+955,97,8,0,0,0,1.58823529411765,3,324,3.52941176470588,0,['robil/C66_Grasp_tools/move_hand/src/move_hand.cpp'],34,move_hand_service,robil,7,external_repositories,17,56.1764705882353,21
+10,1,1,0,0,0,2,0,10,1,0,['robil/C66_Grasp_tools/move_hand/src/move_hand.cpp'],0,move_hand,robil,1,external_repositories,1,10,0
+6,4,1,0,0,0,7,1,6,1,0,['robil/C67_CarManipulation/include/C67_CarManipulation/FK.h'],0,C67_CarManipulation/include/C67_CarManipulation/FK,robil,1,external_repositories,1,6,1
+634,77,15,0,0,0,3.6,6,154,5.4,0,['robil/C67_CarManipulation/include/C67_CarManipulation/IK.h'],0,C67_CarManipulation/include/C67_CarManipulation/IK,robil,15,external_repositories,15,42.2666666666667,90
+0,0,0,0,0,0,0,0,0,0,0,['robil/C67_CarManipulation/include/C67_CarManipulation/Path.h'],0,C67_CarManipulation/include/C67_CarManipulation/Path,robil,0,external_repositories,0,0,0
+36,12,3,0,0,0,2,2,18,1,0,['robil/C67_CarManipulation/include/C67_CarManipulation/Trace.h'],0,C67_CarManipulation/include/C67_CarManipulation/Trace,robil,3,external_repositories,3,12,6
+71,7,1,0,0,0,1,4,71,5,0,['robil/C67_CarManipulation/include/C67_CarManipulation/Transmit.h'],0,C67_CarManipulation/include/C67_CarManipulation/Transmit,robil,1,external_repositories,1,71,4
+34,3,1,0,0,1,2,1,34,2,0,['robil/C67_CarManipulation/src/BrakePedal_client.cpp'],1,BrakePedal_client,robil,1,external_repositories,1,34,1
+87,8,3,0,0,0,1,0,78,3,0,['robil/C67_CarManipulation/src/BrakePedal_server.cpp'],5,BrakePedalAction,robil,2,external_repositories,3,29,0
+9,1,1,0,0,0,2,0,9,1,0,['robil/C67_CarManipulation/src/BrakePedal_server.cpp'],0,BrakePedal_server,robil,1,external_repositories,1,9,0
+82,11,7,0,1,0,2,1,36,2.42857142857143,0,['robil/C67_CarManipulation/src/CalibratePedals.cpp'],5,CalibratePedalsServer,robil,7,external_repositories,7,11.7142857142857,7
+44,2,2,0,0,0,2,0,37,4.5,0,['robil/C67_CarManipulation/src/CalibratePedals.cpp'],0,CalibratePedals,robil,2,external_repositories,2,22,0
+310,46,10,0,1,0,2.7,8,199,4.8,0,['robil/C67_CarManipulation/src/CalibrateWheel.cpp'],5,CalibrateWheelServer,robil,10,external_repositories,10,31,80
+162,19,3,2,0,19,1.66666666666667,1,89,5.33333333333333,0,['robil/C67_CarManipulation/src/CalibrateWheel.cpp'],19,CalibrateWheel,robil,2,external_repositories,3,54,2
+153,16,3,2,0,13,1.66666666666667,1,80,5,0,['robil/C67_CarManipulation/src/CalibrateWheel_old.cpp'],13,CalibrateWheel_old,robil,2,external_repositories,3,51,2
+44,2,2,0,0,0,2,0,37,4,0,['robil/C67_CarManipulation/src/DummyTask.cpp'],0,C67_CarManipulation/src/DummyTask,robil,2,external_repositories,2,22,0
+6,4,1,0,0,0,7,1,6,1,0,"['robil/C67_CarManipulation/src/FK.cpp', 'robil/C67_CarManipulation/src/FK.h']",0,C67_CarManipulation/src/FK,robil,1,external_repositories,1,6,1
+34,3,1,0,0,1,2,1,34,2,0,['robil/C67_CarManipulation/src/GasPedal_client.cpp'],1,GasPedal_client,robil,1,external_repositories,1,34,1
+9,1,1,0,0,0,2,0,9,1,0,['robil/C67_CarManipulation/src/GasPedal_server.cpp'],0,GasPedal_server,robil,1,external_repositories,1,9,0
+87,8,3,0,0,0,1,0,78,3,0,['robil/C67_CarManipulation/src/GasPedal_server.cpp'],5,GasPedalAction,robil,2,external_repositories,3,29,0
+33,2,1,0,0,0,2,1,33,2,0,['robil/C67_CarManipulation/src/GearHandle_client.cpp'],0,GearHandle_client,robil,1,external_repositories,1,33,1
+86,8,3,0,0,0,1,0,77,3,0,['robil/C67_CarManipulation/src/GearHandle_server.cpp'],5,GearHandleAction,robil,2,external_repositories,3,28.6666666666667,0
+9,1,1,0,0,0,2,0,9,1,0,['robil/C67_CarManipulation/src/GearHandle_server.cpp'],0,GearHandle_server,robil,1,external_repositories,1,9,0
+199,29,8,0,1,0,2.25,6,112,4.25,0,['robil/C67_CarManipulation/src/GripGearStick.cpp'],5,GripGearStickServer,robil,8,external_repositories,8,24.875,48
+160,18,3,2,0,16,1.66666666666667,1,87,5.33333333333333,0,['robil/C67_CarManipulation/src/GripGearStick.cpp'],16,GripGearStick,robil,2,external_repositories,3,53.3333333333333,2
+257,29,8,0,1,0,2.25,6,170,4.75,0,['robil/C67_CarManipulation/src/GripHandBrake.cpp'],5,GripHandBrakeServer,robil,8,external_repositories,8,32.125,48
+160,18,3,2,0,16,1.66666666666667,1,87,5.33333333333333,0,['robil/C67_CarManipulation/src/GripHandBrake.cpp'],16,GripHandBrake,robil,2,external_repositories,3,53.3333333333333,2
+350,41,10,0,1,0,2.5,8,234,5.7,0,['robil/C67_CarManipulation/src/GripSteeringWheel.cpp'],6,GripSteeringWheelServer,robil,10,external_repositories,10,35,80
+166,19,3,2,0,24,1.66666666666667,1,88,5.33333333333333,0,['robil/C67_CarManipulation/src/GripSteeringWheel.cpp'],24,GripSteeringWheel,robil,2,external_repositories,3,55.3333333333333,2
+33,2,1,0,0,0,2,1,33,2,0,['robil/C67_CarManipulation/src/HandBrake_client.cpp'],0,HandBrake_client,robil,1,external_repositories,1,33,1
+9,1,1,0,0,0,2,0,9,1,0,['robil/C67_CarManipulation/src/HandBrake_server.cpp'],0,HandBrake_server,robil,1,external_repositories,1,9,0
+86,8,3,0,0,0,1,0,77,3,0,['robil/C67_CarManipulation/src/HandBrake_server.cpp'],5,HandBrakeAction,robil,2,external_repositories,3,28.6666666666667,0
+756,88,17,2,0,0,3.76470588235294,6,154,1.94117647058824,0,"['robil/C67_CarManipulation/src/IK.cpp', 'robil/C67_CarManipulation/src/IK.h']",0,C67_CarManipulation/src/IK,robil,16,external_repositories,17,44.4705882352941,96
+33,2,1,0,0,0,2,1,33,2,0,['robil/C67_CarManipulation/src/Ignition_client.cpp'],0,Ignition_client,robil,1,external_repositories,1,33,1
+9,1,1,0,0,0,2,0,9,1,0,['robil/C67_CarManipulation/src/Ignition_server.cpp'],0,Ignition_server,robil,1,external_repositories,1,9,0
+86,8,3,0,0,0,1,0,77,3,0,['robil/C67_CarManipulation/src/Ignition_server.cpp'],5,IgnitionAction,robil,2,external_repositories,3,28.6666666666667,0
+0,0,0,0,0,0,0,0,0,0,0,"['robil/C67_CarManipulation/src/Path.h', 'robil/C67_CarManipulation/src/Path.cpp']",0,C67_CarManipulation/src/Path,robil,0,external_repositories,0,0,0
+38,7,2,0,0,0,2,2,22,2,0,['robil/C67_CarManipulation/src/PathServer.cpp'],0,PathServer,robil,1,external_repositories,2,19,2
+103,7,7,0,1,0,1.71428571428571,0,74,2.71428571428571,0,['robil/C67_CarManipulation/src/PlaceFeetOnPedals.cpp'],5,PlaceFeetOnPedalsServer,robil,7,external_repositories,7,14.7142857142857,0
+44,2,2,0,0,0,2,0,37,4.5,0,['robil/C67_CarManipulation/src/PlaceFeetOnPedals.cpp'],0,PlaceFeetOnPedals,robil,2,external_repositories,2,22,0
+45,3,1,0,0,1,2,1,45,2,0,['robil/C67_CarManipulation/src/SteeringWheel_client.cpp'],1,SteeringWheel_client,robil,1,external_repositories,1,45,1
+55,11,4,0,0,2,1.25,1,39,1.5,0,['robil/C67_CarManipulation/src/SteeringWheel_client2.cpp'],2,SteeringWheel_client2,robil,1,external_repositories,4,13.75,1
+89,8,3,0,0,0,1,0,80,3,0,['robil/C67_CarManipulation/src/SteeringWheel_server.cpp'],5,SteeringWheelAction,robil,2,external_repositories,3,29.6666666666667,0
+9,1,1,0,0,0,2,0,9,1,0,['robil/C67_CarManipulation/src/SteeringWheel_server.cpp'],0,SteeringWheel_server,robil,1,external_repositories,1,9,0
+36,12,3,1,0,0,2,2,18,1,0,"['robil/C67_CarManipulation/src/Trace.cpp', 'robil/C67_CarManipulation/src/Trace.h']",0,C67_CarManipulation/src/Trace,robil,3,external_repositories,3,12,6
+41,1,1,0,0,0,2,0,41,3,0,['robil/C67_CarManipulation/src/TraceTest.cpp'],0,TraceTest,robil,1,external_repositories,1,41,0
+71,1,1,0,0,0,1,0,71,1,0,"['robil/C67_CarManipulation/src/Transmit.h', 'robil/C67_CarManipulation/src/Transmit.cpp']",0,C67_CarManipulation/src/Transmit,robil,1,external_repositories,1,71,0
+239,29,2,0,0,12,1.5,4,162,5.5,0,['robil/C67_CarManipulation/src/WheelMove.cpp'],12,WheelMove,robil,1,external_repositories,2,119.5,4
+243,22,2,0,0,12,1.5,4,166,4.5,0,['robil/C67_CarManipulation/src/WheelMove2.cpp'],12,WheelMove2,robil,1,external_repositories,2,121.5,4
+195,13,2,0,0,7,1.5,2,163,5.5,0,['robil/C67_CarManipulation/src/bJoint.cpp'],7,bJoint,robil,1,external_repositories,2,97.5,2
+233,17,2,0,0,10,1.5,5,201,9.5,0,['robil/C67_CarManipulation/src/lJoint.cpp'],10,lJoint,robil,1,external_repositories,2,116.5,5
+181,28,2,1,0,10,1.5,5,141,7,0,['robil/C67_CarManipulation/src/lPath.cpp'],10,lPath,robil,1,external_repositories,2,90.5,5
+210,34,3,0,0,14,1.66666666666667,4,156,4.66666666666667,0,['robil/C67_CarManipulation/src/lPath_srv.cpp'],14,lPath_srv,robil,1,external_repositories,3,70,4
+202,21,2,0,0,5,1.5,5,130,6,0,['robil/C67_CarManipulation/src/lPoint.cpp'],5,lPoint,robil,1,external_repositories,2,101,5
+230,26,2,42,0,7,1.5,6,191,7.5,0,['robil/C67_CarManipulation/src/lPoint2.cpp'],7,lPoint2,robil,1,external_repositories,2,115,6
+237,22,2,0,0,10,1.5,5,204,9.5,0,['robil/C67_CarManipulation/src/rJoint.cpp'],10,rJoint,robil,1,external_repositories,2,118.5,5
+200,28,2,0,0,10,1.5,5,156,7.5,0,['robil/C67_CarManipulation/src/rPath.cpp'],10,rPath,robil,1,external_repositories,2,100,5
+97,16,1,0,0,0,2,8,97,8,0,['robil/C67_CarManipulation/src/rPath2.cpp'],0,rPath2,robil,1,external_repositories,1,97,8
+221,34,3,20,0,14,1.66666666666667,4,163,4.66666666666667,0,['robil/C67_CarManipulation/src/rPath_srv.cpp'],14,rPath_srv,robil,1,external_repositories,3,73.6666666666667,4
+202,21,2,0,0,5,1.5,5,130,6,0,['robil/C67_CarManipulation/src/rPoint.cpp'],5,rPoint,robil,1,external_repositories,2,101,5
+227,26,2,0,0,7,1.5,6,191,7.5,0,['robil/C67_CarManipulation/src/rPoint2.cpp'],7,rPoint2,robil,1,external_repositories,2,113.5,6
+233,26,2,0,0,10,1.5,6,192,9.5,0,['robil/C67_CarManipulation/src/rTrace.cpp'],10,rTrace,robil,1,external_repositories,2,116.5,6
+126,9,4,0,0,0,1.75,2,109,5.25,0,['robil/C67_CarManipulation/src/taskTester.cpp'],0,C67_CarManipulation/src/taskTester,robil,4,external_repositories,4,31.5,8
+104,46,8,0,0,0,1.125,1,36,1.875,0,['robil/C67_CarManipulation_tools/PedalManipulation/src/PedalsManipulation.cpp'],20,pedals_manipulation,robil,1,external_repositories,8,13,1
+8,1,1,0,0,0,2,0,8,1,0,['robil/C67_CarManipulation_tools/PedalManipulation/src/PedalsManipulation.cpp'],0,PedalsManipulation,robil,1,external_repositories,1,8,0
+136,18,3,0,0,12,1,2,89,4.66666666666667,0,['robil/LidarObstacleDetection/src/Lidar.cpp'],12,LaserScanToPointCloud,robil,1,external_repositories,3,45.3333333333333,2
+11,1,1,0,0,0,2,0,11,1,0,['robil/LidarObstacleDetection/src/Lidar.cpp'],0,LidarObstacleDetection/src/Lidar,robil,1,external_repositories,1,11,0
+579,61,19,5,0,14,1.42105263157895,3,162,5.36842105263158,0,['robil/RoadExtract/src/RoadExtract.cpp'],27,RoadExtract,robil,11,external_repositories,19,30.4736842105263,33
+13,6,6,6,0,3,0.666666666666667,0,5,1,0,['robil/RoadExtract/src/RoadExtract.cpp'],3,EntropyMatrixCell,robil,6,external_repositories,6,2.16666666666667,0
+11,1,1,0,0,0,2,0,11,1,0,['robil/WalkingObstacleDetection/src/Lidar.cpp'],0,WalkingObstacleDetection/src/Lidar,robil,1,external_repositories,1,11,0
+296,13,2,0,0,1,3,1,286,22.5,0,['robil/libviso2/libviso2/matlab/matcherMex.cpp'],1,matcherMex,robil,2,external_repositories,2,148,2
+110,12,1,0,0,1,4,3,110,21,0,['robil/libviso2/libviso2/matlab/reconstructionMex.cpp'],1,reconstructionMex,robil,1,external_repositories,1,110,3
+185,34,2,0,0,1,3,9,175,14,0,['robil/libviso2/libviso2/matlab/visualOdometryMonoMex.cpp'],1,visualOdometryMonoMex,robil,2,external_repositories,2,92.5,18
+188,33,2,0,0,1,3,9,178,14.5,0,['robil/libviso2/libviso2/matlab/visualOdometryStereoMex.cpp'],1,visualOdometryStereoMex,robil,2,external_repositories,2,94,18
+97,12,1,0,0,0,2,6,97,7,0,['robil/libviso2/libviso2/src/demo.cpp'],0,demo,robil,1,external_repositories,1,97,6
+384,31,15,1,0,0,4.13333333333333,0,53,2.26666666666667,0,"['robil/libviso2/libviso2/src/filter.cpp', 'robil/libviso2/libviso2/src/filter.h']",0,filter,robil,2,external_repositories,15,25.6,0
+0,0,0,1,0,4,0,0,0,0,0,"['robil/libviso2/libviso2/src/matcher.h', 'robil/libviso2/libviso2/src/matcher.cpp']",4,Matcher::range,robil,0,external_repositories,0,0,0
+5,2,2,2,0,12,6,0,4,1,0,"['robil/libviso2/libviso2/src/matcher.h', 'robil/libviso2/libviso2/src/matcher.cpp']",12,Matcher::p_match,robil,2,external_repositories,2,2.5,0
+5,3,2,1,0,1,0.5,0,4,1.5,0,"['robil/libviso2/libviso2/src/matcher.h', 'robil/libviso2/libviso2/src/matcher.cpp']",1,Matcher::delta,robil,2,external_repositories,2,2.5,0
+12,11,1,6,0,10,0,0,12,1,0,"['robil/libviso2/libviso2/src/matcher.h', 'robil/libviso2/libviso2/src/matcher.cpp']",10,Matcher::parameters,robil,1,external_repositories,1,12,0
+1425,101,8,1,0,0,4.5,9,171,8.64285714285714,0,"['robil/libviso2/libviso2/src/matcher.h', 'robil/libviso2/libviso2/src/matcher.cpp']",43,Matcher,robil,28,external_repositories,28,50.8928571428571,252
+2,2,2,0,0,12,2,0,1,1,0,"['robil/libviso2/libviso2/src/matcher.h', 'robil/libviso2/libviso2/src/matcher.cpp']",12,Matcher::maximum,robil,2,external_repositories,2,1,0
+16,1,1,0,0,5,2,0,16,5,0,"['robil/libviso2/libviso2/src/matrix.cpp', 'robil/libviso2/libviso2/src/matrix.h']",5,matrix,robil,1,external_repositories,1,16,0
+2,2,2,1,0,2,1,0,1,1,0,"['robil/libviso2/libviso2/src/reconstruction.h', 'robil/libviso2/libviso2/src/reconstruction.cpp']",2,Reconstruction::point2d,robil,2,external_repositories,2,1,0
+2,2,2,6,0,3,1.5,0,1,1,0,"['robil/libviso2/libviso2/src/reconstruction.h', 'robil/libviso2/libviso2/src/reconstruction.cpp']",3,Reconstruction::point3d,robil,2,external_repositories,2,1,0
+352,67,5,1,0,0,1.92857142857143,7,93,3.78571428571429,0,"['robil/libviso2/libviso2/src/reconstruction.h', 'robil/libviso2/libviso2/src/reconstruction.cpp']",10,Reconstruction,robil,14,external_repositories,14,25.1428571428571,98
+0,0,0,0,0,0,0,0,0,0,0,"['robil/libviso2/libviso2/src/reconstruction.h', 'robil/libviso2/libviso2/src/reconstruction.cpp']",0,reconstruction,robil,0,external_repositories,0,0,0
+0,0,0,7,0,4,0,0,0,0,0,"['robil/libviso2/libviso2/src/reconstruction.h', 'robil/libviso2/libviso2/src/reconstruction.cpp']",4,Reconstruction::track,robil,0,external_repositories,0,0,0
+41,20,6,0,0,0,0.375,0,18,1.25,0,['robil/libviso2/libviso2/src/timer.h'],2,Timer,robil,3,external_repositories,8,5.125,0
+0,0,0,18,0,2,0,0,0,0,0,['robil/libviso2/libviso2/src/triangle.cpp'],2,osub,robil,0,external_repositories,0,0,0
+0,0,0,8,0,14,0,0,0,0,0,['robil/libviso2/libviso2/src/triangle.cpp'],14,memorypool,robil,0,external_repositories,0,0,0
+0,0,0,45,0,38,0,0,0,0,0,['robil/libviso2/libviso2/src/triangle.cpp'],38,behavior,robil,0,external_repositories,0,0,0
+0,0,0,0,0,6,0,0,0,0,0,['robil/libviso2/libviso2/src/triangle.cpp'],6,badtriang,robil,0,external_repositories,0,0,0
+0,0,0,0,0,4,0,0,0,0,0,['robil/libviso2/libviso2/src/triangle.cpp'],4,event,robil,0,external_repositories,0,0,0
+0,0,0,0,0,4,0,0,0,0,0,['robil/libviso2/libviso2/src/triangle.cpp'],4,splaynode,robil,0,external_repositories,0,0,0
+0,0,0,0,0,53,0,0,0,0,0,['robil/libviso2/libviso2/src/triangle.cpp'],53,mesh,robil,0,external_repositories,0,0,0
+0,0,0,1,0,2,0,0,0,0,0,['robil/libviso2/libviso2/src/triangle.cpp'],2,flipstacker,robil,0,external_repositories,0,0,0
+0,0,0,22,0,2,0,0,0,0,0,['robil/libviso2/libviso2/src/triangle.cpp'],2,otri,robil,0,external_repositories,0,0,0
+6077,690,83,3,0,15,3.42168674698795,12,568,8.55421686746988,0,"['robil/libviso2/libviso2/src/triangle.cpp', 'robil/libviso2/libviso2/src/triangle.h']",15,triangle,robil,1,external_repositories,83,73.2168674698795,12
+0,0,0,1,0,3,0,0,0,0,0,['robil/libviso2/libviso2/src/triangle.cpp'],3,badsubseg,robil,0,external_repositories,0,0,0
+0,0,0,3,0,23,0,0,0,0,0,"['robil/libviso2/libviso2/src/triangle.h', 'robil/libviso2/libviso2/src/triangle.cpp']",23,triangulateio,robil,0,external_repositories,0,0,0
+83,34,8,18,0,0,0.5,3,26,1.25,2,"['robil/libviso2/libviso2/src/viso.h', 'robil/libviso2/libviso2/src/viso.cpp']",8,VisualOdometry,robil,3,external_repositories,12,6.91666666666667,9
+5,3,1,9,0,3,0,0,5,1,0,"['robil/libviso2/libviso2/src/viso.h', 'robil/libviso2/libviso2/src/viso.cpp']",3,VisualOdometry::calibration,robil,1,external_repositories,1,5,0
+0,0,0,15,0,3,0,0,0,0,2,"['robil/libviso2/libviso2/src/viso.h', 'robil/libviso2/libviso2/src/viso.cpp']",3,VisualOdometry::parameters,robil,0,external_repositories,0,0,0
+5,4,1,6,0,3,0,0,5,1,0,"['robil/libviso2/libviso2/src/viso.h', 'robil/libviso2/libviso2/src/viso.cpp']",3,VisualOdometry::bucketing,robil,1,external_repositories,1,5,0
+2,3,2,0,0,1,1.5,0,1,1,0,"['robil/libviso2/libviso2/src/viso_mono.h', 'robil/libviso2/libviso2/src/viso_mono.cpp']",1,VisualOdometryMono::idx_cmp,robil,2,external_repositories,2,1,0
+366,64,3,2,1,0,2.6,8,120,4.2,0,"['robil/libviso2/libviso2/src/viso_mono.h', 'robil/libviso2/libviso2/src/viso_mono.cpp']",1,VisualOdometryMono,robil,3,external_repositories,10,36.6,24
+7,6,1,5,1,5,0,0,7,1,0,"['robil/libviso2/libviso2/src/viso_mono.h', 'robil/libviso2/libviso2/src/viso_mono.cpp']",5,VisualOdometryMono::parameters,robil,1,external_repositories,1,7,0
+281,68,3,1,1,0,2.125,8,104,5.75,0,"['robil/libviso2/libviso2/src/viso_stereo.h', 'robil/libviso2/libviso2/src/viso_stereo.cpp']",5,VisualOdometryStereo,robil,3,external_repositories,8,35.125,24
+6,5,1,8,1,4,0,0,6,1,0,"['robil/libviso2/libviso2/src/viso_stereo.h', 'robil/libviso2/libviso2/src/viso_stereo.cpp']",4,VisualOdometryStereo::parameters,robil,1,external_repositories,1,6,0
+15,2,1,0,0,0,2,1,15,2,0,['robil/viso2_ros/src/mono_odometer.cpp'],0,mono_odometer,robil,1,external_repositories,1,15,1
+91,17,1,0,1,0,1.5,5,81,3.5,0,['robil/viso2_ros/src/mono_odometer.cpp'],4,viso2_ros::MonoOdometer,robil,1,external_repositories,2,45.5,5
+170,51,1,6,0,0,0.888888888888889,0,67,1.77777777777778,2,['robil/viso2_ros/src/odometer_base.h'],15,viso2_ros::OdometerBase,robil,1,external_repositories,9,18.8888888888889,0
+102,65,11,2,0,0,2,6,15,1.18181818181818,0,['robil/viso2_ros/src/odometry_params.h'],0,odometry_params,robil,8,external_repositories,11,9.27272727272727,48
+19,2,1,1,0,3,2,1,19,3,0,['robil/viso2_ros/src/stereo_odometer.cpp'],3,stereo_odometer,robil,1,external_repositories,1,19,1
+243,51,1,0,1,0,2.6,8,146,3.8,0,['robil/viso2_ros/src/stereo_odometer.cpp'],10,viso2_ros::StereoOdometer,robil,1,external_repositories,5,48.6,8
+93,32,0,1,0,0,2,0,51,1.4,1,['robil/viso2_ros/src/stereo_processor.h'],13,viso2_ros::StereoProcessor,robil,1,external_repositories,5,18.6,0
+0,0,0,0,0,0,0,0,0,0,0,['robil/viso2_ros/src/stereo_processor.h'],0,stereo_processor,robil,0,external_repositories,0,0,0
