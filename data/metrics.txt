@@ -1,0 +1,16 @@
+Analizo::Metric::AfferentConnections - Afferent Connections per Class (ACC) metric
+Analizo::Metric::AverageCycloComplexity - Average Cyclomatic Complexity per Method (ACCM) metric
+Analizo::Metric::AverageMethodLinesOfCode - Average Method Lines of Code (AMLOC) metric
+Analizo::Metric::AverageNumberOfParameters - Average Number of Parameters (ANPM) metric
+Analizo::Metric::CouplingBetweenObjects - Coupling Between Objects (CBO) metric
+Analizo::Metric::DepthOfInheritanceTree - Depth of Inheritance Tree (DIT) metric
+Analizo::Metric::LackOfCohesionOfMethods - Lack of Cohesion of Methods (LCOM4) metric
+Analizo::Metric::LinesOfCode - Lines of Code (LOC) metric
+Analizo::Metric::NumberOfAttributes - Number of Attributes (NOA) metric
+Analizo::Metric::NumberOfChildren - Number of Children (NOC) metric
+Analizo::Metric::NumberOfMethods - Number of Methods (NOM) metric
+Analizo::Metric::NumberOfPublicAttributes - Number of Public Attributes (NPA) metric
+Analizo::Metric::NumberOfPublicMethods - Number of Public Methods (NPM) metric
+Analizo::Metric::ResponseForClass - Response for Class (RFC) metric
+Analizo::Metric::StructuralComplexity - Structural Complexity (SC) metric
+Analizo::Metrics - reporting project-level and module-level metrics
