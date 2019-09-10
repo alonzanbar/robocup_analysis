@@ -1,0 +1,130 @@
+,agent_type,auc,f1_score,feature_importance,fpr,model,model_name,tpr,type_class,feature rank
+0,agent,0.881207400194742,0.6521739130434783,"RFE(estimator=XGBClassifier(base_score=0.5, booster='gbtree', colsample_bylevel=1,
+       colsample_bytree=1, gamma=0, learning_rate=0.1, max_delta_step=0,
+       max_depth=3, min_child_weight=1, missing=nan, n_estimators=100,
+       n_jobs=1, nthread=None, objective='binary:logistic', random_state=0,
+       reg_alpha=0, reg_lambda=1, scale_pos_weight=1, seed=None,
+       silent=True, subsample=1),
+  n_features_to_select=4, step=1, verbose=0)","[0.         0.01265823 0.44303797 0.44303797 0.59493671 0.59493671
+ 0.69620253 0.69620253 0.78481013 0.78481013 0.83544304 0.83544304
+ 0.87341772 0.87341772 0.89873418 0.89873418 0.93670886 0.93670886
+ 0.96202532 0.96202532 0.97468354 0.97468354 0.98734177 0.98734177
+ 1.         1.         1.        ]","XGBClassifier(base_score=0.5, booster='gbtree', colsample_bylevel=1,
+       colsample_bytree=1, gamma=0, learning_rate=0.1, max_delta_step=0,
+       max_depth=3, min_child_weight=1, missing=nan, n_estimators=100,
+       n_jobs=1, nthread=None, objective='binary:logistic', random_state=0,
+       reg_alpha=0, reg_lambda=1, scale_pos_weight=1, seed=None,
+       silent=True, subsample=1)",Boosted Trees,"[0.         0.         0.         0.03846154 0.03846154 0.11538462
+ 0.11538462 0.15384615 0.15384615 0.23076923 0.23076923 0.30769231
+ 0.30769231 0.38461538 0.38461538 0.42307692 0.42307692 0.5
+ 0.5        0.61538462 0.61538462 0.69230769 0.69230769 0.73076923
+ 0.73076923 0.80769231 1.        ]",agent,"['analizo_accm_mean', 'analizo_dit_mean', 'analizo_mmloc_mean', 'analizo_rfc_mean', 'analizo_anpm_mean', 'analizo_noa_mean', 'analizo_cbo_mean', 'analizo_nom_mean', 'analizo_npa_mean', 'analizo_amloc_mean', 'analizo_noc_mean', 'analizo_lcom4_mean', 'analizo_acc_mean', 'analizo_npm_mean', 'analizo_sc_mean']"
+1,Robot,1.0,0.8,"RFE(estimator=XGBClassifier(base_score=0.5, booster='gbtree', colsample_bylevel=1,
+       colsample_bytree=1, gamma=0, learning_rate=0.1, max_delta_step=0,
+       max_depth=3, min_child_weight=1, missing=nan, n_estimators=100,
+       n_jobs=1, nthread=None, objective='binary:logistic', random_state=0,
+       reg_alpha=0, reg_lambda=1, scale_pos_weight=1, seed=None,
+       silent=True, subsample=1),
+  n_features_to_select=4, step=1, verbose=0)",[0.         0.00980392 1.         1.        ],"XGBClassifier(base_score=0.5, booster='gbtree', colsample_bylevel=1,
+       colsample_bytree=1, gamma=0, learning_rate=0.1, max_delta_step=0,
+       max_depth=3, min_child_weight=1, missing=nan, n_estimators=100,
+       n_jobs=1, nthread=None, objective='binary:logistic', random_state=0,
+       reg_alpha=0, reg_lambda=1, scale_pos_weight=1, seed=None,
+       silent=True, subsample=1)",Boosted Trees,[0. 0. 0. 1.],Robot,"['analizo_anpm_mean', 'analizo_cbo_mean', 'analizo_noc_mean', 'analizo_npa_mean', 'analizo_rfc_mean', 'analizo_nom_mean', 'analizo_lcom4_mean', 'analizo_accm_mean', 'analizo_mmloc_mean', 'analizo_noa_mean', 'analizo_acc_mean', 'analizo_npm_mean', 'analizo_sc_mean', 'analizo_amloc_mean', 'analizo_dit_mean']"
+2,non-agent,0.8489110707803993,0.8903225806451613,"RFE(estimator=XGBClassifier(base_score=0.5, booster='gbtree', colsample_bylevel=1,
+       colsample_bytree=1, gamma=0, learning_rate=0.1, max_delta_step=0,
+       max_depth=3, min_child_weight=1, missing=nan, n_estimators=100,
+       n_jobs=1, nthread=None, objective='binary:logistic', random_state=0,
+       reg_alpha=0, reg_lambda=1, scale_pos_weight=1, seed=None,
+       silent=True, subsample=1),
+  n_features_to_select=4, step=1, verbose=0)","[0.         0.03448276 0.17241379 0.24137931 0.37931034 0.37931034
+ 0.4137931  0.4137931  0.44827586 0.44827586 0.55172414 0.55172414
+ 0.65517241 0.65517241 0.68965517 0.68965517 0.72413793 0.72413793
+ 0.75862069 0.75862069 0.82758621 0.82758621 0.86206897 0.86206897
+ 0.89655172 0.89655172 0.93103448 0.93103448 0.96551724 0.96551724
+ 1.         1.        ]","XGBClassifier(base_score=0.5, booster='gbtree', colsample_bylevel=1,
+       colsample_bytree=1, gamma=0, learning_rate=0.1, max_delta_step=0,
+       max_depth=3, min_child_weight=1, missing=nan, n_estimators=100,
+       n_jobs=1, nthread=None, objective='binary:logistic', random_state=0,
+       reg_alpha=0, reg_lambda=1, scale_pos_weight=1, seed=None,
+       silent=True, subsample=1)",Boosted Trees,"[0.         0.         0.         0.         0.         0.01315789
+ 0.01315789 0.02631579 0.02631579 0.03947368 0.03947368 0.05263158
+ 0.05263158 0.10526316 0.10526316 0.17105263 0.17105263 0.25
+ 0.25       0.28947368 0.28947368 0.38157895 0.38157895 0.47368421
+ 0.47368421 0.57894737 0.57894737 0.69736842 0.69736842 0.82894737
+ 0.82894737 1.        ]",non-agent,"['analizo_accm_mean', 'analizo_anpm_mean', 'analizo_cbo_mean', 'analizo_dit_mean', 'analizo_nom_mean', 'analizo_noa_mean', 'analizo_npm_mean', 'analizo_rfc_mean', 'analizo_lcom4_mean', 'analizo_sc_mean', 'analizo_npa_mean', 'analizo_amloc_mean', 'analizo_noc_mean', 'analizo_acc_mean', 'analizo_mmloc_mean']"
+3,agent,,0.42105263157894735,"RFE(estimator=SGDClassifier(alpha=0.0001, average=False, class_weight=None,
+       early_stopping=False, epsilon=0.1, eta0=0.0, fit_intercept=True,
+       l1_ratio=0.15, learning_rate='optimal', loss='hinge',
+       max_iter=10000, n_iter=None, n_iter_no_change=5, n_jobs=None,
+       penalty='l2', power_t=0.5, random_state=None, shuffle=True,
+       tol=None, validation_fraction=0.1, verbose=0, warm_start=False),
+  n_features_to_select=4, step=1, verbose=0)",,"SGDClassifier(alpha=0.0001, average=False, class_weight=None,
+       early_stopping=False, epsilon=0.1, eta0=0.0, fit_intercept=True,
+       l1_ratio=0.15, learning_rate='optimal', loss='hinge',
+       max_iter=10000, n_iter=None, n_iter_no_change=5, n_jobs=None,
+       penalty='l2', power_t=0.5, random_state=None, shuffle=True,
+       tol=None, validation_fraction=0.1, verbose=0, warm_start=False)",SGD,,agent,"['analizo_accm_mean', 'analizo_dit_mean', 'analizo_lcom4_mean', 'analizo_noc_mean', 'analizo_anpm_mean', 'analizo_npm_mean', 'analizo_nom_mean', 'analizo_acc_mean', 'analizo_npa_mean', 'analizo_sc_mean', 'analizo_noa_mean', 'analizo_cbo_mean', 'analizo_rfc_mean', 'analizo_amloc_mean', 'analizo_mmloc_mean']"
+4,Robot,,0.0,"RFE(estimator=SGDClassifier(alpha=0.0001, average=False, class_weight=None,
+       early_stopping=False, epsilon=0.1, eta0=0.0, fit_intercept=True,
+       l1_ratio=0.15, learning_rate='optimal', loss='hinge',
+       max_iter=10000, n_iter=None, n_iter_no_change=5, n_jobs=None,
+       penalty='l2', power_t=0.5, random_state=None, shuffle=True,
+       tol=None, validation_fraction=0.1, verbose=0, warm_start=False),
+  n_features_to_select=4, step=1, verbose=0)",,"SGDClassifier(alpha=0.0001, average=False, class_weight=None,
+       early_stopping=False, epsilon=0.1, eta0=0.0, fit_intercept=True,
+       l1_ratio=0.15, learning_rate='optimal', loss='hinge',
+       max_iter=10000, n_iter=None, n_iter_no_change=5, n_jobs=None,
+       penalty='l2', power_t=0.5, random_state=None, shuffle=True,
+       tol=None, validation_fraction=0.1, verbose=0, warm_start=False)",SGD,,Robot,"['analizo_anpm_mean', 'analizo_cbo_mean', 'analizo_noc_mean', 'analizo_nom_mean', 'analizo_acc_mean', 'analizo_lcom4_mean', 'analizo_dit_mean', 'analizo_npm_mean', 'analizo_accm_mean', 'analizo_rfc_mean', 'analizo_npa_mean', 'analizo_noa_mean', 'analizo_amloc_mean', 'analizo_sc_mean', 'analizo_mmloc_mean']"
+5,non-agent,,0.8374999999999999,"RFE(estimator=SGDClassifier(alpha=0.0001, average=False, class_weight=None,
+       early_stopping=False, epsilon=0.1, eta0=0.0, fit_intercept=True,
+       l1_ratio=0.15, learning_rate='optimal', loss='hinge',
+       max_iter=10000, n_iter=None, n_iter_no_change=5, n_jobs=None,
+       penalty='l2', power_t=0.5, random_state=None, shuffle=True,
+       tol=None, validation_fraction=0.1, verbose=0, warm_start=False),
+  n_features_to_select=4, step=1, verbose=0)",,"SGDClassifier(alpha=0.0001, average=False, class_weight=None,
+       early_stopping=False, epsilon=0.1, eta0=0.0, fit_intercept=True,
+       l1_ratio=0.15, learning_rate='optimal', loss='hinge',
+       max_iter=10000, n_iter=None, n_iter_no_change=5, n_jobs=None,
+       penalty='l2', power_t=0.5, random_state=None, shuffle=True,
+       tol=None, validation_fraction=0.1, verbose=0, warm_start=False)",SGD,,non-agent,"['analizo_acc_mean', 'analizo_accm_mean', 'analizo_dit_mean', 'analizo_noc_mean', 'analizo_anpm_mean', 'analizo_nom_mean', 'analizo_npm_mean', 'analizo_lcom4_mean', 'analizo_noa_mean', 'analizo_sc_mean', 'analizo_npa_mean', 'analizo_cbo_mean', 'analizo_amloc_mean', 'analizo_rfc_mean', 'analizo_mmloc_mean']"
+6,agent,0.8219954648526078,0.5263157894736842,"RFE(estimator=LogisticRegression(C=1.0, class_weight=None, dual=False, fit_intercept=True,
+          intercept_scaling=1, max_iter=100, multi_class='warn',
+          n_jobs=None, penalty='l2', random_state=None, solver='warn',
+          tol=0.0001, verbose=0, warm_start=False),
+  n_features_to_select=4, step=1, verbose=0)","[0.         0.01190476 0.03571429 0.03571429 0.30952381 0.30952381
+ 0.51190476 0.51190476 0.72619048 0.72619048 0.75       0.75
+ 0.8452381  0.8452381  0.9047619  0.9047619  0.91666667 0.91666667
+ 0.92857143 0.92857143 0.95238095 0.95238095 0.96428571 0.96428571
+ 0.97619048 0.97619048 0.98809524 0.98809524 1.        ]","LogisticRegression(C=1.0, class_weight=None, dual=False, fit_intercept=True,
+          intercept_scaling=1, max_iter=100, multi_class='warn',
+          n_jobs=None, penalty='l2', random_state=None, solver='warn',
+          tol=0.0001, verbose=0, warm_start=False)",Logistic Regression,"[0.         0.         0.         0.04761905 0.04761905 0.0952381
+ 0.0952381  0.14285714 0.14285714 0.19047619 0.19047619 0.23809524
+ 0.23809524 0.28571429 0.28571429 0.33333333 0.33333333 0.57142857
+ 0.57142857 0.66666667 0.66666667 0.85714286 0.85714286 0.9047619
+ 0.9047619  0.95238095 0.95238095 1.         1.        ]",agent,"['analizo_acc_mean', 'analizo_accm_mean', 'analizo_dit_mean', 'analizo_noc_mean', 'analizo_npm_mean', 'analizo_nom_mean', 'analizo_lcom4_mean', 'analizo_cbo_mean', 'analizo_anpm_mean', 'analizo_npa_mean', 'analizo_sc_mean', 'analizo_noa_mean', 'analizo_rfc_mean', 'analizo_amloc_mean', 'analizo_mmloc_mean']"
+7,Robot,0.6862745098039216,0.0,"RFE(estimator=LogisticRegression(C=1.0, class_weight=None, dual=False, fit_intercept=True,
+          intercept_scaling=1, max_iter=100, multi_class='warn',
+          n_jobs=None, penalty='l2', random_state=None, solver='warn',
+          tol=0.0001, verbose=0, warm_start=False),
+  n_features_to_select=4, step=1, verbose=0)","[0.         0.00980392 0.16666667 0.16666667 0.56862745 0.58823529
+ 0.90196078 0.90196078 0.99019608 0.99019608 1.        ]","LogisticRegression(C=1.0, class_weight=None, dual=False, fit_intercept=True,
+          intercept_scaling=1, max_iter=100, multi_class='warn',
+          n_jobs=None, penalty='l2', random_state=None, solver='warn',
+          tol=0.0001, verbose=0, warm_start=False)",Logistic Regression,"[0.         0.         0.         0.33333333 0.33333333 0.33333333
+ 0.33333333 0.66666667 0.66666667 1.         1.        ]",Robot,"['analizo_cbo_mean', 'analizo_dit_mean', 'analizo_noc_mean', 'analizo_nom_mean', 'analizo_lcom4_mean', 'analizo_anpm_mean', 'analizo_acc_mean', 'analizo_accm_mean', 'analizo_npm_mean', 'analizo_npa_mean', 'analizo_noa_mean', 'analizo_sc_mean', 'analizo_rfc_mean', 'analizo_amloc_mean', 'analizo_mmloc_mean']"
+8,non-agent,0.786470588235294,0.8850574712643678,"RFE(estimator=LogisticRegression(C=1.0, class_weight=None, dual=False, fit_intercept=True,
+          intercept_scaling=1, max_iter=100, multi_class='warn',
+          n_jobs=None, penalty='l2', random_state=None, solver='warn',
+          tol=0.0001, verbose=0, warm_start=False),
+  n_features_to_select=4, step=1, verbose=0)","[0.   0.   0.1  0.1  0.2  0.2  0.35 0.35 0.4  0.4  0.5  0.5  0.6  0.6
+ 0.65 0.65 0.7  0.7  0.75 0.75 0.8  0.8  0.9  0.9  0.95 0.95 1.   1.  ]","LogisticRegression(C=1.0, class_weight=None, dual=False, fit_intercept=True,
+          intercept_scaling=1, max_iter=100, multi_class='warn',
+          n_jobs=None, penalty='l2', random_state=None, solver='warn',
+          tol=0.0001, verbose=0, warm_start=False)",Logistic Regression,"[0.         0.01176471 0.01176471 0.04705882 0.04705882 0.05882353
+ 0.05882353 0.09411765 0.09411765 0.10588235 0.10588235 0.11764706
+ 0.11764706 0.16470588 0.16470588 0.22352941 0.22352941 0.32941176
+ 0.32941176 0.34117647 0.34117647 0.49411765 0.49411765 0.68235294
+ 0.68235294 0.70588235 0.70588235 1.        ]",non-agent,"['analizo_acc_mean', 'analizo_accm_mean', 'analizo_dit_mean', 'analizo_noc_mean', 'analizo_npm_mean', 'analizo_nom_mean', 'analizo_lcom4_mean', 'analizo_npa_mean', 'analizo_anpm_mean', 'analizo_noa_mean', 'analizo_amloc_mean', 'analizo_sc_mean', 'analizo_cbo_mean', 'analizo_rfc_mean', 'analizo_mmloc_mean']"
