@@ -1,13 +1,6 @@
-*.
 .DS_Store
 .idea/
 .ipynb_checkpoints/
-external/.DS_Store
-external/output/.DS_Store
 external/training.pyc
-fig_without_chatbot/.DS_Store
-internal/.DS_Store
 internal/correlation.pyc
-internal/output/.DS_Store
-internal/output_figures/.DS_Store
-internal/output_figures/.ipynb_checkpoints/
+
