@@ -242,7 +242,7 @@
 139,WorldCup,czu2d,2007,,both
 219,WorldCup,fcp2d,2007,fcportugal2007,both
 66,WorldCup,HELIOS_rc2007_bin,2007,helios2007,both
-249,WorldCup,kotug,2007,,left_only
+249,WorldCup,kotug,2007,kickofftug,left_only
 125,WorldCup,ncl,2007,ncl07,both
 108,WorldCup,nemesis,2007,,both
 129,WorldCup,Oxsy_rc2007_bin,2007,,both
@@ -318,7 +318,7 @@
 424,JapanOpens,RaiC09RCJO,2009,,both
 91,JapanOpens,Ri-one_JapanOpen2009,2009,,both
 451,JapanOpens,tsubamegaeshi-fcpita-all,2009,,both
-28,PRIMA,BKB_PRIMA2009,2009,,left_only
+28,PRIMA,BKB_PRIMA2009,2009,bears,left_only
 205,PRIMA,Fifty-Storms,2009,,both
 162,PRIMA,hillstone_u,2009,,both
 221,PRIMA,opuCI_2D_PRIMA2009,2009,,both
@@ -438,7 +438,7 @@
 149,WorldCup,gliders2012,2012,,both
 422,WorldCup,gpr-2d,2012,,both
 62,WorldCup,itandroids,2012,,both
-87,WorldCup,marlik,2012,,left_only
+87,WorldCup,marlik,2012,mariik,left_only
 298,WorldCup,nadco-2d,2012,,both
 291,WorldCup,oxsy,2012,,both
 459,WorldCup,ri-one,2012,,both

@@ -11,7 +11,7 @@
 185,WorldCup,ATH_98,1998,,left_only,
 494,WorldCup,CMUnited98-source,1998,,left_only,
 506,WorldCup,Kappa_v0,1998,,left_only,True
-68,WorldCup,andhill98,1998,,left_only,Trueconfig=Config(signature_version=UNSIGNED)
+68,WorldCup,andhill98,1998,,left_only,True
 147,WorldCup,ath97,1998,,left_only,True
 24,WorldCup,samba98,1998,,left_only,
 345,WorldCup,11monkeys-linux,1999,,left_only,
@@ -229,7 +229,7 @@
 214,WorldCup,fcp2d,2007,fcportugal2007,both,
 466,AutumnCamp,helios-ac2007,2007,,both,
 53,JapanOpens,helios_jo2007,2007,helios2007,both,
-244,WorldCup,kotug,2007,,left_only,True
+244,WorldCup,kotug,2007,kickofftug,both,True
 122,WorldCup,ncl,2007,ncl07,both,
 105,WorldCup,nemesis,2007,,both,
 313,JapanOpens,nopporoes07_jo2007,2007,,both,
@@ -286,7 +286,7 @@
 489,JapanOpens,puppets-JapanOpen2008,2008,,both,True
 318,JapanOpens,puppets-jopen08-linux,2008,,both,
 56,JapanOpens,BIG_KUBO_BEARS,2009,,both,True
-27,PRIMA,BKB_PRIMA2009,2009,,left_only,True
+27,PRIMA,BKB_PRIMA2009,2009,bears,both,True
 407,JapanOpens,Emis-L,2009,,left_only,
 200,PRIMA,Fifty-Storms,2009,,both,
 447,JapanOpens,Fifty-Storms_RCJO09,2009,storms09,both,True
@@ -425,7 +425,7 @@
 129,ChinaOpens,hfuu-mt,2012,,left_only,
 61,WorldCup,itandroids,2012,,both,
 349,ChinaOpens,lntu_taac2012,2012,,both,True
-85,WorldCup,marlik,2012,,left_only,True
+85,WorldCup,marlik,2012,mariik,both,True
 183,ChinaOpens,miracle2012,2012,,both,True
 293,WorldCup,nadco-2d,2012,,both,
 286,WorldCup,oxsy,2012,,both,
